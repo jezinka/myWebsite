@@ -32,25 +32,51 @@ function monthDays(entry) {
     return dates;
 }
 
+function coverUrl(entry) {
+    return typeof entry.coverUrl === "string" && (/^https:\/\//.test(entry.coverUrl) || /^data\/medialog-covers\/[^/]+$/.test(entry.coverUrl))
+        ? entry.coverUrl : null;
+}
+
+function iconUrl(icon) {
+    return typeof icon === "string" && /^\/icons\/[^/]+\.png$/.test(icon) ? icon : null;
+}
+
 function marker(entry, day) {
     const button = document.createElement("button");
     const card = document.createElement("span");
     const cardId = `event-${entry.id}-${day}`;
     const icon = entry.icon || icons[entry.kind];
     const color = entry.kind === "sport" && CSS.supports("color", entry.color) ? entry.color : colors[entry.kind];
+    const cover = coverUrl(entry);
+    const iconSource = iconUrl(icon);
 
     button.type = "button";
-    button.className = entry.kind === "sport" ? "marker marker--sport" : "marker";
+    button.className = entry.kind === "sport" ? "marker marker--sport" : "marker marker--media";
     button.style.setProperty("--marker-color", color);
+    if (entry.kind === "sport" && iconSource) {
+        const image = document.createElement("img");
+        image.className = "sport-icon";
+        image.src = iconSource;
+        image.alt = "";
+        button.append(image);
+    } else if (entry.kind === "sport") button.textContent = icon;
+    if (cover && entry.kind !== "sport") {
+        const image = document.createElement("img");
+        image.className = "marker-cover";
+        image.src = cover;
+        image.alt = "";
+        image.loading = "lazy";
+        button.append(image);
+    }
     button.setAttribute("aria-label", `${entry.kind === "reading" ? "Czytam" : entry.kind === "watching" ? "Oglądam" : "Sport"}: ${entry.title}`);
     button.setAttribute("aria-describedby", cardId);
     button.setAttribute("aria-expanded", "false");
     card.className = "card";
     card.id = cardId;
     card.setAttribute("role", "tooltip");
-    if (typeof entry.coverUrl === "string" && (/^https:\/\//.test(entry.coverUrl) || /^data\/medialog-covers\/[^/]+$/.test(entry.coverUrl))) {
+    if (cover) {
         const image = document.createElement("img");
-        image.src = entry.coverUrl;
+        image.src = cover;
         image.alt = "";
         image.loading = "lazy";
         card.append(image);
@@ -111,7 +137,9 @@ function render(entries) {
         const preferred = monthDays(entry)[0];
         const day = available.reduce((closest, candidate) => Math.abs(candidate - preferred) < Math.abs(closest - preferred) ? candidate : closest);
         slot.add(day);
-        cells.get(day).append(marker(entry, day));
+        const cell = cells.get(day);
+        cell.classList.add("has-item");
+        cell.append(marker(entry, day));
     });
 }
 
