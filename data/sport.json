@@ -2,12 +2,13 @@
   "schemaVersion": 1,
   "source": "sport",
   "month": "2026-10",
-  "generatedAt": "2026-10-15T15:30:12.111Z",
+  "generatedAt": "2026-10-15T15:40:14.333Z",
   "items": [
     {
       "id": "sport:activity:gps_1790864739000",
       "title": "Rolki",
       "kind": "sport",
+      "icon": "🛼",
       "periods": [
         {
           "startDate": "2026-10-01",
@@ -19,6 +20,7 @@
       "id": "sport:activity:gps_1791298054000",
       "title": "Rolki",
       "kind": "sport",
+      "icon": "🛼",
       "periods": [
         {
           "startDate": "2026-10-06",
@@ -30,6 +32,7 @@
       "id": "sport:activity:fit_1791385372000",
       "title": "Joga",
       "kind": "sport",
+      "icon": "🧘",
       "periods": [
         {
           "startDate": "2026-10-07",
