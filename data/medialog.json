@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "entries": [
+    {
+      "id": "x-files",
+      "title": "Z Archiwum X",
+      "kind": "watching",
+      "coverUrl": "data/medialog-covers/a2cae2a543de097aeee4e107f240f4c5.jpg",
+      "periods": [{ "startDate": "2026-10-01", "endDate": "2026-10-01" }]
+    },
+    {
+      "id": "obietnica-dla-zmarlej",
+      "title": "Obietnica dla Zmarłej",
+      "kind": "reading",
+      "coverUrl": "data/medialog-covers/2cd4db7974ac6bf60a13eea305d04c67.jpg",
+      "periods": [{ "startDate": "2026-10-02", "endDate": "2026-10-02" }]
+    },
+    {
+      "id": "banshee-1",
+      "title": "Banshee",
+      "kind": "watching",
+      "coverUrl": "data/medialog-covers/e6a40df9836ea468a01abd19a669a032.jpg",
+      "periods": [{ "startDate": "2026-10-04", "endDate": "2026-10-04" }]
+    },
+    {
+      "id": "gownowacenie",
+      "title": "Gównowacenie. Jak cyfrowi giganci zmieniają nasz świat na gorsze",
+      "kind": "reading",
+      "coverUrl": "data/medialog-covers/f9d671e9bb28f288db15b3eef5c7e5f1.jpg",
+      "periods": [{ "startDate": "2026-10-05", "endDate": "2026-10-05" }]
+    },
+    {
+      "id": "banshee-2",
+      "title": "Banshee",
+      "kind": "watching",
+      "coverUrl": "data/medialog-covers/d237e52d61f72b8402a9562c8928099d.jpg",
+      "periods": [{ "startDate": "2026-10-07", "endDate": "2026-10-07" }]
+    }
+  ]
+}
