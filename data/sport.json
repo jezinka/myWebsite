@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "source": "sport",
   "month": "2026-10",
-  "generatedAt": "2026-10-15T15:40:14.333Z",
+  "generatedAt": "2026-10-15T15:42:58.664Z",
   "items": [
     {
       "id": "sport:activity:gps_1790864739000",
@@ -37,6 +37,18 @@
         {
           "startDate": "2026-10-07",
           "endDate": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:fit_1791990284000",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "🧘",
+      "periods": [
+        {
+          "startDate": "2026-10-14",
+          "endDate": "2026-10-14"
         }
       ]
     }
