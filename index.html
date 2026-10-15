@@ -9,18 +9,14 @@
 </head>
 <body>
 <main>
-    <h1><span>H</span>ELLO WORLD<span>!</span></h1>
     <section aria-labelledby="calendar-title">
         <div class="calendar-header">
             <h2 id="calendar-title"></h2>
         </div>
-        <p class="legend" aria-label="Legenda">
-            <span style="--color: #2563eb">czytam</span>
-            <span style="--color: #dc2626">oglądam</span>
-            <span style="--color: #16a34a">sport</span>
-        </p>
         <p id="calendar-status" role="status"></p>
-        <div class="weekdays" aria-hidden="true"><span>Pn</span><span>Wt</span><span>Śr</span><span>Cz</span><span>Pt</span><span>Sb</span><span>Nd</span></div>
+        <div class="weekdays" aria-hidden="true">
+            <span>Pn</span><span>Wt</span><span>Śr</span><span>Cz</span><span>Pt</span><span>Sb</span><span>Nd</span>
+        </div>
         <div id="calendar" class="calendar-grid" aria-label="Kalendarz bieżącego miesiąca"></div>
     </section>
 </main>
