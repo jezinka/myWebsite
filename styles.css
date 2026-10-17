@@ -1,5 +1,5 @@
 :root { font-family: system-ui, sans-serif; color: #1f2937; }
-body { margin: 0; background: #f9fafb; }
+body { margin: 0; background: #f9fafb; display: flex; align-items: flex-start; }
 main { width: min(100% - 2rem, 760px); margin: 2rem auto; }
 h1 { color: blue; }
 h1 span { color: red; }
@@ -40,7 +40,6 @@ h1 span { color: red; }
     main { width: min(100% - 1rem, 760px); margin: 1rem auto; }
     .card { width: min(12rem, 80vw); }
 }
-.page-nav { margin: 0 0 1rem; font-size: .875rem; }
 .year-main { width: min(100% - 1rem, 1544px); margin: 1rem auto; }
 /* 3 months per row from ~1350px wide (laptop), fewer when narrower. */
 .year-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 420px), 1fr)); gap: 1.5rem; margin-top: 1rem; }
@@ -50,3 +49,14 @@ h1 span { color: red; }
 .social a { display: flex; color: #4b5563; }
 .social a:hover, .social a:focus-visible { color: #1f2937; }
 .social svg { width: 22px; height: 22px; fill: currentColor; }
+.sidebar { position: sticky; top: 0; flex: none; width: 180px; min-height: 100vh; padding: 2rem 1rem; box-sizing: border-box; background: #fff; border-right: 1px solid #e5e7eb; }
+.sidebar nav { display: flex; flex-direction: column; gap: .25rem; }
+.sidebar a { padding: .4rem .6rem; border-radius: 6px; color: #374151; text-decoration: none; font-size: .9rem; }
+.sidebar a:hover { background: #f3f4f6; }
+.sidebar a[aria-current="page"] { background: #e5e7eb; font-weight: 600; }
+main { min-width: 0; }
+@media (max-width: 700px) {
+    body { flex-direction: column; align-items: stretch; }
+    .sidebar { position: static; width: auto; min-height: 0; padding: .5rem; border-right: 0; border-bottom: 1px solid #e5e7eb; }
+    .sidebar nav { flex-direction: row; }
+}

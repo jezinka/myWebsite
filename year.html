@@ -17,6 +17,12 @@
     gtag('config', 'G-7TXQRHP2LP');
 </script>
 <body>
+<aside class="sidebar">
+    <nav aria-label="Strony">
+        <a href="index.html">Bieżący miesiąc</a>
+        <a href="year.html" aria-current="page">Cały rok</a>
+    </nav>
+</aside>
 <main class="year-main">
     <section aria-labelledby="calendar-title">
         <div class="calendar-header">
@@ -28,7 +34,6 @@
                 <a href="#" aria-label="E-mail" title="E-mail" onclick="this.href='mailto:'+['kontakt','paulinakaczmarek.pl'].join('@')"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M2 4h20a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1Zm10 8.6L3 6.8V18h18V6.8l-9 5.8ZM3.6 6l8.4 5.4L20.4 6H3.6Z"/></svg></a>
             </nav>
         </div>
-        <p class="page-nav"><a href="index.html">← Bieżący miesiąc</a></p>
         <p id="calendar-status" role="status"></p>
         <div id="year-calendar" class="year-grid" aria-label="Kalendarz bieżącego roku"></div>
     </section>
