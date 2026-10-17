@@ -35,3 +35,8 @@ h1 span { color: red; }
     main { width: min(100% - 1rem, 760px); margin: 1rem auto; }
     .card { width: min(12rem, 80vw); }
 }
+.page-nav { margin: 0 0 1rem; font-size: .875rem; }
+.year-main { width: min(100% - 2rem, 1200px); }
+.year-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1.5rem; margin-top: 1rem; }
+.year-month h3 { margin: 0; text-transform: capitalize; }
+@media (max-width: 600px) { .year-grid { grid-template-columns: 1fr; } }

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Paulina Kaczmarek</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="calendar.js" defer></script>
+</head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7TXQRHP2LP"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-7TXQRHP2LP');
+</script>
+<body>
+<main class="year-main">
+    <section aria-labelledby="calendar-title">
+        <div class="calendar-header">
+            <h2 id="calendar-title"></h2>
+        </div>
+        <p class="page-nav"><a href="index.html">← Bieżący miesiąc</a></p>
+        <p id="calendar-status" role="status"></p>
+        <div id="year-calendar" class="year-grid" aria-label="Kalendarz bieżącego roku"></div>
+    </section>
+</main>
+</body>
+</html>

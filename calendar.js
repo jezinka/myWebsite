@@ -1,15 +1,11 @@
 const calendar = document.querySelector("#calendar");
+const yearCalendar = document.querySelector("#year-calendar");
 const status = document.querySelector("#calendar-status");
 const title = document.querySelector("#calendar-title");
 const today = new Date();
 const year = today.getFullYear();
-const month = today.getMonth();
-const daysInMonth = new Date(year, month + 1, 0).getDate();
-const monthLabel = new Intl.DateTimeFormat("pl-PL", { month: "long", year: "numeric" }).format(today);
 const colors = { reading: "#2563eb", watching: "#dc2626", sport: "#16a34a" };
 const icons = { reading: "📖", watching: "📺", sport: "🏃" };
-
-title.textContent = monthLabel;
 
 function validDate(value) {
     if (!/^\d{4}-\d{2}-\d{2}$/.test(value)) return false;
@@ -23,13 +19,15 @@ function validEntry(entry) {
         && entry.periods.some(period => period && validDate(period.startDate) && validDate(period.endDate) && period.startDate <= period.endDate);
 }
 
-function monthDays(entry) {
-    const dates = [];
-    for (let day = 1; day <= daysInMonth; day += 1) {
-        const date = `${year}-${String(month + 1).padStart(2, "0")}-${String(day).padStart(2, "0")}`;
-        if (entry.periods.some(period => period && validDate(period.startDate) && validDate(period.endDate) && period.startDate <= date && date <= period.endDate)) dates.push(day);
-    }
-    return dates;
+function isoDate(month, day) {
+    return `${year}-${String(month + 1).padStart(2, "0")}-${String(day).padStart(2, "0")}`;
+}
+
+function firstDate(entry, start, end) {
+    return entry.periods
+        .filter(period => period && validDate(period.startDate) && validDate(period.endDate) && period.startDate <= end && start <= period.endDate)
+        .map(period => period.startDate < start ? start : period.startDate)
+        .sort()[0];
 }
 
 function coverUrl(entry) {
@@ -41,10 +39,10 @@ function iconUrl(icon) {
     return typeof icon === "string" && /^\/icons\/[^/]+\.png$/.test(icon) ? icon : null;
 }
 
-function marker(entry, day) {
+function marker(entry, date) {
     const button = document.createElement("button");
     const card = document.createElement("span");
-    const cardId = `event-${entry.id}-${day}`;
+    const cardId = `event-${entry.id}-${date}`;
     const icon = entry.icon || icons[entry.kind];
     const color = entry.kind === "sport" && CSS.supports("color", entry.color) ? entry.color : colors[entry.kind];
     const cover = coverUrl(entry);
@@ -109,8 +107,8 @@ function marker(entry, day) {
     return button;
 }
 
-function render(entries) {
-    const cells = new Map();
+function renderMonth(calendar, month, cells) {
+    const daysInMonth = new Date(year, month + 1, 0).getDate();
     const offset = (new Date(year, month, 1).getDay() + 6) % 7;
     for (let index = 0; index < offset; index += 1) {
         const blank = document.createElement("div");
@@ -126,25 +124,52 @@ function render(entries) {
         number.textContent = day;
         cell.append(number);
         calendar.append(cell);
-        cells.set(day, cell);
+        cells.set(isoDate(month, day), cell);
     }
+}
 
+// Like MediaLog: each entry once, on its first day in the range; if taken, the first free day after it.
+function place(entries, cells) {
+    const dates = [...cells.keys()];
     const occupied = { media: new Set(), sport: new Set() };
-    entries.forEach(entry => {
-        const slot = entry.kind === "sport" ? occupied.sport : occupied.media;
-        const available = monthDays(entry).filter(day => !slot.has(day));
-        if (!available.length) return;
-        const preferred = monthDays(entry)[0];
-        const day = available.reduce((closest, candidate) => Math.abs(candidate - preferred) < Math.abs(closest - preferred) ? candidate : closest);
-        slot.add(day);
-        const cell = cells.get(day);
-        cell.classList.add("has-item");
-        cell.append(marker(entry, day));
-    });
+    entries
+        .map(entry => ({ entry, first: firstDate(entry, dates[0], dates.at(-1)) }))
+        .filter(item => item.first)
+        .sort((a, b) => a.first.localeCompare(b.first))
+        .forEach(({ entry, first }) => {
+            const slot = entry.kind === "sport" ? occupied.sport : occupied.media;
+            // ponytail: linear scan per entry, fine for 366 days
+            const date = dates.slice(dates.indexOf(first)).find(candidate => !slot.has(candidate));
+            if (!date) return;
+            slot.add(date);
+            const cell = cells.get(date);
+            cell.classList.add("has-item");
+            cell.append(marker(entry, date));
+        });
+}
+
+function monthSection(month) {
+    const section = document.createElement("section");
+    const heading = document.createElement("h3");
+    const weekdays = document.createElement("div");
+    const grid = document.createElement("div");
+    section.className = "year-month";
+    heading.textContent = new Intl.DateTimeFormat("pl-PL", { month: "long" }).format(new Date(year, month, 1));
+    weekdays.className = "weekdays";
+    weekdays.setAttribute("aria-hidden", "true");
+    ["Pn", "Wt", "Śr", "Cz", "Pt", "Sb", "Nd"].forEach(name => weekdays.append(Object.assign(document.createElement("span"), { textContent: name })));
+    grid.className = "calendar-grid";
+    grid.setAttribute("aria-label", heading.textContent);
+    section.append(heading, weekdays, grid);
+    yearCalendar.append(section);
+    return grid;
 }
 
 async function loadCalendar() {
-    const sources = await Promise.allSettled(["data/medialog.json", "data/sport.json"].map(async path => {
+    const paths = yearCalendar ? ["data/medialog-year.json", "data/sport-year.json"] : ["data/medialog.json", "data/sport.json"];
+    title.textContent = yearCalendar ? String(year)
+        : new Intl.DateTimeFormat("pl-PL", { month: "long", year: "numeric" }).format(today);
+    const sources = await Promise.allSettled(paths.map(async path => {
         const response = await fetch(path);
         if (!response.ok) throw new Error(`${path}: ${response.status}`);
         const data = await response.json();
@@ -154,7 +179,11 @@ async function loadCalendar() {
     }));
     const failed = sources.some(source => source.status === "rejected");
     if (failed) status.textContent = "Nie udało się wczytać części danych kalendarza.";
-    render(sources.flatMap(source => source.status === "fulfilled" ? source.value : []));
+    const entries = sources.flatMap(source => source.status === "fulfilled" ? source.value : []);
+    const cells = new Map();
+    if (yearCalendar) for (let month = 0; month < 12; month += 1) renderMonth(monthSection(month), month, cells);
+    else renderMonth(calendar, today.getMonth(), cells);
+    place(entries, cells);
 }
 
 loadCalendar();

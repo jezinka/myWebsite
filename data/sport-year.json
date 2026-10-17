@@ -1,0 +1,319 @@
+{
+  "schemaVersion": 1,
+  "source": "sport",
+  "year": 2026,
+  "items": [
+    {
+      "id": "sport:activity:17049182320",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "periods": [
+        {
+          "startDate": "2026-01-14",
+          "endDate": "2026-01-14"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:17129695303",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "periods": [
+        {
+          "startDate": "2026-01-21",
+          "endDate": "2026-01-21"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:17218636127",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "periods": [
+        {
+          "startDate": "2026-01-28",
+          "endDate": "2026-01-28"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:17292416648",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "periods": [
+        {
+          "startDate": "2026-02-04",
+          "endDate": "2026-02-04"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:17447641797",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "periods": [
+        {
+          "startDate": "2026-02-18",
+          "endDate": "2026-02-18"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:17506872159",
+      "title": "Spacer",
+      "kind": "sport",
+      "icon": "/icons/icons8-walking-100.png",
+      "periods": [
+        {
+          "startDate": "2026-02-24",
+          "endDate": "2026-02-24"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:17520724730",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "periods": [
+        {
+          "startDate": "2026-02-25",
+          "endDate": "2026-02-25"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:17543173778",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "periods": [
+        {
+          "startDate": "2026-02-27",
+          "endDate": "2026-02-27"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:17555225695",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "periods": [
+        {
+          "startDate": "2026-02-28",
+          "endDate": "2026-02-28"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:17614803758",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "periods": [
+        {
+          "startDate": "2026-03-05",
+          "endDate": "2026-03-05"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:17674339803",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "periods": [
+        {
+          "startDate": "2026-03-10",
+          "endDate": "2026-03-10"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:17699370154",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "periods": [
+        {
+          "startDate": "2026-03-11",
+          "endDate": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:17699832073",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "periods": [
+        {
+          "startDate": "2026-03-12",
+          "endDate": "2026-03-12"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:17709357164",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "periods": [
+        {
+          "startDate": "2026-03-13",
+          "endDate": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:17755633121",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "periods": [
+        {
+          "startDate": "2026-03-17",
+          "endDate": "2026-03-17"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:17769264257",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "periods": [
+        {
+          "startDate": "2026-03-18",
+          "endDate": "2026-03-18"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:17780686660",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "periods": [
+        {
+          "startDate": "2026-03-19",
+          "endDate": "2026-03-19"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:17819486773",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "periods": [
+        {
+          "startDate": "2026-03-22",
+          "endDate": "2026-03-22"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:17842114821",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "periods": [
+        {
+          "startDate": "2026-03-24",
+          "endDate": "2026-03-24"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:17855927587",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "periods": [
+        {
+          "startDate": "2026-03-25",
+          "endDate": "2026-03-25"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:17886646430",
+      "title": "Ring Fit",
+      "kind": "sport",
+      "icon": "/icons/icons8-nintendo-switch-logo-100.png",
+      "periods": [
+        {
+          "startDate": "2026-03-28",
+          "endDate": "2026-03-28"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:fit_1779375845000",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "periods": [
+        {
+          "startDate": "2026-05-21",
+          "endDate": "2026-05-21"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:fit_1780328714000",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "periods": [
+        {
+          "startDate": "2026-06-01",
+          "endDate": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:fit_1781624145000",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "periods": [
+        {
+          "startDate": "2026-06-16",
+          "endDate": "2026-06-16"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:fit_1781712123000",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "periods": [
+        {
+          "startDate": "2026-06-17",
+          "endDate": "2026-06-17"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:gps_1790431624000",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "periods": [
+        {
+          "startDate": "2026-09-26",
+          "endDate": "2026-09-26"
+        }
+      ]
+    }
+  ]
+}
