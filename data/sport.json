@@ -8,6 +8,7 @@
       "title": "Rolki",
       "kind": "sport",
       "icon": "/icons/icons8-roller-skating-100.png",
+      "distanceKm": 13.9,
       "periods": [
         {
           "startDate": "2026-10-01",
@@ -20,6 +21,7 @@
       "title": "Rolki",
       "kind": "sport",
       "icon": "/icons/icons8-roller-skating-100.png",
+      "distanceKm": 14.7,
       "periods": [
         {
           "startDate": "2026-10-06",
@@ -32,6 +34,7 @@
       "title": "Joga",
       "kind": "sport",
       "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 51,
       "periods": [
         {
           "startDate": "2026-10-07",
@@ -44,6 +47,7 @@
       "title": "Joga",
       "kind": "sport",
       "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 53,
       "periods": [
         {
           "startDate": "2026-10-14",
