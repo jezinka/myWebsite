@@ -4,10 +4,11 @@
   "year": 2026,
   "items": [
     {
-      "id": "medialog:season:215",
+      "id": "medialog:season:42",
       "title": "Witajcie w rezerwacie. Indianin w podrozy przez ziemie amerykanskich plemion",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/2ff554e54da350026979e3856ed968c9.jpg",
       "periods": [
         {
           "startDate": "2026-01-01",
@@ -16,10 +17,11 @@
       ]
     },
     {
-      "id": "medialog:season:216",
+      "id": "medialog:season:1503",
       "title": "Stranger Things",
       "kind": "watching",
       "mediaType": "series",
+      "coverUrl": "data/medialog-covers/b99d3d97282f09e55a925b1adec11d6a.jpg",
       "periods": [
         {
           "startDate": "2026-01-01",
@@ -28,10 +30,11 @@
       ]
     },
     {
-      "id": "medialog:season:214",
+      "id": "medialog:season:287",
       "title": "1975",
       "kind": "watching",
       "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/17e04c4d2bba2c76d93411c6e716098c.jpg",
       "periods": [
         {
           "startDate": "2026-01-04",
@@ -40,11 +43,12 @@
       ]
     },
     {
-      "id": "medialog:season:213",
+      "id": "medialog:season:1526",
       "title": "Berserk",
       "kind": "watching",
       "mediaType": "anime",
       "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/591cad77cf96a2ab4b3689d7aa8cc296.jpg",
       "periods": [
         {
           "startDate": "2026-01-06",
@@ -53,10 +57,11 @@
       ]
     },
     {
-      "id": "medialog:season:212",
+      "id": "medialog:season:286",
       "title": "Treasure Planet",
       "kind": "watching",
       "mediaType": "cartoon",
+      "coverUrl": "data/medialog-covers/1caf51a253c1356a3183faf55104999b.jpg",
       "periods": [
         {
           "startDate": "2026-01-10",
@@ -65,10 +70,11 @@
       ]
     },
     {
-      "id": "medialog:season:211",
+      "id": "medialog:season:1033",
       "title": "The Pitt",
       "kind": "watching",
       "mediaType": "series",
+      "coverUrl": "data/medialog-covers/c4b44e7092781d3bed2f3438e5267479.jpg",
       "periods": [
         {
           "startDate": "2026-01-11",
@@ -77,10 +83,11 @@
       ]
     },
     {
-      "id": "medialog:season:210",
+      "id": "medialog:season:1557",
       "title": "Kulinarna walka klas",
       "kind": "watching",
       "mediaType": "series",
+      "coverUrl": "data/medialog-covers/a243f2fbc31611cb3e52be10129f9ae7.jpg",
       "periods": [
         {
           "startDate": "2026-01-13",
@@ -89,10 +96,11 @@
       ]
     },
     {
-      "id": "medialog:season:209",
+      "id": "medialog:season:281",
       "title": "Moonshadow",
       "kind": "reading",
       "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/206920325afa4587d649bdf9e81e5c09.jpg",
       "periods": [
         {
           "startDate": "2026-01-14",
@@ -101,10 +109,11 @@
       ]
     },
     {
-      "id": "medialog:season:208",
+      "id": "medialog:season:41",
       "title": "Obsesyjna miłość",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/22437994feeb835ac98817462b3324c2.jpg",
       "periods": [
         {
           "startDate": "2026-01-17",
@@ -113,10 +122,11 @@
       ]
     },
     {
-      "id": "medialog:season:207",
+      "id": "medialog:season:40",
       "title": "Cześć pracy. O kulturze zap***dolu",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/5d1b6afb75dbf435fffa3476757fc0b7.jpg",
       "periods": [
         {
           "startDate": "2026-01-21",
@@ -125,10 +135,11 @@
       ]
     },
     {
-      "id": "medialog:season:206",
+      "id": "medialog:season:1529",
       "title": "Zmarszczki",
       "kind": "reading",
       "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/bbf9f3c935176a311360e9caaa089ec0.jpg",
       "periods": [
         {
           "startDate": "2026-01-23",
@@ -137,47 +148,16 @@
       ]
     },
     {
-      "id": "medialog:season:205",
+      "id": "medialog:season:1527",
       "title": "Pantheon",
       "kind": "watching",
       "mediaType": "series",
+      "coverUrl": "data/medialog-covers/a2c30ea9804d7c03b65efe954ef300a6.jpg",
       "periods": [
         {
           "startDate": "2026-01-26",
           "endDate": "2026-01-28"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:203",
-      "title": "Nokturno",
-      "kind": "reading",
-      "mediaType": "comic",
-      "periods": [
-        {
-          "startDate": "2026-01-28",
-          "endDate": "2026-01-31"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:204",
-      "title": "Fallout",
-      "kind": "watching",
-      "mediaType": "series",
-      "periods": [
-        {
-          "startDate": "2026-01-28",
-          "endDate": "2026-01-31"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:202",
-      "title": "Pantheon",
-      "kind": "watching",
-      "mediaType": "series",
-      "periods": [
+        },
         {
           "startDate": "2026-01-30",
           "endDate": "2026-01-30"
@@ -185,10 +165,41 @@
       ]
     },
     {
-      "id": "medialog:season:200",
+      "id": "medialog:season:280",
+      "title": "Nokturno",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/e40a87289331169292a351059dd17ce5.jpg",
+      "periods": [
+        {
+          "startDate": "2026-01-28",
+          "endDate": "2026-01-31"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1475",
+      "title": "Fallout",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/82b24473cd00e2b25f421846ec596b0b.jpg",
+      "periods": [
+        {
+          "startDate": "2026-01-28",
+          "endDate": "2026-01-31"
+        },
+        {
+          "startDate": "2026-02-04",
+          "endDate": "2026-02-08"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:39",
       "title": "Nie zapomnij nakarmić gołębi",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/514b46db4ee98422be4e07018b4f8b24.jpg",
       "periods": [
         {
           "startDate": "2026-02-01",
@@ -197,11 +208,12 @@
       ]
     },
     {
-      "id": "medialog:season:201",
+      "id": "medialog:season:1510",
       "title": "Atlantyda zaginiony ląd",
       "kind": "watching",
       "mediaType": "cartoon",
       "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/a232321ec22e1feb74b70f98d146c72d.jpg",
       "periods": [
         {
           "startDate": "2026-02-01",
@@ -210,11 +222,12 @@
       ]
     },
     {
-      "id": "medialog:season:199",
+      "id": "medialog:season:1511",
       "title": "Mój brat niedźwiedź",
       "kind": "watching",
       "mediaType": "cartoon",
       "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/9182ccd26f8be562ca841f8b8cf5bbcb.jpg",
       "periods": [
         {
           "startDate": "2026-02-02",
@@ -223,47 +236,28 @@
       ]
     },
     {
-      "id": "medialog:season:198",
-      "title": "Fallout",
-      "kind": "watching",
-      "mediaType": "series",
-      "periods": [
-        {
-          "startDate": "2026-02-04",
-          "endDate": "2026-02-08"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:196",
+      "id": "medialog:season:1528",
       "title": "Pantheon",
       "kind": "watching",
       "mediaType": "series",
+      "coverUrl": "data/medialog-covers/57203a502a2f7e09deff6de9044aee8c.jpg",
       "periods": [
         {
           "startDate": "2026-02-06",
           "endDate": "2026-02-11"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:197",
-      "title": "Gomorra: Początki",
-      "kind": "watching",
-      "mediaType": "series",
-      "seasonNumber": 1,
-      "periods": [
+        },
         {
-          "startDate": "2026-02-06",
-          "endDate": "2026-02-06"
+          "startDate": "2026-02-20",
+          "endDate": "2026-02-21"
         }
       ]
     },
     {
-      "id": "medialog:season:195",
+      "id": "medialog:season:38",
       "title": "Rage",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/6f51daa5e11a0183d984deda01c8d865.jpg",
       "periods": [
         {
           "startDate": "2026-02-07",
@@ -272,23 +266,29 @@
       ]
     },
     {
-      "id": "medialog:season:194",
+      "id": "medialog:season:862",
       "title": "Nocny recepcjonista",
       "kind": "watching",
       "mediaType": "series",
       "seasonNumber": 2,
+      "coverUrl": "data/medialog-covers/ececd74ac7db6f40c48cdea804c8e444.jpg",
       "periods": [
         {
           "startDate": "2026-02-09",
           "endDate": "2026-02-12"
+        },
+        {
+          "startDate": "2026-02-15",
+          "endDate": "2026-02-15"
         }
       ]
     },
     {
-      "id": "medialog:season:193",
+      "id": "medialog:season:37",
       "title": "W kajdanach",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/6c10d008d589e4055a99f9290ff61621.jpg",
       "periods": [
         {
           "startDate": "2026-02-11",
@@ -297,11 +297,12 @@
       ]
     },
     {
-      "id": "medialog:season:192",
+      "id": "medialog:season:1513",
       "title": "Tarzan",
       "kind": "watching",
       "mediaType": "cartoon",
       "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/88f0d8f67ff6735941c5d307b2a21c8f.jpg",
       "periods": [
         {
           "startDate": "2026-02-13",
@@ -310,11 +311,12 @@
       ]
     },
     {
-      "id": "medialog:season:191",
+      "id": "medialog:season:1514",
       "title": "Auta",
       "kind": "watching",
       "mediaType": "cartoon",
       "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/3da0178c70d62e211001bfd236bcaf8a.jpg",
       "periods": [
         {
           "startDate": "2026-02-14",
@@ -323,10 +325,11 @@
       ]
     },
     {
-      "id": "medialog:season:189",
+      "id": "medialog:season:36",
       "title": "O czym mówię, kiedy mówię o bieganiu",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/9f0ba10fb1173eccd9203a1d740c8e25.jpg",
       "periods": [
         {
           "startDate": "2026-02-15",
@@ -335,24 +338,12 @@
       ]
     },
     {
-      "id": "medialog:season:190",
-      "title": "Nocny recepcjonista",
-      "kind": "watching",
-      "mediaType": "series",
-      "seasonNumber": 2,
-      "periods": [
-        {
-          "startDate": "2026-02-15",
-          "endDate": "2026-02-15"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:188",
+      "id": "medialog:season:1515",
       "title": "Death of Bunny Munro",
       "kind": "watching",
       "mediaType": "series",
       "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/b8cfd441c34f8a7db6c3f3f5a685e27c.jpg",
       "periods": [
         {
           "startDate": "2026-02-16",
@@ -361,10 +352,11 @@
       ]
     },
     {
-      "id": "medialog:season:187",
+      "id": "medialog:season:35",
       "title": "Dziewczyna, która kochała Toma Gordona",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/664fa9af5316ab0a77ebee027e2e65cb.jpg",
       "periods": [
         {
           "startDate": "2026-02-18",
@@ -373,22 +365,11 @@
       ]
     },
     {
-      "id": "medialog:season:186",
-      "title": "Pantheon",
-      "kind": "watching",
-      "mediaType": "series",
-      "periods": [
-        {
-          "startDate": "2026-02-20",
-          "endDate": "2026-02-21"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:184",
+      "id": "medialog:season:285",
       "title": "Dom dobry",
       "kind": "watching",
       "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/c8514cfba38e3abcc7fa9f0dd32cbbc5.jpg",
       "periods": [
         {
           "startDate": "2026-02-22",
@@ -397,10 +378,11 @@
       ]
     },
     {
-      "id": "medialog:season:185",
+      "id": "medialog:season:1516",
       "title": "Naga broń",
       "kind": "watching",
       "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/9f3d1005dc25f5d8d8d5ffbf621eb8be.jpg",
       "periods": [
         {
           "startDate": "2026-02-22",
@@ -409,10 +391,11 @@
       ]
     },
     {
-      "id": "medialog:season:182",
+      "id": "medialog:season:279",
       "title": "Kaznodzieja. Tom szósty",
       "kind": "reading",
       "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/398d013b1a43d4aea83d5173426d1c95.jpg",
       "periods": [
         {
           "startDate": "2026-02-24",
@@ -421,10 +404,11 @@
       ]
     },
     {
-      "id": "medialog:season:183",
+      "id": "medialog:season:1517",
       "title": "Grupa zadaniowa",
       "kind": "watching",
       "mediaType": "series",
+      "coverUrl": "data/medialog-covers/16da9d64b25e48e99369709e9dc100af.jpg",
       "periods": [
         {
           "startDate": "2026-02-24",
@@ -433,10 +417,11 @@
       ]
     },
     {
-      "id": "medialog:season:181",
+      "id": "medialog:season:2693",
       "title": "Przyjaciel Dorothy",
       "kind": "watching",
       "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/34137865c6fba720726377364057c964.jpg",
       "periods": [
         {
           "startDate": "2026-02-27",
@@ -445,10 +430,11 @@
       ]
     },
     {
-      "id": "medialog:season:180",
+      "id": "medialog:season:34",
       "title": "Kiedy byliśmy sierotami",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/55a0d51d3bf46bcb01661a8e2cb5e3f8.jpg",
       "periods": [
         {
           "startDate": "2026-02-28",
@@ -457,10 +443,11 @@
       ]
     },
     {
-      "id": "medialog:season:179",
+      "id": "medialog:season:1524",
       "title": "Ministranci",
       "kind": "watching",
       "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/187f5025857c9882a1b0f664ecff8e71.jpg",
       "periods": [
         {
           "startDate": "2026-03-01",
@@ -469,22 +456,28 @@
       ]
     },
     {
-      "id": "medialog:season:177",
+      "id": "medialog:season:33",
       "title": "Republika smoka",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/4ecbd61e4207815b4513dc6a30814356.jpg",
       "periods": [
         {
           "startDate": "2026-03-03",
           "endDate": "2026-03-06"
+        },
+        {
+          "startDate": "2026-03-11",
+          "endDate": "2026-04-02"
         }
       ]
     },
     {
-      "id": "medialog:season:178",
+      "id": "medialog:season:1518",
       "title": "Ołowiane dzieci",
       "kind": "watching",
       "mediaType": "series",
+      "coverUrl": "data/medialog-covers/57b7c59956e6b69559af98cca8148205.jpg",
       "periods": [
         {
           "startDate": "2026-03-03",
@@ -493,10 +486,11 @@
       ]
     },
     {
-      "id": "medialog:season:176",
+      "id": "medialog:season:32",
       "title": "Shenzhen",
       "kind": "reading",
       "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/379ad2cae23c0fb8d6462ea878abaee2.jpg",
       "periods": [
         {
           "startDate": "2026-03-07",
@@ -505,62 +499,17 @@
       ]
     },
     {
-      "id": "medialog:season:174",
-      "title": "Republika smoka",
-      "kind": "reading",
-      "mediaType": "book",
-      "periods": [
-        {
-          "startDate": "2026-03-11",
-          "endDate": "2026-04-02"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:175",
+      "id": "medialog:season:1519",
       "title": "Rycerz siedmiu królestw",
       "kind": "watching",
       "mediaType": "series",
       "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/17262f1ae6a325fa4f58b3cb02836546.jpg",
       "periods": [
         {
           "startDate": "2026-03-11",
           "endDate": "2026-03-12"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:172",
-      "title": "Wall-e",
-      "kind": "watching",
-      "mediaType": "cartoon",
-      "seasonNumber": 1,
-      "periods": [
-        {
-          "startDate": "2026-03-13",
-          "endDate": "2026-03-13"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:173",
-      "title": "Louis Theroux: W głębi manosfery",
-      "kind": "watching",
-      "mediaType": "movie",
-      "periods": [
-        {
-          "startDate": "2026-03-13",
-          "endDate": "2026-03-13"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:171",
-      "title": "Rycerz siedmiu królestw",
-      "kind": "watching",
-      "mediaType": "series",
-      "seasonNumber": 1,
-      "periods": [
+        },
         {
           "startDate": "2026-03-14",
           "endDate": "2026-03-16"
@@ -568,10 +517,38 @@
       ]
     },
     {
-      "id": "medialog:season:170",
+      "id": "medialog:season:1525",
+      "title": "Wall-e",
+      "kind": "watching",
+      "mediaType": "cartoon",
+      "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/e68dcf192cb9850861f4117e35f21ede.jpg",
+      "periods": [
+        {
+          "startDate": "2026-03-13",
+          "endDate": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1611",
+      "title": "Louis Theroux: W głębi manosfery",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/1549f3041d59c81ece9570e5cae035ff.jpg",
+      "periods": [
+        {
+          "startDate": "2026-03-13",
+          "endDate": "2026-03-13"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:912",
       "title": "Queer Eye",
       "kind": "watching",
       "mediaType": "series",
+      "coverUrl": "data/medialog-covers/d07ef54a98ef031211247ce0639ff6e4.jpg",
       "periods": [
         {
           "startDate": "2026-03-17",
@@ -580,22 +557,11 @@
       ]
     },
     {
-      "id": "medialog:season:169",
-      "title": "Neighbors",
-      "kind": "watching",
-      "mediaType": "series",
-      "periods": [
-        {
-          "startDate": "2026-03-20",
-          "endDate": "2026-03-20"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:168",
+      "id": "medialog:season:1474",
       "title": "Peaky Blinders: Nieśmiertelny",
       "kind": "watching",
       "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/a0308ebb51cf7476c3be66414a9d593d.jpg",
       "periods": [
         {
           "startDate": "2026-03-21",
@@ -604,10 +570,11 @@
       ]
     },
     {
-      "id": "medialog:season:167",
+      "id": "medialog:season:1522",
       "title": "Druga Furioza",
       "kind": "watching",
       "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/f1ad61dcd69fdba3525fd1af79fa9f73.jpg",
       "periods": [
         {
           "startDate": "2026-03-23",
@@ -616,11 +583,12 @@
       ]
     },
     {
-      "id": "medialog:season:166",
+      "id": "medialog:season:1521",
       "title": "Dziwny Świat",
       "kind": "watching",
       "mediaType": "cartoon",
       "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/90a5985c8327574ddd0e7c6e1fc7f039.jpg",
       "periods": [
         {
           "startDate": "2026-03-27",
@@ -629,22 +597,36 @@
       ]
     },
     {
-      "id": "medialog:season:165",
+      "id": "medialog:season:1124",
       "title": "The Pitt",
       "kind": "watching",
       "mediaType": "series",
+      "coverUrl": "data/medialog-covers/860f865583d9c8a481ab74bcfc9934a8.jpg",
       "periods": [
         {
           "startDate": "2026-03-28",
           "endDate": "2026-04-02"
+        },
+        {
+          "startDate": "2026-04-06",
+          "endDate": "2026-04-09"
+        },
+        {
+          "startDate": "2026-04-12",
+          "endDate": "2026-04-15"
+        },
+        {
+          "startDate": "2026-04-18",
+          "endDate": "2026-04-18"
         }
       ]
     },
     {
-      "id": "medialog:season:164",
+      "id": "medialog:season:29",
       "title": "Czwarta ręka",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/ae11db30f05c0790e839bee4ab129a6e.jpg",
       "periods": [
         {
           "startDate": "2026-04-03",
@@ -653,11 +635,12 @@
       ]
     },
     {
-      "id": "medialog:season:163",
+      "id": "medialog:season:1427",
       "title": "Modern Love",
       "kind": "watching",
       "mediaType": "series",
       "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/1515c7449f1aec1b9ec0e608a96ed991.jpg",
       "periods": [
         {
           "startDate": "2026-04-04",
@@ -666,36 +649,30 @@
       ]
     },
     {
-      "id": "medialog:season:162",
-      "title": "The Pitt",
-      "kind": "watching",
-      "mediaType": "series",
-      "periods": [
-        {
-          "startDate": "2026-04-06",
-          "endDate": "2026-04-09"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:161",
+      "id": "medialog:season:1428",
       "title": "Modern Love",
       "kind": "watching",
       "mediaType": "series",
       "seasonNumber": 2,
+      "coverUrl": "data/medialog-covers/662be96e71d38c6b9830512f17b6aaaa.jpg",
       "periods": [
         {
           "startDate": "2026-04-08",
           "endDate": "2026-04-08"
+        },
+        {
+          "startDate": "2026-04-30",
+          "endDate": "2026-04-30"
         }
       ]
     },
     {
-      "id": "medialog:season:160",
+      "id": "medialog:season:1364",
       "title": "Nowe szaty króla",
       "kind": "watching",
       "mediaType": "cartoon",
       "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/69620379a3e86404757d189180512016.jpg",
       "periods": [
         {
           "startDate": "2026-04-10",
@@ -704,11 +681,12 @@
       ]
     },
     {
-      "id": "medialog:season:158",
+      "id": "medialog:season:1489",
       "title": "Mulan",
       "kind": "watching",
       "mediaType": "cartoon",
       "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/d931368648c9b441c768673f3a620d87.jpg",
       "periods": [
         {
           "startDate": "2026-04-11",
@@ -717,10 +695,11 @@
       ]
     },
     {
-      "id": "medialog:season:159",
+      "id": "medialog:season:151",
       "title": "I co z tym zrobisz? Rozwiń swoją wysokosprawczość - wydanie drugie (rozszerzone)",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/905001fe560758420a3f4cec61e4d033.jpg",
       "periods": [
         {
           "startDate": "2026-04-11",
@@ -729,11 +708,12 @@
       ]
     },
     {
-      "id": "medialog:season:156",
+      "id": "medialog:season:1487",
       "title": "Super Mario Galaxy",
       "kind": "watching",
       "mediaType": "cartoon",
       "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/372684280cabad77b1acccbde0a3a971.jpg",
       "periods": [
         {
           "startDate": "2026-04-12",
@@ -742,23 +722,29 @@
       ]
     },
     {
-      "id": "medialog:season:157",
-      "title": "The Pitt",
+      "id": "medialog:season:1490",
+      "title": "Jeszcze bardziej zwariowany świat Malcolma",
       "kind": "watching",
       "mediaType": "series",
+      "coverUrl": "data/medialog-covers/8279dc5e3ba76ac3d4ca7d285646bf05.jpg",
       "periods": [
         {
-          "startDate": "2026-04-12",
-          "endDate": "2026-04-15"
+          "startDate": "2026-04-16",
+          "endDate": "2026-04-16"
+        },
+        {
+          "startDate": "2026-04-19",
+          "endDate": "2026-04-19"
         }
       ]
     },
     {
-      "id": "medialog:season:153",
+      "id": "medialog:season:1498",
       "title": "Coco",
       "kind": "watching",
       "mediaType": "cartoon",
       "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/f30c161db73c056862bc2d1a968cbf9d.jpg",
       "periods": [
         {
           "startDate": "2026-04-17",
@@ -767,46 +753,28 @@
       ]
     },
     {
-      "id": "medialog:season:154",
+      "id": "medialog:season:1500",
       "title": "Któregoś dnia okaże się, że wszyscy od zawsze byli przeciwko",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/bcd1ad6d585668fa81c97c61ba3fc528.jpg",
       "periods": [
         {
           "startDate": "2026-04-17",
           "endDate": "2026-04-20"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:152",
-      "title": "The Pitt",
-      "kind": "watching",
-      "mediaType": "series",
-      "periods": [
+        },
         {
-          "startDate": "2026-04-18",
-          "endDate": "2026-04-18"
+          "startDate": "2026-05-29",
+          "endDate": "2026-05-30"
         }
       ]
     },
     {
-      "id": "medialog:season:151",
-      "title": "Jeszcze bardziej zwariowany świat Malcolma",
-      "kind": "watching",
-      "mediaType": "series",
-      "periods": [
-        {
-          "startDate": "2026-04-19",
-          "endDate": "2026-04-19"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:150",
+      "id": "medialog:season:1501",
       "title": "Nikt 2",
       "kind": "watching",
       "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/7ddb16571783442398d304f767d491f2.jpg",
       "periods": [
         {
           "startDate": "2026-04-20",
@@ -815,49 +783,54 @@
       ]
     },
     {
-      "id": "medialog:season:149",
-      "title": "Niewybrani",
-      "kind": "watching",
-      "mediaType": "series",
-      "seasonNumber": 1,
-      "coverUrl": "https://image.tmdb.org/t/p/w342/oVl01a7R8rfmWrolWtrlPXYQqzj.jpg",
+      "id": "medialog:season:1523",
+      "title": "Ballada o Halo Jones (wersja kolorowa)",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/051639828e16755a10993cee90aabeb3.jpg",
       "periods": [
         {
           "startDate": "2026-04-21",
           "endDate": "2026-04-21"
+        },
+        {
+          "startDate": "2026-04-23",
+          "endDate": "2026-04-23"
+        },
+        {
+          "startDate": "2026-04-28",
+          "endDate": "2026-05-01"
         }
       ]
     },
     {
-      "id": "medialog:season:147",
+      "id": "medialog:season:1509",
       "title": "Awantura",
       "kind": "watching",
       "mediaType": "series",
       "seasonNumber": 2,
+      "coverUrl": "data/medialog-covers/4c8cd02fa00e3c5b4122260446790719.jpg",
       "periods": [
         {
           "startDate": "2026-04-22",
           "endDate": "2026-04-23"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:146",
-      "title": "Ballada o Halo Jones (wersja kolorowa)",
-      "kind": "reading",
-      "mediaType": "comic",
-      "periods": [
+        },
         {
-          "startDate": "2026-04-23",
-          "endDate": "2026-04-23"
+          "startDate": "2026-04-26",
+          "endDate": "2026-04-30"
+        },
+        {
+          "startDate": "2026-05-01",
+          "endDate": "2026-05-01"
         }
       ]
     },
     {
-      "id": "medialog:season:145",
+      "id": "medialog:season:1612",
       "title": "Nasze zaginione serca",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/90ab560a2a473c7232e5cf16d1f202e5.jpg",
       "periods": [
         {
           "startDate": "2026-04-24",
@@ -866,10 +839,11 @@
       ]
     },
     {
-      "id": "medialog:season:144",
+      "id": "medialog:season:1605",
       "title": "Trust Me: The False Prophet",
       "kind": "watching",
       "mediaType": "series",
+      "coverUrl": "data/medialog-covers/b5db7898f51682dafc88ba4d9ef36ca0.jpg",
       "periods": [
         {
           "startDate": "2026-04-25",
@@ -878,58 +852,7 @@
       ]
     },
     {
-      "id": "medialog:season:143",
-      "title": "Awantura",
-      "kind": "watching",
-      "mediaType": "series",
-      "seasonNumber": 2,
-      "periods": [
-        {
-          "startDate": "2026-04-26",
-          "endDate": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:142",
-      "title": "Ballada o Halo Jones (wersja kolorowa)",
-      "kind": "reading",
-      "mediaType": "comic",
-      "periods": [
-        {
-          "startDate": "2026-04-28",
-          "endDate": "2026-05-01"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:141",
-      "title": "Modern Love",
-      "kind": "watching",
-      "mediaType": "series",
-      "seasonNumber": 2,
-      "periods": [
-        {
-          "startDate": "2026-04-30",
-          "endDate": "2026-04-30"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:140",
-      "title": "Awantura",
-      "kind": "watching",
-      "mediaType": "series",
-      "seasonNumber": 2,
-      "periods": [
-        {
-          "startDate": "2026-05-01",
-          "endDate": "2026-05-01"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:138",
+      "id": "medialog:season:1684",
       "title": "Angel's Egg",
       "kind": "watching",
       "mediaType": "anime",
@@ -943,7 +866,7 @@
       ]
     },
     {
-      "id": "medialog:season:139",
+      "id": "medialog:season:1685",
       "title": "Chętni na seks",
       "kind": "watching",
       "mediaType": "series",
@@ -952,14 +875,19 @@
         {
           "startDate": "2026-05-02",
           "endDate": "2026-05-07"
+        },
+        {
+          "startDate": "2026-05-10",
+          "endDate": "2026-05-10"
         }
       ]
     },
     {
-      "id": "medialog:season:137",
+      "id": "medialog:season:1688",
       "title": "Klara i słońce",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/30e4169e38eac3bd55af8189ca722deb.jpg",
       "periods": [
         {
           "startDate": "2026-05-03",
@@ -968,20 +896,7 @@
       ]
     },
     {
-      "id": "medialog:season:134",
-      "title": "Legendy",
-      "kind": "watching",
-      "mediaType": "series",
-      "seasonNumber": 1,
-      "periods": [
-        {
-          "startDate": "2026-05-07",
-          "endDate": "2026-05-07"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:135",
+      "id": "medialog:season:1756",
       "title": "Love is Blind: Polska",
       "kind": "watching",
       "mediaType": "series",
@@ -991,14 +906,31 @@
         {
           "startDate": "2026-05-07",
           "endDate": "2026-05-08"
+        },
+        {
+          "startDate": "2026-05-13",
+          "endDate": "2026-05-13"
+        },
+        {
+          "startDate": "2026-05-20",
+          "endDate": "2026-05-20"
+        },
+        {
+          "startDate": "2026-05-21",
+          "endDate": "2026-05-21"
+        },
+        {
+          "startDate": "2026-05-24",
+          "endDate": "2026-05-24"
         }
       ]
     },
     {
-      "id": "medialog:season:136",
+      "id": "medialog:season:1759",
       "title": "52Notatki sezon 4",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/453f42f95e26c5eb8ed3b80a9c5f3c89.jpg",
       "periods": [
         {
           "startDate": "2026-05-07",
@@ -1007,10 +939,11 @@
       ]
     },
     {
-      "id": "medialog:season:133",
+      "id": "medialog:season:1757",
       "title": "Jumanji",
       "kind": "watching",
       "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/3e7bd15ce2c0bfe7adbb5509bddbfdf4.jpg",
       "periods": [
         {
           "startDate": "2026-05-08",
@@ -1019,10 +952,11 @@
       ]
     },
     {
-      "id": "medialog:season:131",
+      "id": "medialog:season:1758",
       "title": "Książę Egiptu",
       "kind": "watching",
       "mediaType": "cartoon",
+      "coverUrl": "data/medialog-covers/ac4d2cda209371838793f6eb0ad8ab53.jpg",
       "periods": [
         {
           "startDate": "2026-05-09",
@@ -1031,48 +965,16 @@
       ]
     },
     {
-      "id": "medialog:season:132",
+      "id": "medialog:season:1775",
       "title": "Stwórca",
       "kind": "reading",
       "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/d86c49161eb00e411c64954a7da757bf.jpg",
       "periods": [
         {
           "startDate": "2026-05-09",
           "endDate": "2026-05-11"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:130",
-      "title": "Chętni na seks",
-      "kind": "watching",
-      "mediaType": "series",
-      "coverUrl": "https://image.tmdb.org/t/p/w342/pmQL5H215aj0x9yvJVEmpejc3Uo.jpg",
-      "periods": [
-        {
-          "startDate": "2026-05-10",
-          "endDate": "2026-05-10"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:128",
-      "title": "Minuta ciszy",
-      "kind": "watching",
-      "mediaType": "series",
-      "periods": [
-        {
-          "startDate": "2026-05-11",
-          "endDate": "2026-05-15"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:127",
-      "title": "Stwórca",
-      "kind": "reading",
-      "mediaType": "comic",
-      "periods": [
+        },
         {
           "startDate": "2026-05-12",
           "endDate": "2026-05-12"
@@ -1080,24 +982,41 @@
       ]
     },
     {
-      "id": "medialog:season:125",
-      "title": "Love is Blind: Polska",
+      "id": "medialog:season:1566",
+      "title": "Minuta ciszy",
       "kind": "watching",
       "mediaType": "series",
-      "seasonNumber": 1,
-      "coverUrl": "https://image.tmdb.org/t/p/w342/eEjcdcegR6bzfe2I1jLP30n3UCa.jpg",
+      "coverUrl": "data/medialog-covers/788e2fe0ff2ca85d56bd09de4a7a2f95.jpg",
       "periods": [
         {
-          "startDate": "2026-05-13",
-          "endDate": "2026-05-13"
+          "startDate": "2026-05-11",
+          "endDate": "2026-05-15"
+        },
+        {
+          "startDate": "2026-05-17",
+          "endDate": "2026-05-17"
         }
       ]
     },
     {
-      "id": "medialog:season:126",
+      "id": "medialog:season:1776",
+      "title": "Louis Theroux: The Settlers",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/7a320e48445f0ac06335bfc6c082aac9.jpg",
+      "periods": [
+        {
+          "startDate": "2026-05-11",
+          "endDate": "2026-05-11"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1796",
       "title": "Dziewczyny w wodzie",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/130069e36695334a3285765817f29869.jpg",
       "periods": [
         {
           "startDate": "2026-05-13",
@@ -1106,35 +1025,45 @@
       ]
     },
     {
-      "id": "medialog:season:123",
-      "title": "Minuta ciszy",
+      "id": "medialog:season:2689",
+      "title": "Louis Theroux: The Ultra Zionists",
       "kind": "watching",
-      "mediaType": "series",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/feafe7918bb2bb01d38dfc39f7b97148.jpg",
       "periods": [
         {
-          "startDate": "2026-05-17",
-          "endDate": "2026-05-17"
+          "startDate": "2026-05-16",
+          "endDate": "2026-05-16"
         }
       ]
     },
     {
-      "id": "medialog:season:121",
+      "id": "medialog:season:1558",
       "title": "Kasztanowy ludzik",
       "kind": "watching",
       "mediaType": "series",
+      "coverUrl": "data/medialog-covers/33f2af08600108e8f8ecafd1dca7c4f7.jpg",
       "periods": [
         {
           "startDate": "2026-05-18",
           "endDate": "2026-05-21"
+        },
+        {
+          "startDate": "2026-05-24",
+          "endDate": "2026-05-24"
+        },
+        {
+          "startDate": "2026-05-25",
+          "endDate": "2026-05-25"
         }
       ]
     },
     {
-      "id": "medialog:season:122",
+      "id": "medialog:season:2691",
       "title": "Miłość jest ślepa, habibi",
       "kind": "watching",
       "mediaType": "series",
-      "coverUrl": "https://image.tmdb.org/t/p/w342/3lt68Q7hFldQytPHmG2stIrbavq.jpg",
+      "coverUrl": "data/medialog-covers/020ab2a798737cb5446f4a48458c482f.jpg",
       "periods": [
         {
           "startDate": "2026-05-18",
@@ -1143,39 +1072,12 @@
       ]
     },
     {
-      "id": "medialog:season:120",
-      "title": "Love is Blind: Polska",
-      "kind": "watching",
-      "mediaType": "series",
-      "seasonNumber": 1,
-      "coverUrl": "https://image.tmdb.org/t/p/w342/eEjcdcegR6bzfe2I1jLP30n3UCa.jpg",
-      "periods": [
-        {
-          "startDate": "2026-05-20",
-          "endDate": "2026-05-20"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:119",
-      "title": "Love is Blind: Polska",
-      "kind": "watching",
-      "mediaType": "series",
-      "seasonNumber": 1,
-      "coverUrl": "https://image.tmdb.org/t/p/w342/eEjcdcegR6bzfe2I1jLP30n3UCa.jpg",
-      "periods": [
-        {
-          "startDate": "2026-05-21",
-          "endDate": "2026-05-21"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:118",
+      "id": "medialog:season:2692",
       "title": "Mustang z Dzikiej Doliny",
       "kind": "watching",
       "mediaType": "cartoon",
       "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/db363effce17ed0fe10b38294382373c.jpg",
       "periods": [
         {
           "startDate": "2026-05-22",
@@ -1184,7 +1086,7 @@
       ]
     },
     {
-      "id": "medialog:season:117",
+      "id": "medialog:season:2694",
       "title": "Kung Fu Panda",
       "kind": "watching",
       "mediaType": "cartoon",
@@ -1198,12 +1100,11 @@
       ]
     },
     {
-      "id": "medialog:season:115",
-      "title": "Love is Blind: Polska",
+      "id": "medialog:season:2700",
+      "title": "Piękne zdjęcie, cudowne życie",
       "kind": "watching",
-      "mediaType": "series",
-      "seasonNumber": 1,
-      "coverUrl": "https://image.tmdb.org/t/p/w342/eEjcdcegR6bzfe2I1jLP30n3UCa.jpg",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/7a849040493ad5bdfae9567c2d879fd4.jpg",
       "periods": [
         {
           "startDate": "2026-05-24",
@@ -1212,34 +1113,11 @@
       ]
     },
     {
-      "id": "medialog:season:116",
-      "title": "Kasztanowy ludzik",
-      "kind": "watching",
-      "mediaType": "series",
-      "periods": [
-        {
-          "startDate": "2026-05-24",
-          "endDate": "2026-05-24"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:112",
-      "title": "Kasztanowy ludzik",
-      "kind": "watching",
-      "mediaType": "series",
-      "periods": [
-        {
-          "startDate": "2026-05-25",
-          "endDate": "2026-05-25"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:113",
+      "id": "medialog:season:2701",
       "title": "Galapagos",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/31af1b3a52c2146ab0be2a9fc578d4f7.jpg",
       "periods": [
         {
           "startDate": "2026-05-25",
@@ -1248,46 +1126,28 @@
       ]
     },
     {
-      "id": "medialog:season:111",
+      "id": "medialog:season:1442",
       "title": "The Boys",
       "kind": "watching",
       "mediaType": "series",
+      "coverUrl": "data/medialog-covers/a3900e8be2de554abca8e6ef01c44afc.jpg",
       "periods": [
         {
           "startDate": "2026-05-26",
           "endDate": "2026-05-28"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:110",
-      "title": "Hacks",
-      "kind": "watching",
-      "mediaType": "series",
-      "periods": [
+        },
         {
-          "startDate": "2026-05-28",
-          "endDate": "2026-05-28"
+          "startDate": "2026-05-31",
+          "endDate": "2026-06-04"
         }
       ]
     },
     {
-      "id": "medialog:season:109",
-      "title": "Któregoś dnia okaże się, że wszyscy od zawsze byli przeciwko",
-      "kind": "reading",
-      "mediaType": "book",
-      "periods": [
-        {
-          "startDate": "2026-05-29",
-          "endDate": "2026-05-30"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:108",
+      "id": "medialog:season:2702",
       "title": "Księga zniknięcia",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/7d8a5b509d82afe878ad031413c8c8b2.jpg",
       "periods": [
         {
           "startDate": "2026-05-30",
@@ -1296,93 +1156,86 @@
       ]
     },
     {
-      "id": "medialog:season:106",
-      "title": "Euforia",
-      "kind": "watching",
-      "mediaType": "series",
-      "periods": [
-        {
-          "startDate": "2026-05-31",
-          "endDate": "2026-05-31"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:107",
-      "title": "The Boys",
-      "kind": "watching",
-      "mediaType": "series",
-      "periods": [
-        {
-          "startDate": "2026-05-31",
-          "endDate": "2026-06-04"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:104",
-      "title": "półbrat",
-      "kind": "watching",
-      "mediaType": "series",
-      "seasonNumber": 1,
-      "periods": [
-        {
-          "startDate": "2026-06-02",
-          "endDate": "2026-06-02"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:105",
+      "id": "medialog:season:2703",
       "title": "Girl on Girl. Jak popkultura zwróciła kobiety przeciw sobie",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/cbf6a655226869763dc3bdfda407b218.jpg",
       "periods": [
         {
           "startDate": "2026-06-02",
           "endDate": "2026-06-04"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:102",
-      "title": "George and Mandy first marriage",
-      "kind": "watching",
-      "mediaType": "series",
-      "periods": [
+        },
         {
-          "startDate": "2026-06-04",
-          "endDate": "2026-06-07"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:103",
-      "title": "Znajomi i sąsiedzi",
-      "kind": "watching",
-      "mediaType": "series",
-      "coverUrl": "https://image.tmdb.org/t/p/w342/rYy0VW5A2Cz6iEh0K5EOz21boak.jpg",
-      "periods": [
-        {
-          "startDate": "2026-06-04",
-          "endDate": "2026-06-04"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:101",
-      "title": "Fargo",
-      "kind": "watching",
-      "mediaType": "series",
-      "periods": [
-        {
-          "startDate": "2026-06-05",
+          "startDate": "2026-06-08",
           "endDate": "2026-06-11"
         }
       ]
     },
     {
-      "id": "medialog:season:100",
+      "id": "medialog:season:1565",
+      "title": "George and Mandy first marriage",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/b39a7c3d833a3a6421335bf9d50e28af.jpg",
+      "periods": [
+        {
+          "startDate": "2026-06-04",
+          "endDate": "2026-06-07"
+        },
+        {
+          "startDate": "2026-07-26",
+          "endDate": "2026-07-26"
+        },
+        {
+          "startDate": "2026-08-02",
+          "endDate": "2026-08-02"
+        },
+        {
+          "startDate": "2026-08-03",
+          "endDate": "2026-08-03"
+        },
+        {
+          "startDate": "2026-08-04",
+          "endDate": "2026-08-04"
+        },
+        {
+          "startDate": "2026-08-05",
+          "endDate": "2026-08-05"
+        },
+        {
+          "startDate": "2026-08-06",
+          "endDate": "2026-08-06"
+        },
+        {
+          "startDate": "2026-08-07",
+          "endDate": "2026-08-07"
+        },
+        {
+          "startDate": "2026-08-09",
+          "endDate": "2026-08-09"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:746",
+      "title": "Fargo",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/a8e43296c8183d9a702d880602f5e9d6.jpg",
+      "periods": [
+        {
+          "startDate": "2026-06-05",
+          "endDate": "2026-06-11"
+        },
+        {
+          "startDate": "2026-06-14",
+          "endDate": "2026-06-16"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:2704",
       "title": "Drzewo magii",
       "kind": "watching",
       "mediaType": "movie",
@@ -1395,7 +1248,7 @@
       ]
     },
     {
-      "id": "medialog:season:99",
+      "id": "medialog:season:2705",
       "title": "Komunia",
       "kind": "watching",
       "mediaType": "movie",
@@ -1408,19 +1261,7 @@
       ]
     },
     {
-      "id": "medialog:season:98",
-      "title": "Girl on Girl. Jak popkultura zwróciła kobiety przeciw sobie",
-      "kind": "reading",
-      "mediaType": "book",
-      "periods": [
-        {
-          "startDate": "2026-06-08",
-          "endDate": "2026-06-11"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:97",
+      "id": "medialog:season:2707",
       "title": "Niekończąca się opowieść",
       "kind": "watching",
       "mediaType": "movie",
@@ -1433,7 +1274,7 @@
       ]
     },
     {
-      "id": "medialog:season:94",
+      "id": "medialog:season:2706",
       "title": "E.T.",
       "kind": "watching",
       "mediaType": "movie",
@@ -1446,7 +1287,7 @@
       ]
     },
     {
-      "id": "medialog:season:95",
+      "id": "medialog:season:2708",
       "title": "Wypadek: Sprawa Mackenzie Shirilli",
       "kind": "watching",
       "mediaType": "movie",
@@ -1459,36 +1300,28 @@
       ]
     },
     {
-      "id": "medialog:season:96",
+      "id": "medialog:season:2709",
       "title": "Moralna abdykacja. Dlaczego świat nie powstrzymał zagłady Strefy Gazy?",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/91e8f20be8e851c053f77365b32cfae0.jpg",
       "periods": [
         {
           "startDate": "2026-06-13",
           "endDate": "2026-06-14"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:93",
-      "title": "Fargo",
-      "kind": "watching",
-      "mediaType": "series",
-      "periods": [
+        },
         {
-          "startDate": "2026-06-14",
-          "endDate": "2026-06-16"
+          "startDate": "2026-06-22",
+          "endDate": "2026-06-23"
         }
       ]
     },
     {
-      "id": "medialog:season:91",
-      "title": "Wdowia Zatoka",
-      "kind": "watching",
-      "mediaType": "series",
-      "seasonNumber": 1,
-      "coverUrl": "https://image.tmdb.org/t/p/w342/ppHFPdmzTinhYrbRfVsgbmyyfX1.jpg",
+      "id": "medialog:season:2710",
+      "title": "Incel",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/be9a248d95e3514bb649913c32532680.jpg",
       "periods": [
         {
           "startDate": "2026-06-16",
@@ -1497,31 +1330,78 @@
       ]
     },
     {
-      "id": "medialog:season:90",
-      "title": "Odwilż",
-      "kind": "watching",
-      "mediaType": "series",
+      "id": "medialog:season:2711",
+      "title": "Berserk",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/0260b37b4633451ee7119c4af2c8de9a.jpg",
       "periods": [
         {
           "startDate": "2026-06-17",
           "endDate": "2026-06-17"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:86",
-      "title": "Berserk",
-      "kind": "reading",
-      "mediaType": "comic",
-      "periods": [
+        },
         {
           "startDate": "2026-06-18",
           "endDate": "2026-06-19"
+        },
+        {
+          "startDate": "2026-07-14",
+          "endDate": "2026-07-15"
+        },
+        {
+          "startDate": "2026-07-16",
+          "endDate": "2026-07-16"
+        },
+        {
+          "startDate": "2026-08-15",
+          "endDate": "2026-08-17"
+        },
+        {
+          "startDate": "2026-09-12",
+          "endDate": "2026-09-12"
+        },
+        {
+          "startDate": "2026-09-13",
+          "endDate": "2026-09-13"
+        },
+        {
+          "startDate": "2026-09-14",
+          "endDate": "2026-09-14"
         }
       ]
     },
     {
-      "id": "medialog:season:88",
+      "id": "medialog:season:1569",
+      "title": "Odwilż",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/19ffe43408de0cc9aa96297810a0b949.jpg",
+      "periods": [
+        {
+          "startDate": "2026-06-17",
+          "endDate": "2026-06-17"
+        },
+        {
+          "startDate": "2026-06-19",
+          "endDate": "2026-06-23"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:2713",
+      "title": "Nie chcemy innej ziemi",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "https://image.tmdb.org/t/p/w342/ekkFYtKUwdyqgdPijtq13M1C6gL.jpg",
+      "periods": [
+        {
+          "startDate": "2026-06-18",
+          "endDate": "2026-06-18"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:2714",
       "title": "Za duży na bajki",
       "kind": "watching",
       "mediaType": "movie",
@@ -1534,31 +1414,7 @@
       ]
     },
     {
-      "id": "medialog:season:85",
-      "title": "Odwilż",
-      "kind": "watching",
-      "mediaType": "series",
-      "periods": [
-        {
-          "startDate": "2026-06-19",
-          "endDate": "2026-06-23"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:84",
-      "title": "Moralna abdykacja. Dlaczego świat nie powstrzymał zagłady Strefy Gazy?",
-      "kind": "reading",
-      "mediaType": "book",
-      "periods": [
-        {
-          "startDate": "2026-06-22",
-          "endDate": "2026-06-23"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:83",
+      "id": "medialog:season:2715",
       "title": "Bugonia",
       "kind": "watching",
       "mediaType": "movie",
@@ -1571,10 +1427,11 @@
       ]
     },
     {
-      "id": "medialog:season:82",
+      "id": "medialog:season:2716",
       "title": "Hook",
       "kind": "watching",
       "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/3610e982faf0fba3e476021fe0160f72.jpg",
       "periods": [
         {
           "startDate": "2026-06-26",
@@ -1583,10 +1440,11 @@
       ]
     },
     {
-      "id": "medialog:season:79",
+      "id": "medialog:season:2717",
       "title": "Uwierz w plan. Skąd się wziął QAnon i jak namieszał w Ameryce",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/855d064c81e3ecacc65768be08b9d864.jpg",
       "periods": [
         {
           "startDate": "2026-06-27",
@@ -1595,7 +1453,7 @@
       ]
     },
     {
-      "id": "medialog:season:80",
+      "id": "medialog:season:2718",
       "title": "Hokus Pokus",
       "kind": "watching",
       "mediaType": "movie",
@@ -1608,7 +1466,7 @@
       ]
     },
     {
-      "id": "medialog:season:81",
+      "id": "medialog:season:2722",
       "title": "Królowa szachów",
       "kind": "watching",
       "mediaType": "movie",
@@ -1621,10 +1479,11 @@
       ]
     },
     {
-      "id": "medialog:season:78",
+      "id": "medialog:season:2719",
       "title": "Odwilż",
       "kind": "watching",
       "mediaType": "series",
+      "coverUrl": "data/medialog-covers/924e3cfe68561f523c6a3333270c9e94.jpg",
       "periods": [
         {
           "startDate": "2026-06-28",
@@ -1633,22 +1492,28 @@
       ]
     },
     {
-      "id": "medialog:season:76",
+      "id": "medialog:season:1567",
       "title": "Klangor",
       "kind": "watching",
       "mediaType": "series",
+      "coverUrl": "data/medialog-covers/9abdce97d33c0de8b4a6251540ecd25f.jpg",
       "periods": [
         {
           "startDate": "2026-07-04",
           "endDate": "2026-07-09"
+        },
+        {
+          "startDate": "2026-07-12",
+          "endDate": "2026-07-13"
         }
       ]
     },
     {
-      "id": "medialog:season:77",
+      "id": "medialog:season:2721",
       "title": "O czym mówimy, kiedy mówimy o gwałcie",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/f23f0a0be1efa5d122eae890eeb9f042.jpg",
       "periods": [
         {
           "startDate": "2026-07-04",
@@ -1657,10 +1522,11 @@
       ]
     },
     {
-      "id": "medialog:season:75",
+      "id": "medialog:season:2720",
       "title": "Dziewczyna, która zginie pierwsza",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/19288f727c40e78db9433c251ebc6de0.jpg",
       "periods": [
         {
           "startDate": "2026-07-11",
@@ -1669,46 +1535,32 @@
       ]
     },
     {
-      "id": "medialog:season:74",
-      "title": "Klangor",
-      "kind": "watching",
-      "mediaType": "series",
-      "periods": [
-        {
-          "startDate": "2026-07-12",
-          "endDate": "2026-07-13"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:72",
-      "title": "Berserk",
-      "kind": "reading",
-      "mediaType": "comic",
-      "periods": [
-        {
-          "startDate": "2026-07-14",
-          "endDate": "2026-07-15"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:73",
+      "id": "medialog:season:2725",
       "title": "Belfer",
       "kind": "watching",
       "mediaType": "series",
+      "coverUrl": "data/medialog-covers/f79beca91c5b46212da5664add96625e.jpg",
       "periods": [
         {
           "startDate": "2026-07-14",
           "endDate": "2026-07-19"
+        },
+        {
+          "startDate": "2026-07-21",
+          "endDate": "2026-07-21"
+        },
+        {
+          "startDate": "2026-07-22",
+          "endDate": "2026-07-22"
         }
       ]
     },
     {
-      "id": "medialog:season:71",
+      "id": "medialog:season:1606",
       "title": "The Testaments",
       "kind": "watching",
       "mediaType": "series",
+      "coverUrl": "data/medialog-covers/fee078d196b4ad8d94fc5e35ecb32273.jpg",
       "periods": [
         {
           "startDate": "2026-07-15",
@@ -1717,35 +1569,49 @@
       ]
     },
     {
-      "id": "medialog:season:70",
-      "title": "Berserk",
-      "kind": "reading",
-      "mediaType": "comic",
-      "periods": [
-        {
-          "startDate": "2026-07-16",
-          "endDate": "2026-07-16"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:68",
+      "id": "medialog:season:1746",
       "title": "Mad Men",
       "kind": "watching",
       "mediaType": "series",
-      "coverUrl": "https://image.tmdb.org/t/p/w342/7v8iCNzKFpdlrCMcqCoJyn74Nsa.jpg",
+      "coverUrl": "data/medialog-covers/98615e42e9f6f1162039c5445ce8c2da.jpg",
       "periods": [
         {
           "startDate": "2026-07-18",
           "endDate": "2026-07-18"
+        },
+        {
+          "startDate": "2026-07-20",
+          "endDate": "2026-07-20"
+        },
+        {
+          "startDate": "2026-07-23",
+          "endDate": "2026-07-23"
         }
       ]
     },
     {
-      "id": "medialog:season:67",
+      "id": "medialog:season:2729",
+      "title": "Afronauci. Z Zambii na księżyc",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/8de5efbccee758628ab044ea936a9288.jpg",
+      "periods": [
+        {
+          "startDate": "2026-07-18",
+          "endDate": "2026-07-18"
+        },
+        {
+          "startDate": "2026-07-24",
+          "endDate": "2026-07-24"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:2726",
       "title": "Japonia widziana oczyma 20 autorów",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/ab06eb80813f75fc06ecf65b431b4e2a.jpg",
       "periods": [
         {
           "startDate": "2026-07-19",
@@ -1754,70 +1620,28 @@
       ]
     },
     {
-      "id": "medialog:season:66",
-      "title": "Mad Men",
-      "kind": "watching",
-      "mediaType": "series",
-      "coverUrl": "https://image.tmdb.org/t/p/w342/7v8iCNzKFpdlrCMcqCoJyn74Nsa.jpg",
-      "periods": [
-        {
-          "startDate": "2026-07-20",
-          "endDate": "2026-07-20"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:65",
-      "title": "Belfer",
-      "kind": "watching",
-      "mediaType": "series",
-      "periods": [
-        {
-          "startDate": "2026-07-21",
-          "endDate": "2026-07-21"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:64",
-      "title": "Belfer",
-      "kind": "watching",
-      "mediaType": "series",
-      "periods": [
-        {
-          "startDate": "2026-07-22",
-          "endDate": "2026-07-22"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:62",
-      "title": "Mad Men",
-      "kind": "watching",
-      "mediaType": "series",
-      "coverUrl": "https://image.tmdb.org/t/p/w342/7v8iCNzKFpdlrCMcqCoJyn74Nsa.jpg",
-      "periods": [
-        {
-          "startDate": "2026-07-23",
-          "endDate": "2026-07-23"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:63",
+      "id": "medialog:season:2728",
       "title": "Morfeusz",
       "kind": "watching",
       "mediaType": "series",
-      "coverUrl": "https://image.tmdb.org/t/p/w342/i2bwzRYNBLAU6olOz4wKBOqoJFN.jpg",
+      "coverUrl": "data/medialog-covers/eaa0ed8efb810c2ecd32320c24d98407.jpg",
       "periods": [
         {
           "startDate": "2026-07-23",
           "endDate": "2026-07-23"
+        },
+        {
+          "startDate": "2026-07-25",
+          "endDate": "2026-07-26"
+        },
+        {
+          "startDate": "2026-08-02",
+          "endDate": "2026-08-06"
         }
       ]
     },
     {
-      "id": "medialog:season:60",
+      "id": "medialog:season:2727",
       "title": "Zaplątani",
       "kind": "watching",
       "mediaType": "movie",
@@ -1830,20 +1654,7 @@
       ]
     },
     {
-      "id": "medialog:season:58",
-      "title": "Morfeusz",
-      "kind": "watching",
-      "mediaType": "series",
-      "coverUrl": "https://image.tmdb.org/t/p/w342/i2bwzRYNBLAU6olOz4wKBOqoJFN.jpg",
-      "periods": [
-        {
-          "startDate": "2026-07-25",
-          "endDate": "2026-07-26"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:59",
+      "id": "medialog:season:2736",
       "title": "David Attenborough: Opowieść o gorylach",
       "kind": "watching",
       "mediaType": "movie",
@@ -1856,22 +1667,11 @@
       ]
     },
     {
-      "id": "medialog:season:57",
-      "title": "George and Mandy first marriage",
-      "kind": "watching",
-      "mediaType": "series",
-      "periods": [
-        {
-          "startDate": "2026-07-26",
-          "endDate": "2026-07-26"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:56",
+      "id": "medialog:season:1771",
       "title": "Szadź",
       "kind": "watching",
       "mediaType": "series",
+      "coverUrl": "data/medialog-covers/7de084317a0cc0511bd356dc040cf793.jpg",
       "periods": [
         {
           "startDate": "2026-07-27",
@@ -1880,11 +1680,11 @@
       ]
     },
     {
-      "id": "medialog:season:55",
+      "id": "medialog:season:2732",
       "title": "Z Archiwum X",
       "kind": "watching",
       "mediaType": "series",
-      "coverUrl": "https://image.tmdb.org/t/p/w342/qNULswF0YE4Mt7Fuwp09ibnS5HP.jpg",
+      "coverUrl": "data/medialog-covers/f84fdf7cb91bf66923064409c264b512.jpg",
       "periods": [
         {
           "startDate": "2026-07-28",
@@ -1893,10 +1693,11 @@
       ]
     },
     {
-      "id": "medialog:season:54",
+      "id": "medialog:season:2731",
       "title": "Niczyje dziecko",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/a0ce699d91990ac4fd7ab13159adeb14.jpg",
       "periods": [
         {
           "startDate": "2026-07-29",
@@ -1905,59 +1706,11 @@
       ]
     },
     {
-      "id": "medialog:season:52",
-      "title": "Morfeusz",
-      "kind": "watching",
-      "mediaType": "series",
-      "coverUrl": "https://image.tmdb.org/t/p/w342/i2bwzRYNBLAU6olOz4wKBOqoJFN.jpg",
-      "periods": [
-        {
-          "startDate": "2026-08-02",
-          "endDate": "2026-08-06"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:53",
-      "title": "George and Mandy first marriage",
-      "kind": "watching",
-      "mediaType": "series",
-      "periods": [
-        {
-          "startDate": "2026-08-02",
-          "endDate": "2026-08-02"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:51",
-      "title": "George and Mandy first marriage",
-      "kind": "watching",
-      "mediaType": "series",
-      "periods": [
-        {
-          "startDate": "2026-08-03",
-          "endDate": "2026-08-03"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:50",
-      "title": "George and Mandy first marriage",
-      "kind": "watching",
-      "mediaType": "series",
-      "periods": [
-        {
-          "startDate": "2026-08-04",
-          "endDate": "2026-08-04"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:49",
-      "title": "George and Mandy first marriage",
-      "kind": "watching",
-      "mediaType": "series",
+      "id": "medialog:season:2734",
+      "title": "Hejt",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/373fd0f1baef81107ed91e212d4c330d.jpg",
       "periods": [
         {
           "startDate": "2026-08-05",
@@ -1966,34 +1719,11 @@
       ]
     },
     {
-      "id": "medialog:season:47",
-      "title": "George and Mandy first marriage",
-      "kind": "watching",
-      "mediaType": "series",
-      "periods": [
-        {
-          "startDate": "2026-08-06",
-          "endDate": "2026-08-06"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:46",
-      "title": "George and Mandy first marriage",
-      "kind": "watching",
-      "mediaType": "series",
-      "periods": [
-        {
-          "startDate": "2026-08-07",
-          "endDate": "2026-08-07"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:45",
+      "id": "medialog:season:2733",
       "title": "Wonderland",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/decf2a7868ab744159e700a55a642d89.jpg",
       "periods": [
         {
           "startDate": "2026-08-08",
@@ -2002,35 +1732,16 @@
       ]
     },
     {
-      "id": "medialog:season:43",
+      "id": "medialog:season:2735",
       "title": "1670",
       "kind": "watching",
       "mediaType": "series",
+      "coverUrl": "data/medialog-covers/ce41ab3d5c4d8a66fe4b9af831f27abf.jpg",
       "periods": [
         {
           "startDate": "2026-08-09",
           "endDate": "2026-08-14"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:44",
-      "title": "George and Mandy first marriage",
-      "kind": "watching",
-      "mediaType": "series",
-      "periods": [
-        {
-          "startDate": "2026-08-09",
-          "endDate": "2026-08-09"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:42",
-      "title": "1670",
-      "kind": "watching",
-      "mediaType": "series",
-      "periods": [
+        },
         {
           "startDate": "2026-08-10",
           "endDate": "2026-08-10"
@@ -2038,23 +1749,36 @@
       ]
     },
     {
-      "id": "medialog:season:41",
+      "id": "medialog:season:2740",
       "title": "Genialna Morgan",
       "kind": "watching",
       "mediaType": "series",
-      "coverUrl": "https://image.tmdb.org/t/p/w342/tINVHuyjneY58DjgKOpVrx3cQzS.jpg",
+      "coverUrl": "data/medialog-covers/bb4d8534a855b911bc3cf1bb9cfe5163.jpg",
       "periods": [
         {
           "startDate": "2026-08-11",
           "endDate": "2026-08-11"
+        },
+        {
+          "startDate": "2026-08-17",
+          "endDate": "2026-08-18"
+        },
+        {
+          "startDate": "2026-08-22",
+          "endDate": "2026-08-23"
+        },
+        {
+          "startDate": "2026-08-31",
+          "endDate": "2026-08-31"
         }
       ]
     },
     {
-      "id": "medialog:season:40",
+      "id": "medialog:season:2738",
       "title": "The Bear",
       "kind": "watching",
       "mediaType": "series",
+      "coverUrl": "data/medialog-covers/1676b9d08bbb70b2b1f22bd76fbbea82.jpg",
       "periods": [
         {
           "startDate": "2026-08-14",
@@ -2063,35 +1787,11 @@
       ]
     },
     {
-      "id": "medialog:season:39",
-      "title": "Berserk",
-      "kind": "reading",
-      "mediaType": "comic",
-      "periods": [
-        {
-          "startDate": "2026-08-15",
-          "endDate": "2026-08-17"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:38",
-      "title": "Genialna Morgan",
-      "kind": "watching",
-      "mediaType": "series",
-      "coverUrl": "https://image.tmdb.org/t/p/w342/tINVHuyjneY58DjgKOpVrx3cQzS.jpg",
-      "periods": [
-        {
-          "startDate": "2026-08-17",
-          "endDate": "2026-08-18"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:37",
+      "id": "medialog:season:2741",
       "title": "Darknet",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/5aece5549ba78ab2e6aee93fbbc2fef2.jpg",
       "periods": [
         {
           "startDate": "2026-08-18",
@@ -2100,7 +1800,20 @@
       ]
     },
     {
-      "id": "medialog:season:35",
+      "id": "medialog:season:2742",
+      "title": "Gary",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "https://image.tmdb.org/t/p/w342/jtMuKwlOl4IzpB5fWn9RT9uyy6E.jpg",
+      "periods": [
+        {
+          "startDate": "2026-08-20",
+          "endDate": "2026-08-20"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:2743",
       "title": "Madagaskar",
       "kind": "watching",
       "mediaType": "movie",
@@ -2113,7 +1826,7 @@
       ]
     },
     {
-      "id": "medialog:season:33",
+      "id": "medialog:season:2744",
       "title": "Narzeczona dla księcia",
       "kind": "watching",
       "mediaType": "movie",
@@ -2126,20 +1839,7 @@
       ]
     },
     {
-      "id": "medialog:season:34",
-      "title": "Genialna Morgan",
-      "kind": "watching",
-      "mediaType": "series",
-      "coverUrl": "https://image.tmdb.org/t/p/w342/tINVHuyjneY58DjgKOpVrx3cQzS.jpg",
-      "periods": [
-        {
-          "startDate": "2026-08-22",
-          "endDate": "2026-08-23"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:32",
+      "id": "medialog:season:1634",
       "title": "Niebo",
       "kind": "watching",
       "mediaType": "series",
@@ -2153,11 +1853,11 @@
       ]
     },
     {
-      "id": "medialog:season:31",
+      "id": "medialog:season:2746",
       "title": "Z Archiwum X",
       "kind": "watching",
       "mediaType": "series",
-      "coverUrl": "https://image.tmdb.org/t/p/w342/qNULswF0YE4Mt7Fuwp09ibnS5HP.jpg",
+      "coverUrl": "data/medialog-covers/6363d973707a2b455fd8d02dac738628.jpg",
       "periods": [
         {
           "startDate": "2026-08-24",
@@ -2166,10 +1866,11 @@
       ]
     },
     {
-      "id": "medialog:season:29",
+      "id": "medialog:season:2751",
       "title": "Mickey7",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/a40a77d696d326a220c822546ec2ac26.jpg",
       "periods": [
         {
           "startDate": "2026-08-29",
@@ -2178,63 +1879,16 @@
       ]
     },
     {
-      "id": "medialog:season:30",
+      "id": "medialog:season:2753",
       "title": "Banshee",
       "kind": "watching",
       "mediaType": "series",
-      "coverUrl": "https://image.tmdb.org/t/p/w342/islWvw29rF8dOO8LpzBQOkTCf2X.jpg",
+      "coverUrl": "data/medialog-covers/4676877434bb9df2885d2d9f1fed0167.jpg",
       "periods": [
         {
           "startDate": "2026-08-29",
           "endDate": "2026-09-03"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:28",
-      "title": "Genialna Morgan",
-      "kind": "watching",
-      "mediaType": "series",
-      "coverUrl": "https://image.tmdb.org/t/p/w342/tINVHuyjneY58DjgKOpVrx3cQzS.jpg",
-      "periods": [
-        {
-          "startDate": "2026-08-31",
-          "endDate": "2026-08-31"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:27",
-      "title": "Genialna Morgan",
-      "kind": "watching",
-      "mediaType": "series",
-      "coverUrl": "https://image.tmdb.org/t/p/w342/tINVHuyjneY58DjgKOpVrx3cQzS.jpg",
-      "periods": [
-        {
-          "startDate": "2026-09-02",
-          "endDate": "2026-09-03"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:26",
-      "title": "Silos",
-      "kind": "watching",
-      "mediaType": "series",
-      "periods": [
-        {
-          "startDate": "2026-09-03",
-          "endDate": "2026-09-03"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:25",
-      "title": "Banshee",
-      "kind": "watching",
-      "mediaType": "series",
-      "coverUrl": "https://image.tmdb.org/t/p/w342/islWvw29rF8dOO8LpzBQOkTCf2X.jpg",
-      "periods": [
+        },
         {
           "startDate": "2026-09-06",
           "endDate": "2026-09-09"
@@ -2242,10 +1896,28 @@
       ]
     },
     {
-      "id": "medialog:season:23",
+      "id": "medialog:season:2754",
+      "title": "Genialna Morgan",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/e62bc4ce2bb0a132098b30573d755184.jpg",
+      "periods": [
+        {
+          "startDate": "2026-09-02",
+          "endDate": "2026-09-03"
+        },
+        {
+          "startDate": "2026-09-07",
+          "endDate": "2026-09-08"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:2757",
       "title": "Mała historia znikania. Opowieść o Rzece",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/41579b9d9c5e62925dca4630fc0ea54a.jpg",
       "periods": [
         {
           "startDate": "2026-09-07",
@@ -2254,81 +1926,41 @@
       ]
     },
     {
-      "id": "medialog:season:24",
-      "title": "Genialna Morgan",
-      "kind": "watching",
-      "mediaType": "series",
-      "coverUrl": "https://image.tmdb.org/t/p/w342/tINVHuyjneY58DjgKOpVrx3cQzS.jpg",
-      "periods": [
-        {
-          "startDate": "2026-09-07",
-          "endDate": "2026-09-08"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:22",
+      "id": "medialog:season:2758",
       "title": "Banshee",
       "kind": "watching",
       "mediaType": "series",
-      "coverUrl": "https://image.tmdb.org/t/p/w342/islWvw29rF8dOO8LpzBQOkTCf2X.jpg",
+      "coverUrl": "data/medialog-covers/68be5bd91a5801aa126638339b7d7bd9.jpg",
       "periods": [
         {
           "startDate": "2026-09-10",
           "endDate": "2026-09-17"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:21",
-      "title": "Berserk",
-      "kind": "reading",
-      "mediaType": "comic",
-      "periods": [
+        },
         {
-          "startDate": "2026-09-12",
-          "endDate": "2026-09-12"
+          "startDate": "2026-09-20",
+          "endDate": "2026-09-22"
         }
       ]
     },
     {
-      "id": "medialog:season:20",
-      "title": "Berserk",
-      "kind": "reading",
-      "mediaType": "comic",
-      "periods": [
-        {
-          "startDate": "2026-09-13",
-          "endDate": "2026-09-13"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:19",
-      "title": "Berserk",
-      "kind": "reading",
-      "mediaType": "comic",
-      "periods": [
-        {
-          "startDate": "2026-09-14",
-          "endDate": "2026-09-14"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:18",
+      "id": "medialog:season:2760",
       "title": "Przyszło nam tu żyć. Reportaże z Rosji",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/d28a867ab96b6a15a1591c357ba077fc.jpg",
       "periods": [
         {
           "startDate": "2026-09-17",
           "endDate": "2026-09-19"
+        },
+        {
+          "startDate": "2026-09-22",
+          "endDate": "2026-09-23"
         }
       ]
     },
     {
-      "id": "medialog:season:17",
+      "id": "medialog:season:2761",
       "title": "Vaiana: Skarb oceanu",
       "kind": "watching",
       "mediaType": "movie",
@@ -2341,7 +1973,7 @@
       ]
     },
     {
-      "id": "medialog:season:16",
+      "id": "medialog:season:2762",
       "title": "Morska bestia",
       "kind": "watching",
       "mediaType": "movie",
@@ -2354,24 +1986,11 @@
       ]
     },
     {
-      "id": "medialog:season:15",
-      "title": "Banshee",
-      "kind": "watching",
-      "mediaType": "series",
-      "coverUrl": "https://image.tmdb.org/t/p/w342/islWvw29rF8dOO8LpzBQOkTCf2X.jpg",
-      "periods": [
-        {
-          "startDate": "2026-09-20",
-          "endDate": "2026-09-22"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:13",
+      "id": "medialog:season:2763",
       "title": "Z Archiwum X",
       "kind": "watching",
       "mediaType": "series",
-      "coverUrl": "https://image.tmdb.org/t/p/w342/qNULswF0YE4Mt7Fuwp09ibnS5HP.jpg",
+      "coverUrl": "data/medialog-covers/a2cae2a543de097aeee4e107f240f4c5.jpg",
       "periods": [
         {
           "startDate": "2026-09-22",
@@ -2380,48 +1999,33 @@
       ]
     },
     {
-      "id": "medialog:season:14",
-      "title": "Przyszło nam tu żyć. Reportaże z Rosji",
-      "kind": "reading",
-      "mediaType": "book",
-      "periods": [
-        {
-          "startDate": "2026-09-22",
-          "endDate": "2026-09-23"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:12",
+      "id": "medialog:season:2764",
       "title": "Banshee",
       "kind": "watching",
       "mediaType": "series",
-      "coverUrl": "https://image.tmdb.org/t/p/w342/islWvw29rF8dOO8LpzBQOkTCf2X.jpg",
+      "coverUrl": "data/medialog-covers/e6a40df9836ea468a01abd19a669a032.jpg",
       "periods": [
         {
           "startDate": "2026-09-23",
           "endDate": "2026-10-01"
+        },
+        {
+          "startDate": "2026-10-04",
+          "endDate": "2026-10-06"
         }
       ]
     },
     {
-      "id": "medialog:season:11",
+      "id": "medialog:season:2765",
       "title": "Mogłabym być jego córką",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/ce8a04b01acaada937f36a31ad39397b.jpg",
       "periods": [
         {
           "startDate": "2026-09-24",
           "endDate": "2026-09-25"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:10",
-      "title": "Mogłabym być jego córką",
-      "kind": "reading",
-      "mediaType": "book",
-      "periods": [
+        },
         {
           "startDate": "2026-09-28",
           "endDate": "2026-09-28"
@@ -2429,10 +2033,11 @@
       ]
     },
     {
-      "id": "medialog:season:9",
+      "id": "medialog:season:2766",
       "title": "Obietnica dla Zmarłej",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/2cd4db7974ac6bf60a13eea305d04c67.jpg",
       "periods": [
         {
           "startDate": "2026-09-29",
@@ -2441,23 +2046,11 @@
       ]
     },
     {
-      "id": "medialog:season:8",
-      "title": "Banshee",
-      "kind": "watching",
-      "mediaType": "series",
-      "coverUrl": "https://image.tmdb.org/t/p/w342/islWvw29rF8dOO8LpzBQOkTCf2X.jpg",
-      "periods": [
-        {
-          "startDate": "2026-10-04",
-          "endDate": "2026-10-06"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:7",
+      "id": "medialog:season:2768",
       "title": "Gównowacenie. Jak cyfrowi giganci zmieniają nasz świat na gorsze",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/f9d671e9bb28f288db15b3eef5c7e5f1.jpg",
       "periods": [
         {
           "startDate": "2026-10-05",
@@ -2466,36 +2059,11 @@
       ]
     },
     {
-      "id": "medialog:season:6",
-      "title": "Ted Lasso",
-      "kind": "watching",
-      "mediaType": "series",
-      "seasonNumber": 4,
-      "periods": [
-        {
-          "startDate": "2026-10-06",
-          "endDate": "2026-10-06"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:4",
-      "title": "George and Mandy first marriage",
-      "kind": "watching",
-      "mediaType": "series",
-      "periods": [
-        {
-          "startDate": "2026-10-07",
-          "endDate": "2026-10-07"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:5",
+      "id": "medialog:season:2767",
       "title": "Banshee",
       "kind": "watching",
       "mediaType": "series",
-      "coverUrl": "data/medialog-covers/4676877434bb9df2885d2d9f1fed0167.jpg",
+      "coverUrl": "data/medialog-covers/d237e52d61f72b8402a9562c8928099d.jpg",
       "periods": [
         {
           "startDate": "2026-10-07",
@@ -2504,23 +2072,11 @@
       ]
     },
     {
-      "id": "medialog:season:3",
-      "title": "Pionek",
-      "kind": "watching",
-      "mediaType": "series",
-      "coverUrl": "https://image.tmdb.org/t/p/w342/iirTKNlAVdacYHo3fXBGIzhglQU.jpg",
-      "periods": [
-        {
-          "startDate": "2026-10-08",
-          "endDate": "2026-10-08"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:2",
+      "id": "medialog:season:2769",
       "title": "Gaz do dechy",
       "kind": "reading",
       "mediaType": "book",
+      "coverUrl": "data/medialog-covers/eea8f318f488b9349ff3f50080eaa5f6.jpg",
       "periods": [
         {
           "startDate": "2026-10-13",
@@ -2529,10 +2085,11 @@
       ]
     },
     {
-      "id": "medialog:season:1",
+      "id": "medialog:season:2770",
       "title": "Powrót do przyszłości",
       "kind": "watching",
       "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/bd019df1c84fa41f923f9c2286279738.jpg",
       "periods": [
         {
           "startDate": "2026-10-16",
