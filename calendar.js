@@ -85,7 +85,7 @@ function cardItem(entry) {
     return item;
 }
 
-// One button per day: hover, focus or tap shows a single card with everything on that day.
+// One button per day: hover (tap on touch) or keyboard focus shows a single card with everything on that day.
 function dayButton(entries, date) {
     const button = document.createElement("button");
     const card = document.createElement("span");
@@ -94,22 +94,12 @@ function dayButton(entries, date) {
     button.className = "day-button";
     button.setAttribute("aria-label", entries.map(entry => `${labels[entry.kind]}: ${entry.title}`).join(", "));
     button.setAttribute("aria-describedby", `card-${date}`);
-    button.setAttribute("aria-expanded", "false");
     entries.forEach(entry => button.append(preview(entry)));
     card.className = "card";
     card.id = `card-${date}`;
     card.setAttribute("role", "tooltip");
     entries.forEach(entry => card.append(cardItem(entry)));
     button.append(card);
-    button.addEventListener("click", () => {
-        const open = !button.classList.contains("is-open");
-        document.querySelectorAll(".day-button.is-open").forEach(item => {
-            item.classList.remove("is-open");
-            item.setAttribute("aria-expanded", "false");
-        });
-        button.classList.toggle("is-open", open);
-        button.setAttribute("aria-expanded", String(open));
-    });
     return button;
 }
 
