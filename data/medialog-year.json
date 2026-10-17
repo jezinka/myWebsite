@@ -1339,34 +1339,6 @@
         {
           "startDate": "2026-06-17",
           "endDate": "2026-06-17"
-        },
-        {
-          "startDate": "2026-06-18",
-          "endDate": "2026-06-19"
-        },
-        {
-          "startDate": "2026-07-14",
-          "endDate": "2026-07-15"
-        },
-        {
-          "startDate": "2026-07-16",
-          "endDate": "2026-07-16"
-        },
-        {
-          "startDate": "2026-08-15",
-          "endDate": "2026-08-17"
-        },
-        {
-          "startDate": "2026-09-12",
-          "endDate": "2026-09-12"
-        },
-        {
-          "startDate": "2026-09-13",
-          "endDate": "2026-09-13"
-        },
-        {
-          "startDate": "2026-09-14",
-          "endDate": "2026-09-14"
         }
       ]
     },
@@ -1384,6 +1356,19 @@
         {
           "startDate": "2026-06-19",
           "endDate": "2026-06-23"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:2712",
+      "title": "Berserk",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/28ba2c0cbb8446cda140f33982144391.jpg",
+      "periods": [
+        {
+          "startDate": "2026-06-18",
+          "endDate": "2026-06-19"
         }
       ]
     },
@@ -1535,6 +1520,19 @@
       ]
     },
     {
+      "id": "medialog:season:2723",
+      "title": "Berserk",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/36f25eb697a4b9e660d0e58c8ce3bf37.jpg",
+      "periods": [
+        {
+          "startDate": "2026-07-14",
+          "endDate": "2026-07-15"
+        }
+      ]
+    },
+    {
       "id": "medialog:season:2725",
       "title": "Belfer",
       "kind": "watching",
@@ -1564,6 +1562,19 @@
       "periods": [
         {
           "startDate": "2026-07-15",
+          "endDate": "2026-07-16"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:2724",
+      "title": "Berserk",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/15f986828257403b4cfe15ed284e5ac6.jpg",
+      "periods": [
+        {
+          "startDate": "2026-07-16",
           "endDate": "2026-07-16"
         }
       ]
@@ -1787,6 +1798,19 @@
       ]
     },
     {
+      "id": "medialog:season:2739",
+      "title": "Berserk",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/b2914b5331b59948bd1f62485507186a.jpg",
+      "periods": [
+        {
+          "startDate": "2026-08-15",
+          "endDate": "2026-08-17"
+        }
+      ]
+    },
+    {
       "id": "medialog:season:2741",
       "title": "Darknet",
       "kind": "reading",
@@ -1943,6 +1967,19 @@
       ]
     },
     {
+      "id": "medialog:season:2759",
+      "title": "Berserk",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/3d8efd7de1d71899217acfbe993ec74d.jpg",
+      "periods": [
+        {
+          "startDate": "2026-09-12",
+          "endDate": "2026-09-14"
+        }
+      ]
+    },
+    {
       "id": "medialog:season:2760",
       "title": "Przyszło nam tu żyć. Reportaże z Rosji",
       "kind": "reading",
@@ -2094,6 +2131,19 @@
         {
           "startDate": "2026-10-16",
           "endDate": "2026-10-16"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:2771",
+      "title": "Berserk",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/5e6bb57692a51ff9c19ffa453aae2d63.jpg",
+      "periods": [
+        {
+          "startDate": "2026-10-17",
+          "endDate": "2026-10-17"
         }
       ]
     }
