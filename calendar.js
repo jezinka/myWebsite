@@ -39,65 +39,71 @@ function iconUrl(icon) {
     return typeof icon === "string" && /^\/icons\/[^/]+\.png$/.test(icon) ? icon : null;
 }
 
-function marker(entry, date) {
+function image(className, src) {
+    const element = document.createElement("img");
+    element.className = className;
+    element.src = src;
+    element.alt = "";
+    element.loading = "lazy";
+    return element;
+}
+
+function preview(entry) {
+    const element = document.createElement("span");
+    const cover = coverUrl(entry);
+    const iconSource = iconUrl(entry.icon);
+    element.className = entry.kind === "sport" ? "marker marker--sport" : "marker marker--media";
+    if (entry.kind !== "sport" && cover) element.append(image("marker-cover", cover));
+    else if (iconSource) element.append(image("sport-icon", iconSource));
+    else element.textContent = icons[entry.kind];
+    return element;
+}
+
+function stats(entry) {
+    const hours = Math.floor(entry.durationMinutes / 60);
+    return [
+        Number.isFinite(entry.durationMinutes) && entry.durationMinutes > 0 ? `${hours ? `${hours} h ` : ""}${entry.durationMinutes % 60} min` : null,
+        Number.isFinite(entry.distanceKm) && entry.distanceKm > 0 ? `${entry.distanceKm.toLocaleString("pl-PL")} km` : null,
+        Number.isInteger(entry.seasonNumber) ? `sezon ${entry.seasonNumber}` : null,
+    ].filter(Boolean).join(" · ");
+}
+
+function cardItem(entry) {
+    const item = document.createElement("span");
+    const cover = coverUrl(entry);
+    const iconSource = iconUrl(entry.icon);
+    const title = document.createElement("span");
+    const details = stats(entry);
+    item.className = "card-item";
+    if (cover) item.append(image("card-cover", cover));
+    else if (iconSource) item.append(image("card-icon", iconSource));
+    else item.append(Object.assign(document.createElement("span"), { className: "card-icon", textContent: icons[entry.kind] }));
+    title.className = "card-title";
+    title.textContent = entry.title;
+    item.append(title);
+    if (details) item.append(Object.assign(document.createElement("span"), { className: "card-season", textContent: details }));
+    return item;
+}
+
+// One button per day: hover, focus or tap shows a single card with everything on that day.
+function dayButton(entries, date) {
     const button = document.createElement("button");
     const card = document.createElement("span");
-    const cardId = `event-${entry.id}-${date}`;
-    const icon = entry.icon || icons[entry.kind];
-    const color = entry.kind === "sport" && CSS.supports("color", entry.color) ? entry.color : colors[entry.kind];
-    const cover = coverUrl(entry);
-    const iconSource = iconUrl(icon);
-
+    const labels = { reading: "Czytam", watching: "Oglądam", sport: "Sport" };
     button.type = "button";
-    button.className = entry.kind === "sport" ? "marker marker--sport" : "marker marker--media";
-    button.style.setProperty("--marker-color", color);
-    if (entry.kind === "sport" && iconSource) {
-        const image = document.createElement("img");
-        image.className = "sport-icon";
-        image.src = iconSource;
-        image.alt = "";
-        button.append(image);
-    } else if (entry.kind === "sport") button.textContent = icon;
-    if (cover && entry.kind !== "sport") {
-        const image = document.createElement("img");
-        image.className = "marker-cover";
-        image.src = cover;
-        image.alt = "";
-        image.loading = "lazy";
-        button.append(image);
-    }
-    button.setAttribute("aria-label", `${entry.kind === "reading" ? "Czytam" : entry.kind === "watching" ? "Oglądam" : "Sport"}: ${entry.title}`);
-    button.setAttribute("aria-describedby", cardId);
+    button.className = "day-button";
+    button.setAttribute("aria-label", entries.map(entry => `${labels[entry.kind]}: ${entry.title}`).join(", "));
+    button.setAttribute("aria-describedby", `card-${date}`);
     button.setAttribute("aria-expanded", "false");
+    entries.forEach(entry => button.append(preview(entry)));
     card.className = "card";
-    card.id = cardId;
+    card.id = `card-${date}`;
     card.setAttribute("role", "tooltip");
-    if (cover) {
-        const image = document.createElement("img");
-        image.src = cover;
-        image.alt = "";
-        image.loading = "lazy";
-        card.append(image);
-    } else {
-        const iconElement = document.createElement("span");
-        iconElement.className = "card-icon";
-        iconElement.textContent = icon;
-        card.append(iconElement);
-    }
-    const eventTitle = document.createElement("span");
-    eventTitle.className = "card-title";
-    eventTitle.textContent = entry.title;
-    card.append(eventTitle);
-    if (Number.isInteger(entry.seasonNumber)) {
-        const season = document.createElement("span");
-        season.className = "card-season";
-        season.textContent = `sezon ${entry.seasonNumber}`;
-        card.append(season);
-    }
+    entries.forEach(entry => card.append(cardItem(entry)));
     button.append(card);
     button.addEventListener("click", () => {
         const open = !button.classList.contains("is-open");
-        document.querySelectorAll(".marker.is-open").forEach(item => {
+        document.querySelectorAll(".day-button.is-open").forEach(item => {
             item.classList.remove("is-open");
             item.setAttribute("aria-expanded", "false");
         });
@@ -132,6 +138,7 @@ function renderMonth(calendar, month, cells) {
 function place(entries, cells) {
     const dates = [...cells.keys()];
     const occupied = { media: new Set(), sport: new Set() };
+    const byDate = new Map();
     entries
         .map(entry => ({ entry, first: firstDate(entry, dates[0], dates.at(-1)) }))
         .filter(item => item.first)
@@ -142,10 +149,15 @@ function place(entries, cells) {
             const date = dates.slice(dates.indexOf(first)).find(candidate => !slot.has(candidate));
             if (!date) return;
             slot.add(date);
-            const cell = cells.get(date);
-            cell.classList.add("has-item");
-            cell.append(marker(entry, date));
+            if (!byDate.has(date)) byDate.set(date, []);
+            byDate.get(date).push(entry);
         });
+    byDate.forEach((dayEntries, date) => {
+        const cell = cells.get(date);
+        cell.classList.add("has-item");
+        // Media first so the cover sits under the small sport icon.
+        cell.append(dayButton(dayEntries.sort((a, b) => (a.kind === "sport") - (b.kind === "sport")), date));
+    });
 }
 
 function monthSection(month) {

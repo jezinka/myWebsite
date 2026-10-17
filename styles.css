@@ -16,19 +16,21 @@ h1 span { color: red; }
 .day.has-item { cursor: pointer; box-shadow: 0 1px 2px rgb(0 0 0 / 8%); transition: transform 150ms, box-shadow 150ms; }
 .day.has-item:hover, .day.has-item:focus-within { z-index: 1; transform: scale(1.08); box-shadow: 0 4px 8px rgb(0 0 0 / 18%); }
 .day-number { position: absolute; inset: 0 0 auto; z-index: 2; height: 16px; padding: 0 4px; background: #fff; color: #4b5563; font-size: 9px; font-weight: 700; line-height: 16px; }
-.marker { position: relative; padding: 0; border: 0; background: none; cursor: pointer; }
-.marker--media { position: absolute; inset: 16px 0 0; display: block; width: auto; height: auto; }
-.marker-cover { display: block; width: 100%; height: 100%; object-fit: contain; }
+.day-button { position: absolute; inset: 0; z-index: 3; padding: 0; border: 0; border-radius: inherit; background: none; cursor: pointer; }
+.day-button:focus-visible { outline: 2px solid #111827; outline-offset: 2px; }
+.marker--media { position: absolute; inset: 16px 0 0; display: grid; place-items: center; overflow: hidden; font-size: 14px; }
+.marker-cover { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; }
 .marker--media::after { position: absolute; inset: 0; content: ""; background: transparent; transition: background 150ms; }
 .day:hover .marker--media::after { background: rgb(0 0 0 / 20%); }
-.marker--sport { position: absolute; z-index: 3; right: 3px; bottom: 3px; width: 14px; height: 14px; font-size: 14px; line-height: 14px; }
+.marker--sport { position: absolute; right: 3px; bottom: 3px; width: 14px; height: 14px; font-size: 14px; line-height: 14px; }
 .sport-icon { display: block; width: 14px; height: 14px; object-fit: contain; }
-.marker:focus-visible { outline: 2px solid #111827; outline-offset: 2px; }
-.card { display: none; position: absolute; z-index: 10; top: 1.3rem; left: 0; width: 12rem; padding: .5rem; border: 1px solid #d1d5db; border-radius: .35rem; background: #fff; box-shadow: 0 .25rem .75rem rgb(0 0 0 / 20%); text-align: left; color: #1f2937; }
-.marker:hover .card, .marker:focus .card, .marker.is-open .card { display: block; }
-.marker--sport .card, .day:nth-child(7n) .card { top: auto; right: 0; bottom: 1.3rem; left: auto; }
-.card img { display: block; width: 100%; max-height: 10rem; object-fit: contain; border-radius: .2rem; }
-.card-icon { display: block; font-size: 14px; }
+.card { display: none; position: absolute; z-index: 10; top: 1.3rem; left: 0; width: 12rem; padding: .5rem; border: 1px solid #d1d5db; border-radius: .35rem; background: #fff; box-shadow: 0 .25rem .75rem rgb(0 0 0 / 20%); text-align: left; color: #1f2937; font-size: .8rem; }
+.day-button:hover .card, .day-button:focus .card, .day-button.is-open .card { display: block; }
+.day:nth-child(7n) .card, .day:nth-child(7n + 6) .card { right: 0; left: auto; }
+.card-item { display: block; }
+.card-item + .card-item { margin-top: .5rem; padding-top: .5rem; border-top: 1px solid #e5e7eb; }
+.card-cover { display: block; width: 100%; max-height: 10rem; object-fit: contain; border-radius: .2rem; }
+.card-icon { display: block; width: 24px; height: 24px; font-size: 18px; }
 .card-title, .card-season { display: block; margin-top: .35rem; }
 .card-title { font-weight: 700; }
 @media (max-width: 420px) {
@@ -36,7 +38,7 @@ h1 span { color: red; }
     .card { width: min(12rem, 80vw); }
 }
 .page-nav { margin: 0 0 1rem; font-size: .875rem; }
-.year-main { width: min(100% - 2rem, 1200px); }
-.year-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1.5rem; margin-top: 1rem; }
+.year-main { width: min(100% - 1rem, 1544px); margin: 1rem auto; }
+/* 3 months per row from ~1350px wide (laptop), fewer when narrower. */
+.year-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 420px), 1fr)); gap: 1.5rem; margin-top: 1rem; }
 .year-month h3 { margin: 0; text-transform: capitalize; }
-@media (max-width: 600px) { .year-grid { grid-template-columns: 1fr; } }
