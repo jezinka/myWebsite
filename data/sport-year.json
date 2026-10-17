@@ -1329,6 +1329,19 @@
       ]
     },
     {
+      "id": "sport:activity:gps_1791903373000",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "distanceKm": 12.3,
+      "periods": [
+        {
+          "startDate": "2026-10-13",
+          "endDate": "2026-10-13"
+        }
+      ]
+    },
+    {
       "id": "sport:activity:fit_1791990284000",
       "title": "Joga",
       "kind": "sport",
