@@ -125,6 +125,19 @@
       ]
     },
     {
+      "id": "medialog:season:2756",
+      "title": "Pionek",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/79df74a735b5b7987dace986bb06489d.jpg",
+      "periods": [
+        {
+          "startDate": "2026-10-18",
+          "endDate": "2026-10-23"
+        }
+      ]
+    },
+    {
       "id": "medialog:season:2773",
       "title": "Berserk",
       "kind": "reading",
