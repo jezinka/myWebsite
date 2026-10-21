@@ -181,6 +181,19 @@
       ]
     },
     {
+      "id": "medialog:season:2776",
+      "title": "Na wschód od Edenu",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/4c8b30df0bb519e5991d7ede99da8cdc.jpg",
+      "periods": [
+        {
+          "startDate": "2026-10-21",
+          "endDate": "2026-10-21"
+        }
+      ]
+    },
+    {
       "id": "medialog:season:2775",
       "title": "Berserk",
       "kind": "reading",
