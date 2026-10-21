@@ -151,6 +151,23 @@
       ]
     },
     {
+      "id": "medialog:season:2754",
+      "title": "Genialna Morgan",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/e62bc4ce2bb0a132098b30573d755184.jpg",
+      "periods": [
+        {
+          "startDate": "2026-10-20",
+          "endDate": "2026-10-20"
+        },
+        {
+          "startDate": "2026-10-21",
+          "endDate": "2026-10-21"
+        }
+      ]
+    },
+    {
       "id": "medialog:season:2774",
       "title": "Berserk",
       "kind": "reading",
