@@ -1353,6 +1353,32 @@
           "endDate": "2026-10-14"
         }
       ]
+    },
+    {
+      "id": "sport:activity:fit_1792594924000",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 53,
+      "periods": [
+        {
+          "startDate": "2026-10-21",
+          "endDate": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:gps_1792766145000",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "distanceKm": 11.7,
+      "periods": [
+        {
+          "startDate": "2026-10-23",
+          "endDate": "2026-10-23"
+        }
+      ]
     }
   ]
 }
