@@ -205,6 +205,19 @@
           "endDate": "2026-10-23"
         }
       ]
+    },
+    {
+      "id": "medialog:season:2777",
+      "title": "Berserk",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/3e52b70fbf3e669b212d09e16e456b00.jpg",
+      "periods": [
+        {
+          "startDate": "2026-10-23",
+          "endDate": "2026-10-24"
+        }
+      ]
     }
   ]
 }
