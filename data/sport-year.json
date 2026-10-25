@@ -1379,6 +1379,19 @@
           "endDate": "2026-10-23"
         }
       ]
+    },
+    {
+      "id": "sport:activity:gps_1792919622000",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "distanceKm": 10.2,
+      "periods": [
+        {
+          "startDate": "2026-10-25",
+          "endDate": "2026-10-25"
+        }
+      ]
     }
   ]
 }
