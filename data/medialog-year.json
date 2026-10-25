@@ -863,9 +863,9 @@
       "id": "medialog:season:1684",
       "title": "Angel's Egg",
       "kind": "watching",
-      "mediaType": "anime",
+      "mediaType": "cartoon",
       "seasonNumber": 1,
-      "coverUrl": "https://image.tmdb.org/t/p/w342/axYxKgxsKrcOa8dPyUaWbrAbCVi.jpg",
+      "coverUrl": "data/medialog-covers/79c61172daa8f8d49ac2b32be9d6ff96.jpg",
       "periods": [
         {
           "startDate": "2026-05-02",
