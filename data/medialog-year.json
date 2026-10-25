@@ -21,6 +21,7 @@
       "title": "Stranger Things",
       "kind": "watching",
       "mediaType": "series",
+      "seasonNumber": 5,
       "coverUrl": "data/medialog-covers/b99d3d97282f09e55a925b1adec11d6a.jpg",
       "periods": [
         {
@@ -74,6 +75,7 @@
       "title": "The Pitt",
       "kind": "watching",
       "mediaType": "series",
+      "seasonNumber": 1,
       "coverUrl": "data/medialog-covers/c4b44e7092781d3bed2f3438e5267479.jpg",
       "periods": [
         {
@@ -87,6 +89,7 @@
       "title": "Kulinarna walka klas",
       "kind": "watching",
       "mediaType": "series",
+      "seasonNumber": 2,
       "coverUrl": "data/medialog-covers/a243f2fbc31611cb3e52be10129f9ae7.jpg",
       "periods": [
         {
@@ -152,6 +155,7 @@
       "title": "Pantheon",
       "kind": "watching",
       "mediaType": "series",
+      "seasonNumber": 1,
       "coverUrl": "data/medialog-covers/a2c30ea9804d7c03b65efe954ef300a6.jpg",
       "periods": [
         {
@@ -182,6 +186,7 @@
       "title": "Fallout",
       "kind": "watching",
       "mediaType": "series",
+      "seasonNumber": 2,
       "coverUrl": "data/medialog-covers/82b24473cd00e2b25f421846ec596b0b.jpg",
       "periods": [
         {
@@ -240,6 +245,7 @@
       "title": "Pantheon",
       "kind": "watching",
       "mediaType": "series",
+      "seasonNumber": 2,
       "coverUrl": "data/medialog-covers/57203a502a2f7e09deff6de9044aee8c.jpg",
       "periods": [
         {
@@ -548,6 +554,7 @@
       "title": "Queer Eye",
       "kind": "watching",
       "mediaType": "series",
+      "seasonNumber": 10,
       "coverUrl": "data/medialog-covers/d07ef54a98ef031211247ce0639ff6e4.jpg",
       "periods": [
         {
@@ -601,6 +608,7 @@
       "title": "The Pitt",
       "kind": "watching",
       "mediaType": "series",
+      "seasonNumber": 2,
       "coverUrl": "data/medialog-covers/860f865583d9c8a481ab74bcfc9934a8.jpg",
       "periods": [
         {
@@ -986,6 +994,7 @@
       "title": "Minuta ciszy",
       "kind": "watching",
       "mediaType": "series",
+      "seasonNumber": 2,
       "coverUrl": "data/medialog-covers/788e2fe0ff2ca85d56bd09de4a7a2f95.jpg",
       "periods": [
         {
@@ -1042,6 +1051,7 @@
       "title": "Kasztanowy ludzik",
       "kind": "watching",
       "mediaType": "series",
+      "seasonNumber": 2,
       "coverUrl": "data/medialog-covers/33f2af08600108e8f8ecafd1dca7c4f7.jpg",
       "periods": [
         {
@@ -1130,6 +1140,7 @@
       "title": "The Boys",
       "kind": "watching",
       "mediaType": "series",
+      "seasonNumber": 5,
       "coverUrl": "data/medialog-covers/a3900e8be2de554abca8e6ef01c44afc.jpg",
       "periods": [
         {
@@ -1177,6 +1188,7 @@
       "title": "George and Mandy first marriage",
       "kind": "watching",
       "mediaType": "series",
+      "seasonNumber": 2,
       "coverUrl": "data/medialog-covers/b39a7c3d833a3a6421335bf9d50e28af.jpg",
       "periods": [
         {
@@ -1222,6 +1234,7 @@
       "title": "Fargo",
       "kind": "watching",
       "mediaType": "series",
+      "seasonNumber": 5,
       "coverUrl": "data/medialog-covers/a8e43296c8183d9a702d880602f5e9d6.jpg",
       "periods": [
         {
@@ -1347,6 +1360,7 @@
       "title": "Odwilż",
       "kind": "watching",
       "mediaType": "series",
+      "seasonNumber": 2,
       "coverUrl": "data/medialog-covers/19ffe43408de0cc9aa96297810a0b949.jpg",
       "periods": [
         {
@@ -1468,6 +1482,7 @@
       "title": "Odwilż",
       "kind": "watching",
       "mediaType": "series",
+      "seasonNumber": 3,
       "coverUrl": "data/medialog-covers/924e3cfe68561f523c6a3333270c9e94.jpg",
       "periods": [
         {
@@ -1481,6 +1496,7 @@
       "title": "Klangor",
       "kind": "watching",
       "mediaType": "series",
+      "seasonNumber": 2,
       "coverUrl": "data/medialog-covers/9abdce97d33c0de8b4a6251540ecd25f.jpg",
       "periods": [
         {
@@ -1537,6 +1553,7 @@
       "title": "Belfer",
       "kind": "watching",
       "mediaType": "series",
+      "seasonNumber": 3,
       "coverUrl": "data/medialog-covers/f79beca91c5b46212da5664add96625e.jpg",
       "periods": [
         {
@@ -1682,6 +1699,7 @@
       "title": "Szadź",
       "kind": "watching",
       "mediaType": "series",
+      "seasonNumber": 4,
       "coverUrl": "data/medialog-covers/7de084317a0cc0511bd356dc040cf793.jpg",
       "periods": [
         {
@@ -1695,6 +1713,7 @@
       "title": "Z Archiwum X",
       "kind": "watching",
       "mediaType": "series",
+      "seasonNumber": 1,
       "coverUrl": "data/medialog-covers/f84fdf7cb91bf66923064409c264b512.jpg",
       "periods": [
         {
@@ -1747,6 +1766,7 @@
       "title": "1670",
       "kind": "watching",
       "mediaType": "series",
+      "seasonNumber": 3,
       "coverUrl": "data/medialog-covers/ce41ab3d5c4d8a66fe4b9af831f27abf.jpg",
       "periods": [
         {
@@ -1764,6 +1784,7 @@
       "title": "Genialna Morgan",
       "kind": "watching",
       "mediaType": "series",
+      "seasonNumber": 1,
       "coverUrl": "data/medialog-covers/bb4d8534a855b911bc3cf1bb9cfe5163.jpg",
       "periods": [
         {
@@ -1789,6 +1810,7 @@
       "title": "The Bear",
       "kind": "watching",
       "mediaType": "series",
+      "seasonNumber": 5,
       "coverUrl": "data/medialog-covers/1676b9d08bbb70b2b1f22bd76fbbea82.jpg",
       "periods": [
         {
@@ -1881,6 +1903,7 @@
       "title": "Z Archiwum X",
       "kind": "watching",
       "mediaType": "series",
+      "seasonNumber": 2,
       "coverUrl": "data/medialog-covers/6363d973707a2b455fd8d02dac738628.jpg",
       "periods": [
         {
@@ -1907,6 +1930,7 @@
       "title": "Banshee",
       "kind": "watching",
       "mediaType": "series",
+      "seasonNumber": 1,
       "coverUrl": "data/medialog-covers/4676877434bb9df2885d2d9f1fed0167.jpg",
       "periods": [
         {
@@ -1924,6 +1948,7 @@
       "title": "Genialna Morgan",
       "kind": "watching",
       "mediaType": "series",
+      "seasonNumber": 2,
       "coverUrl": "data/medialog-covers/e62bc4ce2bb0a132098b30573d755184.jpg",
       "periods": [
         {
@@ -1962,6 +1987,7 @@
       "title": "Banshee",
       "kind": "watching",
       "mediaType": "series",
+      "seasonNumber": 2,
       "coverUrl": "data/medialog-covers/68be5bd91a5801aa126638339b7d7bd9.jpg",
       "periods": [
         {
@@ -2035,6 +2061,7 @@
       "title": "Z Archiwum X",
       "kind": "watching",
       "mediaType": "series",
+      "seasonNumber": 3,
       "coverUrl": "data/medialog-covers/a2cae2a543de097aeee4e107f240f4c5.jpg",
       "periods": [
         {
@@ -2048,6 +2075,7 @@
       "title": "Banshee",
       "kind": "watching",
       "mediaType": "series",
+      "seasonNumber": 3,
       "coverUrl": "data/medialog-covers/e6a40df9836ea468a01abd19a669a032.jpg",
       "periods": [
         {
@@ -2116,6 +2144,7 @@
       "title": "Banshee",
       "kind": "watching",
       "mediaType": "series",
+      "seasonNumber": 4,
       "coverUrl": "data/medialog-covers/d237e52d61f72b8402a9562c8928099d.jpg",
       "periods": [
         {
@@ -2263,7 +2292,7 @@
       "periods": [
         {
           "startDate": "2026-10-24",
-          "endDate": "2026-10-24"
+          "endDate": "2026-10-28"
         }
       ]
     }

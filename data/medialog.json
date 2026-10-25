@@ -8,6 +8,7 @@
       "title": "Z Archiwum X",
       "kind": "watching",
       "mediaType": "series",
+      "seasonNumber": 3,
       "coverUrl": "data/medialog-covers/a2cae2a543de097aeee4e107f240f4c5.jpg",
       "periods": [
         {
@@ -21,6 +22,7 @@
       "title": "Banshee",
       "kind": "watching",
       "mediaType": "series",
+      "seasonNumber": 3,
       "coverUrl": "data/medialog-covers/e6a40df9836ea468a01abd19a669a032.jpg",
       "periods": [
         {
@@ -72,6 +74,7 @@
       "title": "Banshee",
       "kind": "watching",
       "mediaType": "series",
+      "seasonNumber": 4,
       "coverUrl": "data/medialog-covers/d237e52d61f72b8402a9562c8928099d.jpg",
       "periods": [
         {
@@ -163,6 +166,7 @@
       "title": "Genialna Morgan",
       "kind": "watching",
       "mediaType": "series",
+      "seasonNumber": 2,
       "coverUrl": "data/medialog-covers/e62bc4ce2bb0a132098b30573d755184.jpg",
       "periods": [
         {
@@ -236,7 +240,7 @@
       "periods": [
         {
           "startDate": "2026-10-24",
-          "endDate": "2026-10-24"
+          "endDate": "2026-10-28"
         }
       ]
     }
