@@ -226,6 +226,19 @@
           "endDate": "2026-10-24"
         }
       ]
+    },
+    {
+      "id": "medialog:season:2800",
+      "title": "Stuart nie ratuje wszechświata",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/04d8ca88d5c87fa815c806c2abfb519f.jpg",
+      "periods": [
+        {
+          "startDate": "2026-10-24",
+          "endDate": "2026-10-24"
+        }
+      ]
     }
   ]
 }
