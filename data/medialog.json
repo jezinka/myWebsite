@@ -247,6 +247,23 @@
           "endDate": "2026-10-28"
         }
       ]
+    },
+    {
+      "id": "medialog:season:2807",
+      "title": "Jak wyjść z siebie. O złudzeniu niezależności i sile społecznych więzi",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/486b802fe6b5202165b68635ccf2c791.jpg",
+      "periods": [
+        {
+          "startDate": "2026-10-25",
+          "endDate": "2026-10-25"
+        },
+        {
+          "startDate": "2026-10-26",
+          "endDate": "2026-10-26"
+        }
+      ]
     }
   ]
 }
