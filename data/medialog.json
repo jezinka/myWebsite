@@ -13,7 +13,7 @@
       "periods": [
         {
           "startDate": "2026-10-01",
-          "endDate": "2026-10-11"
+          "endDate": "2026-10-15"
         }
       ]
     },
@@ -106,6 +106,20 @@
         {
           "startDate": "2026-10-16",
           "endDate": "2026-10-16"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:2808",
+      "title": "Z Archiwum X",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 4,
+      "coverUrl": "data/medialog-covers/193fd41e46edebc33e97d5e57cfe0726.jpg",
+      "periods": [
+        {
+          "startDate": "2026-10-16",
+          "endDate": "2026-10-31"
         }
       ]
     },
@@ -219,24 +233,6 @@
         {
           "startDate": "2026-10-22",
           "endDate": "2026-10-23"
-        }
-      ]
-    },
-    {
-      "id": "medialog:season:2808",
-      "title": "Z Archiwum X",
-      "kind": "watching",
-      "mediaType": "series",
-      "seasonNumber": 4,
-      "coverUrl": "data/medialog-covers/193fd41e46edebc33e97d5e57cfe0726.jpg",
-      "periods": [
-        {
-          "startDate": "2026-10-22",
-          "endDate": "2026-10-22"
-        },
-        {
-          "startDate": "2026-10-27",
-          "endDate": "2026-10-27"
         }
       ]
     },
