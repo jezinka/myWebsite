@@ -2330,6 +2330,20 @@
           "endDate": "2026-10-26"
         }
       ]
+    },
+    {
+      "id": "medialog:season:756",
+      "title": "George and Mandy first marriage",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/4d6e73c1da113539143cbeb0ebb890f5.jpg",
+      "periods": [
+        {
+          "startDate": "2026-10-27",
+          "endDate": "2026-10-27"
+        }
+      ]
     }
   ]
 }
