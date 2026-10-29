@@ -300,6 +300,19 @@
           "endDate": "2026-10-29"
         }
       ]
+    },
+    {
+      "id": "medialog:season:2780",
+      "title": "Yesteryear",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/2fc4ee7a8985ee900a52ec69a412e177.jpg",
+      "periods": [
+        {
+          "startDate": "2026-10-29",
+          "endDate": "2026-10-29"
+        }
+      ]
     }
   ]
 }
