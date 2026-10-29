@@ -3,7 +3,12 @@ const yearCalendar = document.querySelector("#year-calendar");
 const status = document.querySelector("#calendar-status");
 const title = document.querySelector("#calendar-title");
 const today = new Date();
-const year = today.getFullYear();
+const currentYear = today.getFullYear();
+// Finished years are published from 2024 on (medialog-YYYY.json, sport-YYYY.json); the year page takes ?year=YYYY.
+const FIRST_YEAR = 2024;
+const requestedYear = Number(new URLSearchParams(location.search).get("year"));
+const year = yearCalendar && Number.isInteger(requestedYear) && requestedYear >= FIRST_YEAR && requestedYear <= currentYear
+    ? requestedYear : currentYear;
 const colors = { reading: "#2563eb", watching: "#dc2626", sport: "#16a34a" };
 const icons = { reading: "📖", watching: "📺", sport: "🏃" };
 
@@ -167,8 +172,18 @@ function monthSection(month) {
     return grid;
 }
 
+function yearLink(id, target) {
+    const link = document.querySelector(id);
+    if (!link || target < FIRST_YEAR || target > currentYear) return;
+    link.href = target === currentYear ? "year.html" : `year.html?year=${target}`;
+    link.hidden = false;
+}
+
 async function loadCalendar() {
-    const paths = yearCalendar ? ["data/medialog-year.json", "data/sport-year.json"] : ["data/medialog.json", "data/sport.json"];
+    const suffix = year === currentYear ? "year" : year;
+    const paths = yearCalendar ? [`data/medialog-${suffix}.json`, `data/sport-${suffix}.json`] : ["data/medialog.json", "data/sport.json"];
+    yearLink("#prev-year", year - 1);
+    yearLink("#next-year", year + 1);
     title.textContent = yearCalendar ? String(year)
         : new Intl.DateTimeFormat("pl-PL", { month: "long", year: "numeric" }).format(today);
     const sources = await Promise.allSettled(paths.map(async path => {
