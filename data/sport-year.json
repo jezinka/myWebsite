@@ -1392,6 +1392,48 @@
           "endDate": "2026-10-25"
         }
       ]
+    },
+    {
+      "id": "sport:activity:walkingpad_1793291136",
+      "title": "Spacer",
+      "kind": "sport",
+      "icon": "/icons/icons8-walking-100.png",
+      "durationMinutes": 31,
+      "distanceKm": 1.3,
+      "periods": [
+        {
+          "startDate": "2026-10-29",
+          "endDate": "2026-10-29"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:walkingpad_1793291495",
+      "title": "Spacer",
+      "kind": "sport",
+      "icon": "/icons/icons8-walking-100.png",
+      "durationMinutes": 33,
+      "distanceKm": 1.4,
+      "periods": [
+        {
+          "startDate": "2026-10-29",
+          "endDate": "2026-10-29"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:walkingpad_1793291499",
+      "title": "Spacer",
+      "kind": "sport",
+      "icon": "/icons/icons8-walking-100.png",
+      "durationMinutes": 38,
+      "distanceKm": 1.7,
+      "periods": [
+        {
+          "startDate": "2026-10-29",
+          "endDate": "2026-10-29"
+        }
+      ]
     }
   ]
 }
