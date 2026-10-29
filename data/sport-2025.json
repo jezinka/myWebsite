@@ -1,0 +1,2184 @@
+{
+  "schemaVersion": 1,
+  "source": "sport",
+  "year": 2025,
+  "items": [
+    {
+      "id": "sport:activity:manual_1774506066095_rq3fd",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "periods": [
+        {
+          "startDate": "2025-01-01",
+          "endDate": "2025-01-01"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1774436014851_zb7y1",
+      "title": "Pływanie",
+      "kind": "sport",
+      "icon": "/icons/icons8-swimming-100.png",
+      "periods": [
+        {
+          "startDate": "2025-01-02",
+          "endDate": "2025-01-02"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1774506072103_1zykn",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "periods": [
+        {
+          "startDate": "2025-01-04",
+          "endDate": "2025-01-04"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1774506074105_sclo1",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "periods": [
+        {
+          "startDate": "2025-01-05",
+          "endDate": "2025-01-05"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1774506082852_mbgcp",
+      "title": "Pływanie",
+      "kind": "sport",
+      "icon": "/icons/icons8-swimming-100.png",
+      "periods": [
+        {
+          "startDate": "2025-01-06",
+          "endDate": "2025-01-06"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1774506144293_n1b8t",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "periods": [
+        {
+          "startDate": "2025-01-06",
+          "endDate": "2025-01-06"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1774506155397_5vadn",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "periods": [
+        {
+          "startDate": "2025-01-07",
+          "endDate": "2025-01-07"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:13300771871",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 53,
+      "distanceKm": 0,
+      "periods": [
+        {
+          "startDate": "2025-01-08",
+          "endDate": "2025-01-08"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1774506157221_h7lso",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "periods": [
+        {
+          "startDate": "2025-01-09",
+          "endDate": "2025-01-09"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1774506164433_1lyxe",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "periods": [
+        {
+          "startDate": "2025-01-10",
+          "endDate": "2025-01-10"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1774506166614_q21n4",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "periods": [
+        {
+          "startDate": "2025-01-11",
+          "endDate": "2025-01-11"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1774506169428_a78he",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "periods": [
+        {
+          "startDate": "2025-01-12",
+          "endDate": "2025-01-12"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1774506177422_r4qzd",
+      "title": "Pływanie",
+      "kind": "sport",
+      "icon": "/icons/icons8-swimming-100.png",
+      "periods": [
+        {
+          "startDate": "2025-01-13",
+          "endDate": "2025-01-13"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1774506179973_azqgm",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "periods": [
+        {
+          "startDate": "2025-01-13",
+          "endDate": "2025-01-13"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1774506185409_gte3p",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "periods": [
+        {
+          "startDate": "2025-01-14",
+          "endDate": "2025-01-14"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_2025-01-14_Stretching_l1r9t",
+      "title": "Rozciąganie",
+      "kind": "sport",
+      "icon": "/icons/icons8-stretching-96.png",
+      "periods": [
+        {
+          "startDate": "2025-01-14",
+          "endDate": "2025-01-14"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:13373047612",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 51,
+      "distanceKm": 0,
+      "periods": [
+        {
+          "startDate": "2025-01-15",
+          "endDate": "2025-01-15"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1774506191894_h4waz",
+      "title": "Pływanie",
+      "kind": "sport",
+      "icon": "/icons/icons8-swimming-100.png",
+      "periods": [
+        {
+          "startDate": "2025-01-16",
+          "endDate": "2025-01-16"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1774506198154_oghdc",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "periods": [
+        {
+          "startDate": "2025-01-19",
+          "endDate": "2025-01-19"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1774506206301_617hp",
+      "title": "Pływanie",
+      "kind": "sport",
+      "icon": "/icons/icons8-swimming-100.png",
+      "periods": [
+        {
+          "startDate": "2025-01-20",
+          "endDate": "2025-01-20"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1774506219491_6u1pz",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "periods": [
+        {
+          "startDate": "2025-01-25",
+          "endDate": "2025-01-25"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1774506222262_43hfs",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "periods": [
+        {
+          "startDate": "2025-01-26",
+          "endDate": "2025-01-26"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1774506230033_t7m4j",
+      "title": "Pływanie",
+      "kind": "sport",
+      "icon": "/icons/icons8-swimming-100.png",
+      "periods": [
+        {
+          "startDate": "2025-01-27",
+          "endDate": "2025-01-27"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1774506238710_tdmu6",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "periods": [
+        {
+          "startDate": "2025-01-28",
+          "endDate": "2025-01-28"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:13496651670",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 54,
+      "distanceKm": 0.1,
+      "periods": [
+        {
+          "startDate": "2025-01-29",
+          "endDate": "2025-01-29"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:13618411116",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 50,
+      "distanceKm": 0.1,
+      "periods": [
+        {
+          "startDate": "2025-02-12",
+          "endDate": "2025-02-12"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1774506267864_ccn7t",
+      "title": "Pływanie",
+      "kind": "sport",
+      "icon": "/icons/icons8-swimming-100.png",
+      "periods": [
+        {
+          "startDate": "2025-02-17",
+          "endDate": "2025-02-17"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:13671262757",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 47,
+      "distanceKm": 0.1,
+      "periods": [
+        {
+          "startDate": "2025-02-19",
+          "endDate": "2025-02-19"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:13697369709",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 49,
+      "distanceKm": 10.7,
+      "periods": [
+        {
+          "startDate": "2025-02-22",
+          "endDate": "2025-02-22"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:13707176229",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 33,
+      "distanceKm": 6.2,
+      "periods": [
+        {
+          "startDate": "2025-02-23",
+          "endDate": "2025-02-23"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1774506281742_xwj8d",
+      "title": "Pływanie",
+      "kind": "sport",
+      "icon": "/icons/icons8-swimming-100.png",
+      "periods": [
+        {
+          "startDate": "2025-02-24",
+          "endDate": "2025-02-24"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:13742854918",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 52,
+      "distanceKm": 0.1,
+      "periods": [
+        {
+          "startDate": "2025-02-26",
+          "endDate": "2025-02-26"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1774506326386_2av09",
+      "title": "Pływanie",
+      "kind": "sport",
+      "icon": "/icons/icons8-swimming-100.png",
+      "periods": [
+        {
+          "startDate": "2025-03-03",
+          "endDate": "2025-03-03"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:13789047067",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 49,
+      "distanceKm": 10.8,
+      "periods": [
+        {
+          "startDate": "2025-03-04",
+          "endDate": "2025-03-04"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:13807658212",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 61,
+      "distanceKm": 0.1,
+      "periods": [
+        {
+          "startDate": "2025-03-05",
+          "endDate": "2025-03-05"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:13807658443",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 53,
+      "distanceKm": 11.8,
+      "periods": [
+        {
+          "startDate": "2025-03-06",
+          "endDate": "2025-03-06"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:13845363460",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 47,
+      "distanceKm": 10.2,
+      "periods": [
+        {
+          "startDate": "2025-03-10",
+          "endDate": "2025-03-10"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:13931918978",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 48,
+      "distanceKm": 0.1,
+      "periods": [
+        {
+          "startDate": "2025-03-19",
+          "endDate": "2025-03-19"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:13937384820",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 26,
+      "distanceKm": 4.4,
+      "periods": [
+        {
+          "startDate": "2025-03-20",
+          "endDate": "2025-03-20"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:13946714191",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 59,
+      "distanceKm": 12.4,
+      "periods": [
+        {
+          "startDate": "2025-03-21",
+          "endDate": "2025-03-21"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:13958101000",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 48,
+      "distanceKm": 10.7,
+      "periods": [
+        {
+          "startDate": "2025-03-22",
+          "endDate": "2025-03-22"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1774506356160_fa5qw",
+      "title": "Pływanie",
+      "kind": "sport",
+      "icon": "/icons/icons8-swimming-100.png",
+      "periods": [
+        {
+          "startDate": "2025-03-24",
+          "endDate": "2025-03-24"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:13985988293",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 42,
+      "distanceKm": 9.5,
+      "periods": [
+        {
+          "startDate": "2025-03-25",
+          "endDate": "2025-03-25"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:13995177828",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 54,
+      "distanceKm": 0.1,
+      "periods": [
+        {
+          "startDate": "2025-03-26",
+          "endDate": "2025-03-26"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14013180408",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 62,
+      "distanceKm": 12.7,
+      "periods": [
+        {
+          "startDate": "2025-03-28",
+          "endDate": "2025-03-28"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1774506369588_dxxnb",
+      "title": "Pływanie",
+      "kind": "sport",
+      "icon": "/icons/icons8-swimming-100.png",
+      "periods": [
+        {
+          "startDate": "2025-03-31",
+          "endDate": "2025-03-31"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14062028841",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 53,
+      "distanceKm": 0.1,
+      "periods": [
+        {
+          "startDate": "2025-04-02",
+          "endDate": "2025-04-02"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14069696266",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 50,
+      "distanceKm": 10.3,
+      "periods": [
+        {
+          "startDate": "2025-04-03",
+          "endDate": "2025-04-03"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14080081161",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 66,
+      "distanceKm": 13.8,
+      "periods": [
+        {
+          "startDate": "2025-04-04",
+          "endDate": "2025-04-04"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14133598037",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 51,
+      "distanceKm": 0.1,
+      "periods": [
+        {
+          "startDate": "2025-04-09",
+          "endDate": "2025-04-09"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14142791633",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 53,
+      "distanceKm": 12.4,
+      "periods": [
+        {
+          "startDate": "2025-04-10",
+          "endDate": "2025-04-10"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14168441287",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 39,
+      "distanceKm": 9.7,
+      "periods": [
+        {
+          "startDate": "2025-04-13",
+          "endDate": "2025-04-13"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14176747878",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 46,
+      "distanceKm": 11,
+      "periods": [
+        {
+          "startDate": "2025-04-14",
+          "endDate": "2025-04-14"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14205616260",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 52,
+      "distanceKm": 0.1,
+      "periods": [
+        {
+          "startDate": "2025-04-16",
+          "endDate": "2025-04-16"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14205616528",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 55,
+      "distanceKm": 11.2,
+      "periods": [
+        {
+          "startDate": "2025-04-17",
+          "endDate": "2025-04-17"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14255642096",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 54,
+      "distanceKm": 12.3,
+      "periods": [
+        {
+          "startDate": "2025-04-22",
+          "endDate": "2025-04-22"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14263960507",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 52,
+      "distanceKm": 0.1,
+      "periods": [
+        {
+          "startDate": "2025-04-23",
+          "endDate": "2025-04-23"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14291505898",
+      "title": "Wędrówka",
+      "kind": "sport",
+      "icon": "/icons/icons8-trekking-100.png",
+      "durationMinutes": 253,
+      "distanceKm": 12.8,
+      "periods": [
+        {
+          "startDate": "2025-04-26",
+          "endDate": "2025-04-26"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1774508319546_kzjet",
+      "title": "Pływanie",
+      "kind": "sport",
+      "icon": "/icons/icons8-swimming-100.png",
+      "periods": [
+        {
+          "startDate": "2025-04-28",
+          "endDate": "2025-04-28"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14323662047",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 56,
+      "distanceKm": 12.1,
+      "periods": [
+        {
+          "startDate": "2025-04-29",
+          "endDate": "2025-04-29"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14334308812",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 52,
+      "distanceKm": 0.1,
+      "periods": [
+        {
+          "startDate": "2025-04-30",
+          "endDate": "2025-04-30"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14340783254",
+      "title": "Rower",
+      "kind": "sport",
+      "icon": "/icons/icons8-cycling-100.png",
+      "durationMinutes": 85,
+      "distanceKm": 15.6,
+      "periods": [
+        {
+          "startDate": "2025-05-01",
+          "endDate": "2025-05-01"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14356189950",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 50,
+      "distanceKm": 11.4,
+      "periods": [
+        {
+          "startDate": "2025-05-02",
+          "endDate": "2025-05-02"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14366609750",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 44,
+      "distanceKm": 7.8,
+      "periods": [
+        {
+          "startDate": "2025-05-03",
+          "endDate": "2025-05-03"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14419433691",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 52,
+      "distanceKm": 0.1,
+      "periods": [
+        {
+          "startDate": "2025-05-07",
+          "endDate": "2025-05-07"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14419434061",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 54,
+      "distanceKm": 12,
+      "periods": [
+        {
+          "startDate": "2025-05-08",
+          "endDate": "2025-05-08"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14437794699",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 51,
+      "distanceKm": 11.4,
+      "periods": [
+        {
+          "startDate": "2025-05-09",
+          "endDate": "2025-05-09"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14449411830",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 52,
+      "distanceKm": 11.4,
+      "periods": [
+        {
+          "startDate": "2025-05-11",
+          "endDate": "2025-05-11"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1774508353982_eosr6",
+      "title": "Pływanie",
+      "kind": "sport",
+      "icon": "/icons/icons8-swimming-100.png",
+      "periods": [
+        {
+          "startDate": "2025-05-12",
+          "endDate": "2025-05-12"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14479555718",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 52,
+      "distanceKm": 0.1,
+      "periods": [
+        {
+          "startDate": "2025-05-14",
+          "endDate": "2025-05-14"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1774508361195_zpt3p",
+      "title": "Pływanie",
+      "kind": "sport",
+      "icon": "/icons/icons8-swimming-100.png",
+      "periods": [
+        {
+          "startDate": "2025-05-19",
+          "endDate": "2025-05-19"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14541897231",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 41,
+      "distanceKm": 9.5,
+      "periods": [
+        {
+          "startDate": "2025-05-20",
+          "endDate": "2025-05-20"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14552847971",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 54,
+      "distanceKm": 0.1,
+      "periods": [
+        {
+          "startDate": "2025-05-21",
+          "endDate": "2025-05-21"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1774508369942_d13m9",
+      "title": "Pływanie",
+      "kind": "sport",
+      "icon": "/icons/icons8-swimming-100.png",
+      "periods": [
+        {
+          "startDate": "2025-05-26",
+          "endDate": "2025-05-26"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14622206764",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 51,
+      "distanceKm": 0.1,
+      "periods": [
+        {
+          "startDate": "2025-05-28",
+          "endDate": "2025-05-28"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14642285449",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 45,
+      "distanceKm": 10.6,
+      "periods": [
+        {
+          "startDate": "2025-05-30",
+          "endDate": "2025-05-30"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14653789724",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 44,
+      "distanceKm": 10.6,
+      "periods": [
+        {
+          "startDate": "2025-05-31",
+          "endDate": "2025-05-31"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14665050163",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 40,
+      "distanceKm": 10.5,
+      "periods": [
+        {
+          "startDate": "2025-06-01",
+          "endDate": "2025-06-01"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14685277930",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 44,
+      "distanceKm": 10.9,
+      "periods": [
+        {
+          "startDate": "2025-06-03",
+          "endDate": "2025-06-03"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14697201819",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 51,
+      "distanceKm": 0.1,
+      "periods": [
+        {
+          "startDate": "2025-06-04",
+          "endDate": "2025-06-04"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14756847859",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 58,
+      "distanceKm": 12.4,
+      "periods": [
+        {
+          "startDate": "2025-06-10",
+          "endDate": "2025-06-10"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14768170887",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 52,
+      "distanceKm": 0.1,
+      "periods": [
+        {
+          "startDate": "2025-06-11",
+          "endDate": "2025-06-11"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14778021864",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 51,
+      "distanceKm": 11.7,
+      "periods": [
+        {
+          "startDate": "2025-06-12",
+          "endDate": "2025-06-12"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14788464552",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 52,
+      "distanceKm": 11.7,
+      "periods": [
+        {
+          "startDate": "2025-06-13",
+          "endDate": "2025-06-13"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14809508669",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 45,
+      "distanceKm": 10.8,
+      "periods": [
+        {
+          "startDate": "2025-06-15",
+          "endDate": "2025-06-15"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14829118346",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 51,
+      "distanceKm": 11.3,
+      "periods": [
+        {
+          "startDate": "2025-06-17",
+          "endDate": "2025-06-17"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14851298513",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 52,
+      "distanceKm": 11.5,
+      "periods": [
+        {
+          "startDate": "2025-06-19",
+          "endDate": "2025-06-19"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14873187119",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 42,
+      "distanceKm": 10.7,
+      "periods": [
+        {
+          "startDate": "2025-06-20",
+          "endDate": "2025-06-20"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14902290040",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 55,
+      "distanceKm": 12.6,
+      "periods": [
+        {
+          "startDate": "2025-06-24",
+          "endDate": "2025-06-24"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14918638989",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 53,
+      "distanceKm": 0.1,
+      "periods": [
+        {
+          "startDate": "2025-06-25",
+          "endDate": "2025-06-25"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:14964801934",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 45,
+      "distanceKm": 11.3,
+      "periods": [
+        {
+          "startDate": "2025-06-30",
+          "endDate": "2025-06-30"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15113710736",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 36,
+      "distanceKm": 8,
+      "periods": [
+        {
+          "startDate": "2025-07-14",
+          "endDate": "2025-07-14"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15124008330",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 42,
+      "distanceKm": 8.9,
+      "periods": [
+        {
+          "startDate": "2025-07-15",
+          "endDate": "2025-07-15"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15135580306",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 55,
+      "distanceKm": 0.1,
+      "periods": [
+        {
+          "startDate": "2025-07-16",
+          "endDate": "2025-07-16"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15157501868",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 52,
+      "distanceKm": 12.5,
+      "periods": [
+        {
+          "startDate": "2025-07-18",
+          "endDate": "2025-07-18"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15167798243",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 46,
+      "distanceKm": 10.9,
+      "periods": [
+        {
+          "startDate": "2025-07-19",
+          "endDate": "2025-07-19"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15179139672",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 46,
+      "distanceKm": 10.9,
+      "periods": [
+        {
+          "startDate": "2025-07-20",
+          "endDate": "2025-07-20"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15199495809",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 33,
+      "distanceKm": 6.9,
+      "periods": [
+        {
+          "startDate": "2025-07-22",
+          "endDate": "2025-07-22"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15212419882",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 54,
+      "distanceKm": 0.1,
+      "periods": [
+        {
+          "startDate": "2025-07-23",
+          "endDate": "2025-07-23"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15222764979",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 56,
+      "distanceKm": 12.4,
+      "periods": [
+        {
+          "startDate": "2025-07-24",
+          "endDate": "2025-07-24"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15244103398",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 59,
+      "distanceKm": 13.7,
+      "periods": [
+        {
+          "startDate": "2025-07-26",
+          "endDate": "2025-07-26"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15276275255",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 68,
+      "distanceKm": 15.5,
+      "periods": [
+        {
+          "startDate": "2025-07-29",
+          "endDate": "2025-07-29"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15294164515",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 51,
+      "distanceKm": 0.1,
+      "periods": [
+        {
+          "startDate": "2025-07-30",
+          "endDate": "2025-07-30"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15352027891",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 48,
+      "distanceKm": 11.3,
+      "periods": [
+        {
+          "startDate": "2025-08-05",
+          "endDate": "2025-08-05"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15367259140",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 53,
+      "distanceKm": 0.1,
+      "periods": [
+        {
+          "startDate": "2025-08-06",
+          "endDate": "2025-08-06"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15388537774",
+      "title": "Wędrówka",
+      "kind": "sport",
+      "icon": "/icons/icons8-trekking-100.png",
+      "durationMinutes": 65,
+      "distanceKm": 3.8,
+      "periods": [
+        {
+          "startDate": "2025-08-08",
+          "endDate": "2025-08-08"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15388547345",
+      "title": "Wędrówka",
+      "kind": "sport",
+      "icon": "/icons/icons8-trekking-100.png",
+      "durationMinutes": 114,
+      "distanceKm": 6.2,
+      "periods": [
+        {
+          "startDate": "2025-08-08",
+          "endDate": "2025-08-08"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15411754035",
+      "title": "Wędrówka",
+      "kind": "sport",
+      "icon": "/icons/icons8-trekking-100.png",
+      "durationMinutes": 103,
+      "distanceKm": 5.8,
+      "periods": [
+        {
+          "startDate": "2025-08-10",
+          "endDate": "2025-08-10"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15421487416",
+      "title": "Wędrówka",
+      "kind": "sport",
+      "icon": "/icons/icons8-trekking-100.png",
+      "durationMinutes": 157,
+      "distanceKm": 9.6,
+      "periods": [
+        {
+          "startDate": "2025-08-11",
+          "endDate": "2025-08-11"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15434982915",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 49,
+      "distanceKm": 10.9,
+      "periods": [
+        {
+          "startDate": "2025-08-12",
+          "endDate": "2025-08-12"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15453465038",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 83,
+      "distanceKm": 16.6,
+      "periods": [
+        {
+          "startDate": "2025-08-14",
+          "endDate": "2025-08-14"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15463943288",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 64,
+      "distanceKm": 14.1,
+      "periods": [
+        {
+          "startDate": "2025-08-15",
+          "endDate": "2025-08-15"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_2025-08-15_Stretching_wbzj3",
+      "title": "Rozciąganie",
+      "kind": "sport",
+      "icon": "/icons/icons8-stretching-96.png",
+      "periods": [
+        {
+          "startDate": "2025-08-15",
+          "endDate": "2025-08-15"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15491943348",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 44,
+      "distanceKm": 7.1,
+      "periods": [
+        {
+          "startDate": "2025-08-17",
+          "endDate": "2025-08-17"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15502752380",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 65,
+      "distanceKm": 13.6,
+      "periods": [
+        {
+          "startDate": "2025-08-18",
+          "endDate": "2025-08-18"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15526426905",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 45,
+      "distanceKm": 10.7,
+      "periods": [
+        {
+          "startDate": "2025-08-20",
+          "endDate": "2025-08-20"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15582497657",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 54,
+      "distanceKm": 12.2,
+      "periods": [
+        {
+          "startDate": "2025-08-25",
+          "endDate": "2025-08-25"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15594708440",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 50,
+      "distanceKm": 11,
+      "periods": [
+        {
+          "startDate": "2025-08-26",
+          "endDate": "2025-08-26"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15606644677",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 48,
+      "distanceKm": 11.2,
+      "periods": [
+        {
+          "startDate": "2025-08-27",
+          "endDate": "2025-08-27"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15628382136",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 26,
+      "distanceKm": 4.2,
+      "periods": [
+        {
+          "startDate": "2025-08-29",
+          "endDate": "2025-08-29"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15639699310",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 44,
+      "distanceKm": 10.8,
+      "periods": [
+        {
+          "startDate": "2025-08-30",
+          "endDate": "2025-08-30"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1774624265189_6rq7h",
+      "title": "Pływanie",
+      "kind": "sport",
+      "icon": "/icons/icons8-swimming-100.png",
+      "periods": [
+        {
+          "startDate": "2025-08-30",
+          "endDate": "2025-08-30"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15644846338",
+      "title": "Rower",
+      "kind": "sport",
+      "icon": "/icons/icons8-cycling-100.png",
+      "durationMinutes": 122,
+      "distanceKm": 22.8,
+      "periods": [
+        {
+          "startDate": "2025-08-31",
+          "endDate": "2025-08-31"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15661235133",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 40,
+      "distanceKm": 9.8,
+      "periods": [
+        {
+          "startDate": "2025-09-01",
+          "endDate": "2025-09-01"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15686397927",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 64,
+      "distanceKm": 0.1,
+      "periods": [
+        {
+          "startDate": "2025-09-03",
+          "endDate": "2025-09-03"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15696039261",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 46,
+      "distanceKm": 10.7,
+      "periods": [
+        {
+          "startDate": "2025-09-04",
+          "endDate": "2025-09-04"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15708280695",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 39,
+      "distanceKm": 9.6,
+      "periods": [
+        {
+          "startDate": "2025-09-05",
+          "endDate": "2025-09-05"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15731459207",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 61,
+      "distanceKm": 13.3,
+      "periods": [
+        {
+          "startDate": "2025-09-07",
+          "endDate": "2025-09-07"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15787225569",
+      "title": "Bieganie",
+      "kind": "sport",
+      "icon": "/icons/icons8-running-100.png",
+      "durationMinutes": 40,
+      "distanceKm": 3.4,
+      "periods": [
+        {
+          "startDate": "2025-09-12",
+          "endDate": "2025-09-12"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15794071885",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 45,
+      "distanceKm": 11,
+      "periods": [
+        {
+          "startDate": "2025-09-13",
+          "endDate": "2025-09-13"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15810438761",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 19,
+      "distanceKm": 4.3,
+      "periods": [
+        {
+          "startDate": "2025-09-14",
+          "endDate": "2025-09-14"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15820860825",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 37,
+      "distanceKm": 9.6,
+      "periods": [
+        {
+          "startDate": "2025-09-15",
+          "endDate": "2025-09-15"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15866560987",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 60,
+      "distanceKm": 13.8,
+      "periods": [
+        {
+          "startDate": "2025-09-19",
+          "endDate": "2025-09-19"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15878754225",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 44,
+      "distanceKm": 10.6,
+      "periods": [
+        {
+          "startDate": "2025-09-20",
+          "endDate": "2025-09-20"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15890449563",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 53,
+      "distanceKm": 12.1,
+      "periods": [
+        {
+          "startDate": "2025-09-21",
+          "endDate": "2025-09-21"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15923086347",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 75,
+      "periods": [
+        {
+          "startDate": "2025-09-24",
+          "endDate": "2025-09-24"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15933235131",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 53,
+      "distanceKm": 11.6,
+      "periods": [
+        {
+          "startDate": "2025-09-25",
+          "endDate": "2025-09-25"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15943934978",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 57,
+      "distanceKm": 12.9,
+      "periods": [
+        {
+          "startDate": "2025-09-26",
+          "endDate": "2025-09-26"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15955241085",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 51,
+      "distanceKm": 12.3,
+      "periods": [
+        {
+          "startDate": "2025-09-27",
+          "endDate": "2025-09-27"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:15967312382",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 58,
+      "distanceKm": 12,
+      "periods": [
+        {
+          "startDate": "2025-09-28",
+          "endDate": "2025-09-28"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:16008876532",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 68,
+      "periods": [
+        {
+          "startDate": "2025-10-02",
+          "endDate": "2025-10-02"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:16021677928",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 56,
+      "distanceKm": 12.3,
+      "periods": [
+        {
+          "startDate": "2025-10-03",
+          "endDate": "2025-10-03"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:16032348124",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 32,
+      "distanceKm": 6.8,
+      "periods": [
+        {
+          "startDate": "2025-10-04",
+          "endDate": "2025-10-04"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:16044699820",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 45,
+      "distanceKm": 10.6,
+      "periods": [
+        {
+          "startDate": "2025-10-05",
+          "endDate": "2025-10-05"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:16064580603",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 57,
+      "distanceKm": 12.1,
+      "periods": [
+        {
+          "startDate": "2025-10-07",
+          "endDate": "2025-10-07"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:16077383284",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 67,
+      "periods": [
+        {
+          "startDate": "2025-10-08",
+          "endDate": "2025-10-08"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:16119355465",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 64,
+      "distanceKm": 14.3,
+      "periods": [
+        {
+          "startDate": "2025-10-12",
+          "endDate": "2025-10-12"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:16128391359",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 51,
+      "distanceKm": 12,
+      "periods": [
+        {
+          "startDate": "2025-10-13",
+          "endDate": "2025-10-13"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:16157127501",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 68,
+      "periods": [
+        {
+          "startDate": "2025-10-15",
+          "endDate": "2025-10-15"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:16160833303",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 44,
+      "distanceKm": 10.8,
+      "periods": [
+        {
+          "startDate": "2025-10-16",
+          "endDate": "2025-10-16"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_2025-10-28_Yoga_ctlxn",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "periods": [
+        {
+          "startDate": "2025-10-28",
+          "endDate": "2025-10-28"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:16294921617",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 67,
+      "periods": [
+        {
+          "startDate": "2025-10-29",
+          "endDate": "2025-10-29"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:16323372841",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 60,
+      "distanceKm": 13.3,
+      "periods": [
+        {
+          "startDate": "2025-11-01",
+          "endDate": "2025-11-01"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:16365748724",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 67,
+      "periods": [
+        {
+          "startDate": "2025-11-05",
+          "endDate": "2025-11-05"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:16375233409",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 57,
+      "distanceKm": 11.9,
+      "periods": [
+        {
+          "startDate": "2025-11-06",
+          "endDate": "2025-11-06"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:16385122798",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 47,
+      "distanceKm": 10.6,
+      "periods": [
+        {
+          "startDate": "2025-11-07",
+          "endDate": "2025-11-07"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:16385175890",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 4,
+      "distanceKm": 0.7,
+      "periods": [
+        {
+          "startDate": "2025-11-07",
+          "endDate": "2025-11-07"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:16507116887",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 66,
+      "periods": [
+        {
+          "startDate": "2025-11-19",
+          "endDate": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:16516183377",
+      "title": "Rolki",
+      "kind": "sport",
+      "icon": "/icons/icons8-roller-skating-100.png",
+      "durationMinutes": 54,
+      "distanceKm": 11.4,
+      "periods": [
+        {
+          "startDate": "2025-11-20",
+          "endDate": "2025-11-20"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:16574336065",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 67,
+      "periods": [
+        {
+          "startDate": "2025-11-26",
+          "endDate": "2025-11-26"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:16640553153",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 66,
+      "periods": [
+        {
+          "startDate": "2025-12-03",
+          "endDate": "2025-12-03"
+        }
+      ]
+    }
+  ]
+}
