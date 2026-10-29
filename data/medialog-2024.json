@@ -1,0 +1,1443 @@
+{
+  "schemaVersion": 1,
+  "source": "medialog",
+  "year": 2024,
+  "items": [
+    {
+      "id": "medialog:season:1714",
+      "title": "Persepolis",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/5b485675dcbb45cffc283bd462d8430e.jpg",
+      "periods": [
+        {
+          "startDate": "2024-01-01",
+          "endDate": "2024-01-06"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1351",
+      "title": "Slow Horses",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 3,
+      "coverUrl": "data/medialog-covers/08b1e56ecd424220b96fcba559a242fc.jpg",
+      "periods": [
+        {
+          "startDate": "2024-01-01",
+          "endDate": "2024-01-07"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:149",
+      "title": "O zmierzchu. Jak przestać bać się życia i przeżyć je po swojemu",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/f030bc3953e77738c2a0365cefaae3ad.jpg",
+      "periods": [
+        {
+          "startDate": "2024-01-07",
+          "endDate": "2024-01-11"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1399",
+      "title": "Silos",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/6a353f3a1644d4c3ebac573f06bb7d3c.jpg",
+      "periods": [
+        {
+          "startDate": "2024-01-08",
+          "endDate": "2024-01-14"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:146",
+      "title": "Opowieści buddyjskie dla małych i dużych",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/6be091ececefce5c13064f46b8be8ca7.jpg",
+      "periods": [
+        {
+          "startDate": "2024-01-12",
+          "endDate": "2024-01-17"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1593",
+      "title": "Brooklyn 9-9",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 4,
+      "coverUrl": "data/medialog-covers/c9e00c3e2996b14e801ba3e2fb06ae31.jpg",
+      "periods": [
+        {
+          "startDate": "2024-01-14",
+          "endDate": "2024-01-23"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1413",
+      "title": "Reacher",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 2,
+      "coverUrl": "data/medialog-covers/ffe636fd7180e2282c13c068fe7a3b75.jpg",
+      "periods": [
+        {
+          "startDate": "2024-01-18",
+          "endDate": "2024-01-18"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:144",
+      "title": "Zamaskowana. Z pamiętnika autystki",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/9ed9cda53503047c003c6f16bcf6988b.jpg",
+      "periods": [
+        {
+          "startDate": "2024-01-18",
+          "endDate": "2024-01-18"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:342",
+      "title": "Człowiek Demolka",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/aca73159ba868646c6e70a94d8eaf129.jpg",
+      "periods": [
+        {
+          "startDate": "2024-01-23",
+          "endDate": "2024-01-24"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1622",
+      "title": "Queer Eye",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 8,
+      "coverUrl": "data/medialog-covers/33070832b89dffa924b5f3b5f5aded5f.jpg",
+      "periods": [
+        {
+          "startDate": "2024-01-24",
+          "endDate": "2024-01-28"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1592",
+      "title": "Brooklyn 9-9",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 5,
+      "coverUrl": "data/medialog-covers/152a089c2ab156f3beee99e7f6ba1baa.jpg",
+      "periods": [
+        {
+          "startDate": "2024-01-24",
+          "endDate": "2024-02-02"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1715",
+      "title": "Kaczki. Dwa lata na piaskach",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/329f414faa82daed27116bd85f9bf5e3.jpg",
+      "periods": [
+        {
+          "startDate": "2024-01-25",
+          "endDate": "2024-01-31"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:341",
+      "title": "Kot w butach: Ostatnie życzenie",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "https://image.tmdb.org/t/p/w200/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
+      "periods": [
+        {
+          "startDate": "2024-01-28",
+          "endDate": "2024-01-28"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:142",
+      "title": "Co ze mną nie tak? O życiu w dysfunkcyjnym domu, środowisku, w Polsce i o tym, jak sobie z tym (nie) radzimy",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/ca2282c6c8b288553f4717ec5a799573.jpg",
+      "periods": [
+        {
+          "startDate": "2024-01-31",
+          "endDate": "2024-02-04"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:340",
+      "title": "Podniebna Poczta Kiki",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/7fae179705a6089548eb47660d02877f.jpg",
+      "periods": [
+        {
+          "startDate": "2024-02-02",
+          "endDate": "2024-02-02"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:960",
+      "title": "Sprawa matki Madzi",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/36de59bb8bbf4e61f73a59f283f9c935.jpg",
+      "periods": [
+        {
+          "startDate": "2024-02-03",
+          "endDate": "2024-02-03"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:953",
+      "title": "Shrinking",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/0aed39aa1d6f8970e941fd3b9bc130fd.jpg",
+      "periods": [
+        {
+          "startDate": "2024-02-04",
+          "endDate": "2024-02-13"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1624",
+      "title": "Love never lies",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 2,
+      "coverUrl": "data/medialog-covers/b519be10e06c9c5107913d152ff7ac5e.jpg",
+      "periods": [
+        {
+          "startDate": "2024-02-07",
+          "endDate": "2024-02-09"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:717",
+      "title": "Detektyw",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 4,
+      "coverUrl": "data/medialog-covers/1ccc34f768dbf3128b8c98cbec59719c.jpg",
+      "periods": [
+        {
+          "startDate": "2024-02-18",
+          "endDate": "2024-02-25"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:145",
+      "title": "Irlandia wstaje z kolan",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/9e5382960e6a04128af1470a2a8a733a.jpg",
+      "periods": [
+        {
+          "startDate": "2024-02-20",
+          "endDate": "2024-02-23"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1363",
+      "title": "Awatar",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/7778c807c7e55a71f0e6386961477c59.jpg",
+      "periods": [
+        {
+          "startDate": "2024-02-22",
+          "endDate": "2024-02-29"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:925",
+      "title": "Rojst",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 3,
+      "coverUrl": "data/medialog-covers/0240db6ea326b4e1c88693dc66517808.jpg",
+      "periods": [
+        {
+          "startDate": "2024-02-28",
+          "endDate": "2024-03-04"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:694",
+      "title": "Ciemne Strony Amerykanskich Obozow Wychowawczych Dla Młodzieży",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/fb43f1632cb7d5f630b85a9c141335f7.jpg",
+      "periods": [
+        {
+          "startDate": "2024-03-05",
+          "endDate": "2024-03-05"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:740",
+      "title": "Dżentelmeni",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/4540366a75620a67093bdca0392193ca.jpg",
+      "periods": [
+        {
+          "startDate": "2024-03-07",
+          "endDate": "2024-03-15"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:352",
+      "title": "Luther - Zmrok",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/f1ba4cc7d758ec476dd85726f99730e0.jpg",
+      "periods": [
+        {
+          "startDate": "2024-03-13",
+          "endDate": "2024-03-14"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:909",
+      "title": "Problem trzech ciał",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/1b011a5637cda3e786c38d1d1a8d3a15.jpg",
+      "periods": [
+        {
+          "startDate": "2024-03-21",
+          "endDate": "2024-03-28"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1409",
+      "title": "Krucjata",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/cf8addbd3d6fd432fc78558b3efcc285.jpg",
+      "periods": [
+        {
+          "startDate": "2024-04-02",
+          "endDate": "2024-04-14"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:137",
+      "title": "Jesteś moją matką?",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/891f3cd15cdc3eae8d3889d34d4585fa.jpg",
+      "periods": [
+        {
+          "startDate": "2024-04-06",
+          "endDate": "2024-04-07"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:2679",
+      "title": "Cisza na planie: mroczna strona dziecięcej telewizji",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/1c4151ff50231056f78899921ee6aa44.jpg",
+      "periods": [
+        {
+          "startDate": "2024-04-07",
+          "endDate": "2024-04-09"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:745",
+      "title": "Fallout",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/cd8de22313da8d530155be9c77800a15.jpg",
+      "periods": [
+        {
+          "startDate": "2024-04-10",
+          "endDate": "2024-04-10"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1753",
+      "title": "Szogun",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/63e42ec5acca898c66d35a8e62123f73.jpg",
+      "periods": [
+        {
+          "startDate": "2024-04-23",
+          "endDate": "2024-05-02"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:923",
+      "title": "Reniferek",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/13e50e67c2e80e0604dab795d600436b.jpg",
+      "periods": [
+        {
+          "startDate": "2024-04-30",
+          "endDate": "2024-04-30"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1591",
+      "title": "Brooklyn 9-9",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 6,
+      "coverUrl": "data/medialog-covers/2894fa54773b4bf62197ed1b75a7ae2b.jpg",
+      "periods": [
+        {
+          "startDate": "2024-05-04",
+          "endDate": "2024-05-13"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:773",
+      "title": "Hacks",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/d31f2fa5527e8961254fd99a70dbf093.jpg",
+      "periods": [
+        {
+          "startDate": "2024-05-09",
+          "endDate": "2024-05-18"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:140",
+      "title": "Inwestowanie dla każdego",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/b0dc5fcace3c80fe784fa3dc9055e8e0.jpg",
+      "periods": [
+        {
+          "startDate": "2024-05-09",
+          "endDate": "2024-05-12"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:684",
+      "title": "Brooklyn 9-9",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 2,
+      "coverUrl": "data/medialog-covers/96ff5b6ca1d1669c31bb77f578fcbe97.jpg",
+      "periods": [
+        {
+          "startDate": "2024-05-14",
+          "endDate": "2024-05-23"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1632",
+      "title": "Młody Sheldon",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 7,
+      "coverUrl": "data/medialog-covers/c51a583caab91a4631c96d3bd89a7b49.jpg",
+      "periods": [
+        {
+          "startDate": "2024-05-16",
+          "endDate": "2024-05-25"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1011",
+      "title": "The 8 show",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/6689ccdda5253ecb46512597e4fcb0a9.jpg",
+      "periods": [
+        {
+          "startDate": "2024-05-17",
+          "endDate": "2024-05-24"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1582",
+      "title": "Hacks",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 2,
+      "coverUrl": "data/medialog-covers/f2adca22cffa51006ba25185c5957e32.jpg",
+      "periods": [
+        {
+          "startDate": "2024-05-20",
+          "endDate": "2024-05-29"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1360",
+      "title": "Awatar: Legenda Aanga",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/eaff66a92da932b74d9141c47b1971c4.jpg",
+      "periods": [
+        {
+          "startDate": "2024-05-22",
+          "endDate": "2024-05-22"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1371",
+      "title": "Brooklyn 9-9",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 7,
+      "coverUrl": "data/medialog-covers/49fed814d4c28e0ebcbd61a6dced37ee.jpg",
+      "periods": [
+        {
+          "startDate": "2024-05-24",
+          "endDate": "2024-06-02"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1021",
+      "title": "The Jinx",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 2,
+      "coverUrl": "data/medialog-covers/05ea7a67e8ca0650a2ff0cc72d7bd610.jpg",
+      "periods": [
+        {
+          "startDate": "2024-05-26",
+          "endDate": "2024-05-26"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1361",
+      "title": "Awatar: Legenda Aanga",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 2,
+      "coverUrl": "data/medialog-covers/2e25fc25ac95244b110c9dd4b387e752.jpg",
+      "periods": [
+        {
+          "startDate": "2024-05-30",
+          "endDate": "2024-05-30"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1581",
+      "title": "Hacks",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 3,
+      "coverUrl": "data/medialog-covers/d445b7123bec3917126b76e473a1a4c1.jpg",
+      "periods": [
+        {
+          "startDate": "2024-05-30",
+          "endDate": "2024-06-08"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1696",
+      "title": "Chirurdzy",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 18,
+      "coverUrl": "data/medialog-covers/de782344524ca12da29bbc067a6ff1ac.jpg",
+      "periods": [
+        {
+          "startDate": "2024-05-30",
+          "endDate": "2024-05-30"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:338",
+      "title": "Garfield",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/056f5bbcf27b74f5b92d0c141958cab3.jpg",
+      "periods": [
+        {
+          "startDate": "2024-06-01",
+          "endDate": "2024-06-01"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1590",
+      "title": "Brooklyn 9-9",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 8,
+      "coverUrl": "data/medialog-covers/bd4a41df6aab18425562ae15d811f4e7.jpg",
+      "periods": [
+        {
+          "startDate": "2024-06-03",
+          "endDate": "2024-06-06"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1199",
+      "title": "Atak Tytanów",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/2b044b8419f10400bfd692dd8b84da6c.jpg",
+      "periods": [
+        {
+          "startDate": "2024-06-07",
+          "endDate": "2024-06-09"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1198",
+      "title": "Atak Tytanów",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/a8283079ca1ef0a0bbafe3c7058d56f1.jpg",
+      "periods": [
+        {
+          "startDate": "2024-06-10",
+          "endDate": "2024-06-12"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1125",
+      "title": "Ashley Madison",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/46e295c6e3f71af78605b191357863f7.jpg",
+      "periods": [
+        {
+          "startDate": "2024-06-11",
+          "endDate": "2024-06-11"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1362",
+      "title": "Awatar: Legenda Aanga",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 3,
+      "coverUrl": "data/medialog-covers/bcda9f4ea73f16027bd827b714f115b5.jpg",
+      "periods": [
+        {
+          "startDate": "2024-06-12",
+          "endDate": "2024-06-12"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:134",
+      "title": "Lewa ręka ciemności",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/f0280c8c076027ccd160caac50989f93.jpg",
+      "periods": [
+        {
+          "startDate": "2024-06-13",
+          "endDate": "2024-06-17"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:2675",
+      "title": "Ród Smoka",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 2,
+      "coverUrl": "data/medialog-covers/d139a1aeea6d9cb34a62e080b4cced47.jpg",
+      "periods": [
+        {
+          "startDate": "2024-06-16",
+          "endDate": "2024-06-16"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1197",
+      "title": "Atak Tytanów",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/a417ba0504a36a3d1ebf6b628044b75e.jpg",
+      "periods": [
+        {
+          "startDate": "2024-06-20",
+          "endDate": "2024-06-23"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1196",
+      "title": "Atak Tytanów",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/e98c8c03b86c052beb0f9e95325c325e.jpg",
+      "periods": [
+        {
+          "startDate": "2024-06-24",
+          "endDate": "2024-06-26"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1304",
+      "title": "The Bear",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 3,
+      "coverUrl": "data/medialog-covers/9c0075ea49a0d941805cb1ba8b7b54f5.jpg",
+      "periods": [
+        {
+          "startDate": "2024-06-26",
+          "endDate": "2024-07-05"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1195",
+      "title": "Atak Tytanów",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/ccd2e9219474ea838657be2556128573.jpg",
+      "periods": [
+        {
+          "startDate": "2024-06-27",
+          "endDate": "2024-06-29"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1194",
+      "title": "Atak Tytanów",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/881206850766254b78ab8e3f3fe853c0.jpg",
+      "periods": [
+        {
+          "startDate": "2024-06-30",
+          "endDate": "2024-07-02"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:337",
+      "title": "W głowie się nie mieści 2",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/ab3b0372dc459f81df0778085c1c0483.jpg",
+      "periods": [
+        {
+          "startDate": "2024-07-11",
+          "endDate": "2024-07-11"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1628",
+      "title": "Wikingowie: Walhalla",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 3,
+      "coverUrl": "data/medialog-covers/fb7411a86a5eff9cdc64540b01a30881.jpg",
+      "periods": [
+        {
+          "startDate": "2024-07-11",
+          "endDate": "2024-07-18"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1017",
+      "title": "The Boys",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 4,
+      "coverUrl": "data/medialog-covers/f6d0806e27ae67abb2c789a1f0be6faa.jpg",
+      "periods": [
+        {
+          "startDate": "2024-07-18",
+          "endDate": "2024-07-25"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1193",
+      "title": "Atak Tytanów",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/a4e4bcfa74310a9b058a25a364c422be.jpg",
+      "periods": [
+        {
+          "startDate": "2024-07-22",
+          "endDate": "2024-07-24"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1201",
+      "title": "Atak Tytanów",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/2928ce0a66564a64d9794f11d35e343e.jpg",
+      "periods": [
+        {
+          "startDate": "2024-07-25",
+          "endDate": "2024-07-27"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1192",
+      "title": "Atak Tytanów",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/ce0c3cd82e19d182de6891519344a0cf.jpg",
+      "periods": [
+        {
+          "startDate": "2024-07-28",
+          "endDate": "2024-07-30"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1191",
+      "title": "Atak Tytanów",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/429ef3a2c0a9d95095a3e478eea8fcf1.jpg",
+      "periods": [
+        {
+          "startDate": "2024-07-31",
+          "endDate": "2024-08-01"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1190",
+      "title": "Atak Tytanów",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/c1b2b889d605c49e60b6a85031be9371.jpg",
+      "periods": [
+        {
+          "startDate": "2024-08-02",
+          "endDate": "2024-08-04"
+        },
+        {
+          "startDate": "2024-08-05",
+          "endDate": "2024-08-07"
+        },
+        {
+          "startDate": "2024-08-17",
+          "endDate": "2024-08-19"
+        },
+        {
+          "startDate": "2024-08-20",
+          "endDate": "2024-08-22"
+        },
+        {
+          "startDate": "2024-08-21",
+          "endDate": "2024-08-31"
+        },
+        {
+          "startDate": "2024-08-23",
+          "endDate": "2024-08-25"
+        },
+        {
+          "startDate": "2024-08-26",
+          "endDate": "2024-08-28"
+        },
+        {
+          "startDate": "2024-09-14",
+          "endDate": "2024-09-16"
+        },
+        {
+          "startDate": "2024-09-17",
+          "endDate": "2024-09-19"
+        },
+        {
+          "startDate": "2024-09-20",
+          "endDate": "2024-09-22"
+        },
+        {
+          "startDate": "2024-09-23",
+          "endDate": "2024-09-25"
+        },
+        {
+          "startDate": "2024-10-12",
+          "endDate": "2024-10-14"
+        },
+        {
+          "startDate": "2024-10-15",
+          "endDate": "2024-10-17"
+        },
+        {
+          "startDate": "2024-10-18",
+          "endDate": "2024-10-20"
+        },
+        {
+          "startDate": "2024-11-16",
+          "endDate": "2024-11-18"
+        },
+        {
+          "startDate": "2024-11-19",
+          "endDate": "2024-11-21"
+        },
+        {
+          "startDate": "2024-11-22",
+          "endDate": "2024-11-24"
+        },
+        {
+          "startDate": "2024-11-25",
+          "endDate": "2024-11-27"
+        },
+        {
+          "startDate": "2024-12-07",
+          "endDate": "2024-12-09"
+        },
+        {
+          "startDate": "2024-12-10",
+          "endDate": "2024-12-12"
+        },
+        {
+          "startDate": "2024-12-13",
+          "endDate": "2024-12-15"
+        },
+        {
+          "startDate": "2024-12-16",
+          "endDate": "2024-12-18"
+        },
+        {
+          "startDate": "2024-12-19",
+          "endDate": "2024-12-21"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1724",
+      "title": "Atak Tytanów",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/942b3e195469ce0e135bcf70ff14a7ae.jpg",
+      "periods": [
+        {
+          "startDate": "2024-08-13",
+          "endDate": "2024-08-22"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1725",
+      "title": "Atak Tytanów",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 2,
+      "coverUrl": "data/medialog-covers/96ef8db0134102ae15f43805638f6821.jpg",
+      "periods": [
+        {
+          "startDate": "2024-08-23",
+          "endDate": "2024-09-01"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:14",
+      "title": "Impersonalni",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/ec3735af9fac88a45d2bbd29f5df518f.jpg",
+      "periods": [
+        {
+          "startDate": "2024-09-01",
+          "endDate": "2024-09-20"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1726",
+      "title": "Atak Tytanów",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 3,
+      "coverUrl": "data/medialog-covers/91e3138932a0f7996bf6707b2ab0b374.jpg",
+      "periods": [
+        {
+          "startDate": "2024-09-02",
+          "endDate": "2024-09-11"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1727",
+      "title": "Atak Tytanów",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 4,
+      "coverUrl": "data/medialog-covers/ecddaa62e138386b14d115bc7b92663d.jpg",
+      "periods": [
+        {
+          "startDate": "2024-09-12",
+          "endDate": "2024-09-21"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:336",
+      "title": "Siódmy milion",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/8368ed921ede561d11572dc4fd6e8dd8.jpg",
+      "periods": [
+        {
+          "startDate": "2024-09-19",
+          "endDate": "2024-09-10"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:15",
+      "title": "Impersonalni",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 2,
+      "coverUrl": "data/medialog-covers/2977a600d1f83e126157936b10a1f33c.jpg",
+      "periods": [
+        {
+          "startDate": "2024-09-21",
+          "endDate": "2024-10-09"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:335",
+      "title": "Panda i Afrykańska banda",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/ec7009f4ca12182ffee5f26d2d843ebf.jpg",
+      "periods": [
+        {
+          "startDate": "2024-09-28",
+          "endDate": "2024-09-28"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:334",
+      "title": "Spiderman Universum",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/1d15d88d9b274d5c31d7233b5fb7a6a6.jpg",
+      "periods": [
+        {
+          "startDate": "2024-10-03",
+          "endDate": "2024-10-03"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:333",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/1c2ae78033af631c1697a2f5d434f1a9.jpg",
+      "periods": [
+        {
+          "startDate": "2024-10-04",
+          "endDate": "2024-10-04"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:16",
+      "title": "Impersonalni",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 3,
+      "coverUrl": "data/medialog-covers/f91ef974b50bb68872542588fa11e74b.jpg",
+      "periods": [
+        {
+          "startDate": "2024-10-10",
+          "endDate": "2024-11-05"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:332",
+      "title": "Bracia Po Latach",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/a93cd95f702e0be9c793be2670ed6f50.jpg",
+      "periods": [
+        {
+          "startDate": "2024-10-12",
+          "endDate": "2024-10-12"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:692",
+      "title": "Ciekawy przypadek Natalie Grace",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/8f80585053eaa27dc656a2afc7a48ac1.jpg",
+      "periods": [
+        {
+          "startDate": "2024-10-19",
+          "endDate": "2024-10-20"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1710",
+      "title": "Najgroźniejsza sekta Ameryki",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 1,
+      "coverUrl": "https://image.tmdb.org/t/p/w342/kOgqp9bEN3AcWlkMc8zLUlaDmK5.jpg",
+      "periods": [
+        {
+          "startDate": "2024-10-20",
+          "endDate": "2024-10-20"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1390",
+      "title": "Ciekawy przypadek Natalie Grace",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 2,
+      "coverUrl": "data/medialog-covers/30f6430b20e5813604d61e8b311cc5d3.jpg",
+      "periods": [
+        {
+          "startDate": "2024-10-21",
+          "endDate": "2024-10-22"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1711",
+      "title": "Czarna skrzynka. Sprawa, która stała się symbolem japońskiego #MeToo",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/61ad2eea533dd68211a2fe63f6f9279b.jpg",
+      "periods": [
+        {
+          "startDate": "2024-11-01",
+          "endDate": "2024-11-09"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:17",
+      "title": "Impersonalni",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 4,
+      "coverUrl": "data/medialog-covers/3baf2eb11ddc7a3be4a64c21b700ca0a.jpg",
+      "periods": [
+        {
+          "startDate": "2024-11-05",
+          "endDate": "2024-11-22"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1451",
+      "title": "Oddech ognia",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/6da8f1bfd698fc8e824501f7107ae0cd.jpg",
+      "periods": [
+        {
+          "startDate": "2024-11-13",
+          "endDate": "2024-11-13"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:141",
+      "title": "Loteria",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/5f1bb042a670233ac361769fda7d65a7.jpg",
+      "periods": [
+        {
+          "startDate": "2024-11-16",
+          "endDate": "2024-11-16"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1713",
+      "title": "Kocham Cię, teraz umieraj",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 1,
+      "coverUrl": "https://image.tmdb.org/t/p/w342/5393uxK9aqVUNbrjyZgeqTlDTmD.jpg",
+      "periods": [
+        {
+          "startDate": "2024-11-17",
+          "endDate": "2024-11-17"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1045",
+      "title": "Twoje Ciało, Twoja Walka",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/0ca0a91163007ba3bc0f06d84c0987c9.jpg",
+      "periods": [
+        {
+          "startDate": "2024-11-22",
+          "endDate": "2024-11-22"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1410",
+      "title": "Impersonalni",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 5,
+      "coverUrl": "data/medialog-covers/8b93650af73e9122c5cccb8af1a771fa.jpg",
+      "periods": [
+        {
+          "startDate": "2024-11-23",
+          "endDate": "2024-12-04"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:284",
+      "title": "Popioły",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/11df412673fa53a34763de5511102dd9.jpg",
+      "periods": [
+        {
+          "startDate": "2024-11-30",
+          "endDate": "2024-11-30"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1716",
+      "title": "Król Lew",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "https://image.tmdb.org/t/p/w342/zTnHPNgI0PnRaUe6aZPIwNn2eV4.jpg",
+      "periods": [
+        {
+          "startDate": "2024-12-06",
+          "endDate": "2024-12-06"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:331",
+      "title": "Dziki Robot",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/3113e3ab2ef480f6635590a77684fa29.jpg",
+      "periods": [
+        {
+          "startDate": "2024-12-07",
+          "endDate": "2024-12-07"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1635",
+      "title": "Pieniądz elektroniczny - tajemnica Bitcoina",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/2dd6ef52023776c9aba4e918c30e6bfc.jpg",
+      "periods": [
+        {
+          "startDate": "2024-12-08",
+          "endDate": "2024-12-09"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1043",
+      "title": "Tulsa King",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 2,
+      "coverUrl": "data/medialog-covers/5d68a8c9bcaeb74c4a810cf5f7fc6fd4.jpg",
+      "periods": [
+        {
+          "startDate": "2024-12-10",
+          "endDate": "2024-12-19"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1504",
+      "title": "John Wick 1",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/c2f19078c0d7b7f4813681239c2e81a5.jpg",
+      "periods": [
+        {
+          "startDate": "2024-12-20",
+          "endDate": "2024-12-21"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1623",
+      "title": "Queer Eye",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 9,
+      "coverUrl": "data/medialog-covers/3804376edb05da09c3edb78f493e2c9a.jpg",
+      "periods": [
+        {
+          "startDate": "2024-12-21",
+          "endDate": "2024-12-30"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:100",
+      "title": "Atak Tytanów",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/b6093a83472b004dad5e02e755ad1347.jpg",
+      "periods": [
+        {
+          "startDate": "2024-12-22",
+          "endDate": "2024-12-23"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:138",
+      "title": "Nie zapomnij mnie",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/cd94c4e88c646c8cb49ae88c3dbad210.jpg",
+      "periods": [
+        {
+          "startDate": "2024-12-25",
+          "endDate": "2024-12-27"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1505",
+      "title": "John Wick 2",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/cba97717d48bd15eb6db83eb60e6a120.jpg",
+      "periods": [
+        {
+          "startDate": "2024-12-28",
+          "endDate": "2024-12-29"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:136",
+      "title": "Gender Queer. Autobiografia",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/c87b8e4f5b584a5d7f74764b8f0cd37d.jpg",
+      "periods": [
+        {
+          "startDate": "2024-12-29",
+          "endDate": "2024-12-30"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1506",
+      "title": "John Wick 3",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/56f021c266be2587516af70aa8740265.jpg",
+      "periods": [
+        {
+          "startDate": "2024-12-30",
+          "endDate": "2024-12-30"
+        }
+      ]
+    }
+  ]
+}

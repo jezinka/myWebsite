@@ -1,0 +1,2154 @@
+{
+  "schemaVersion": 1,
+  "source": "medialog",
+  "year": 2025,
+  "items": [
+    {
+      "id": "medialog:season:1506",
+      "title": "John Wick 3",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/56f021c266be2587516af70aa8740265.jpg",
+      "periods": [
+        {
+          "startDate": "2025-01-01",
+          "endDate": "2025-01-01"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:143",
+      "title": "Strefa Gazy. Przypisy",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/75d04dda9f7175890b6591f2b91a16e6.jpg",
+      "periods": [
+        {
+          "startDate": "2025-01-01",
+          "endDate": "2025-01-04"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1507",
+      "title": "John Wick 4",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/73fd9a7fe8050ee838afa2dae285cc4d.jpg",
+      "periods": [
+        {
+          "startDate": "2025-01-02",
+          "endDate": "2025-01-04"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:962",
+      "title": "Squid game",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 2,
+      "coverUrl": "data/medialog-covers/a7740a943c4dccccabf97934a0d1abde.jpg",
+      "periods": [
+        {
+          "startDate": "2025-01-05",
+          "endDate": "2025-01-11"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:86",
+      "title": "Siddhartha",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/70024c28cf43540d43f2a861a7a58cbf.jpg",
+      "periods": [
+        {
+          "startDate": "2025-01-06",
+          "endDate": "2025-01-08"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1472",
+      "title": "Ciekawy przypadek Natalie Grace",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 3,
+      "coverUrl": "data/medialog-covers/485e4e26fe86e5548ab0354eac7d7934.jpg",
+      "periods": [
+        {
+          "startDate": "2025-01-07",
+          "endDate": "2025-01-07"
+        },
+        {
+          "startDate": "2025-01-09",
+          "endDate": "2025-01-10"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:51",
+      "title": "Hałas",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/373730d4388da041fcc7f80110b7f464.jpg",
+      "periods": [
+        {
+          "startDate": "2025-01-09",
+          "endDate": "2025-01-15"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:139",
+      "title": "Pjongjang",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/ac5f125c6955230f4911183f1d2e0188.jpg",
+      "periods": [
+        {
+          "startDate": "2025-01-11",
+          "endDate": "2025-01-15"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:896",
+      "title": "Pingwin",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/c016cde65a899934d8403e4d341152f3.jpg",
+      "periods": [
+        {
+          "startDate": "2025-01-12",
+          "endDate": "2025-01-19"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:94",
+      "title": "Lżejsza od swojego cienia",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/d91b47648759d741fdc5dcb31061a58d.jpg",
+      "periods": [
+        {
+          "startDate": "2025-01-16",
+          "endDate": "2025-01-16"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:61",
+      "title": "Habibi",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/233a137ab055ae994f651fde50ebbf7b.jpg",
+      "periods": [
+        {
+          "startDate": "2025-01-17",
+          "endDate": "2025-01-21"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:737",
+      "title": "Dzień Szakala",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/849834dd59726ed7a7e7112cfe0f9785.jpg",
+      "periods": [
+        {
+          "startDate": "2025-01-20",
+          "endDate": "2025-01-29"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:72",
+      "title": "Normalni ludzie",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/ae9972f3bd8f8022b286128c4ef5b87c.jpg",
+      "periods": [
+        {
+          "startDate": "2025-01-25",
+          "endDate": "2025-01-29"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1047",
+      "title": "Ukochane Dziecko",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/1245abfe8992b2f9db8a41b101a1deb2.jpg",
+      "periods": [
+        {
+          "startDate": "2025-01-28",
+          "endDate": "2025-01-30"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:317",
+      "title": "Szakal",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/e2438544b3cd35072fae1a49111a3485.jpg",
+      "periods": [
+        {
+          "startDate": "2025-01-30",
+          "endDate": "2025-01-31"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:69",
+      "title": "Ghost World",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/4cc7a5c7b5d84db8f7a3b0d1aae7cf65.jpg",
+      "periods": [
+        {
+          "startDate": "2025-02-01",
+          "endDate": "2025-02-03"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1099",
+      "title": "Śleboda",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/0aa73e1c09ac0cab3ca70d25ee4904d6.jpg",
+      "periods": [
+        {
+          "startDate": "2025-02-02",
+          "endDate": "2025-02-09"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:43",
+      "title": "El Eternauta, Daytripper, and Beyond",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/2fcfbf7fe7d7357cfff24b4c6f61d1d4.jpg",
+      "periods": [
+        {
+          "startDate": "2025-02-04",
+          "endDate": "2025-02-05"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:99",
+      "title": "Histeria sztuki. Niemy krzyk obrazów",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/6d63a7cdce57c0dbe1c88cf710900a39.jpg",
+      "periods": [
+        {
+          "startDate": "2025-02-06",
+          "endDate": "2025-02-14"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:802",
+      "title": "Krucjata",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 2,
+      "coverUrl": "data/medialog-covers/f456ce50a891912bb2f5ad4f9beae66e.jpg",
+      "periods": [
+        {
+          "startDate": "2025-02-11",
+          "endDate": "2025-02-23"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1698",
+      "title": "Neon Genesis Evangelion",
+      "kind": "watching",
+      "mediaType": "anime",
+      "coverUrl": "data/medialog-covers/e2d50dc18c7b6904c7569a35fa6881c1.jpg",
+      "periods": [
+        {
+          "startDate": "2025-02-11",
+          "endDate": "2025-02-23"
+        },
+        {
+          "startDate": "2025-02-28",
+          "endDate": "2025-02-28"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:65",
+      "title": "Nie opuszczaj mnie",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/f033d3ca153146ea8deefc377e550955.jpg",
+      "periods": [
+        {
+          "startDate": "2025-02-15",
+          "endDate": "2025-02-22"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:840",
+      "title": "Morderstwo po amerykańsku",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/748ef5f9e2e6c07bca94cda9358fba62.jpg",
+      "periods": [
+        {
+          "startDate": "2025-02-17",
+          "endDate": "2025-02-17"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:792",
+      "title": "Jerry Springer - Kłótnie kamera akcja",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/b7cf12d462a4842e8029b7fb1b4b6bfb.jpg",
+      "periods": [
+        {
+          "startDate": "2025-02-22",
+          "endDate": "2025-02-22"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:866",
+      "title": "Ocet Jabłkowy",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/565862d6faa95ae9a5d585ead24ffc1d.jpg",
+      "periods": [
+        {
+          "startDate": "2025-02-24",
+          "endDate": "2025-02-27"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:796",
+      "title": "Kibic",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/185418b8c88ce817e58a5230c21c1505.jpg",
+      "periods": [
+        {
+          "startDate": "2025-02-25",
+          "endDate": "2025-03-01"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:714",
+      "title": "Demon w rodzinie Sprawa Ruby Franke",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/70c6f7f986adc7d0e856718ac420c31b.jpg",
+      "periods": [
+        {
+          "startDate": "2025-02-27",
+          "endDate": "2025-02-28"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1278",
+      "title": "Zbrodnie po sąsiedzku",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 4,
+      "coverUrl": "data/medialog-covers/475ecbc4e438777ee23a1d6682e6ee4b.jpg",
+      "periods": [
+        {
+          "startDate": "2025-03-02",
+          "endDate": "2025-03-12"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:55",
+      "title": "Fullmetal Alchemist t. 1",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/ee25dc4d6f946f54860901015274e03c.jpg",
+      "periods": [
+        {
+          "startDate": "2025-03-03",
+          "endDate": "2025-03-04"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:63",
+      "title": "Genialna przyjaciółka",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/1527a60ea63de3e6acb186e8576c9e6f.jpg",
+      "periods": [
+        {
+          "startDate": "2025-03-05",
+          "endDate": "2025-03-18"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:316",
+      "title": "The End Of Evangelion",
+      "kind": "watching",
+      "mediaType": "anime",
+      "coverUrl": "data/medialog-covers/b5f76db337e118e045c078b3cd7c8091.jpg",
+      "periods": [
+        {
+          "startDate": "2025-03-11",
+          "endDate": "2025-03-11"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:726",
+      "title": "Dojrzewanie",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/68560318557a5850e845d4462c34facf.jpg",
+      "periods": [
+        {
+          "startDate": "2025-03-16",
+          "endDate": "2025-03-19"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:98",
+      "title": "Do poprawki",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/686686df6ff7d597434a07132a30a687.jpg",
+      "periods": [
+        {
+          "startDate": "2025-03-19",
+          "endDate": "2025-03-19"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:723",
+      "title": "Dexter Grzech Pierworodny",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/5f847015c6ee10cb32208d2bdf593f17.jpg",
+      "periods": [
+        {
+          "startDate": "2025-03-20",
+          "endDate": "2025-03-30"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1559",
+      "title": "Severance",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 2,
+      "coverUrl": "data/medialog-covers/cfb5a2faa5b6a426ed26667946684f65.jpg",
+      "periods": [
+        {
+          "startDate": "2025-03-20",
+          "endDate": "2025-03-26"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:74",
+      "title": "Marka osobista w branży IT. Jak ją zbudować i rozwijać",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/79ad27bf5a9c57866fe8348b7e3ce67f.jpg",
+      "periods": [
+        {
+          "startDate": "2025-03-21",
+          "endDate": "2025-03-22"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:71",
+      "title": "Potwory",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/9b7faa74440cb57c2ff853a33275c4cf.jpg",
+      "periods": [
+        {
+          "startDate": "2025-03-24",
+          "endDate": "2025-03-29"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:91",
+      "title": "Ścieżka",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/143183f49877f0d2407cc726c782d960.jpg",
+      "periods": [
+        {
+          "startDate": "2025-03-30",
+          "endDate": "2025-04-02"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:811",
+      "title": "Lockerbie",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/2b4dae64d19d45418a9653cdf0fdefed.jpg",
+      "periods": [
+        {
+          "startDate": "2025-03-31",
+          "endDate": "2025-03-05"
+        },
+        {
+          "startDate": "2025-03-31",
+          "endDate": "2025-04-06"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:90",
+      "title": "Śmieci",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/532938c2494ff18e5faa6d82b8aed3d0.jpg",
+      "periods": [
+        {
+          "startDate": "2025-04-03",
+          "endDate": "2025-04-07"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1568",
+      "title": "Reacher",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 3,
+      "coverUrl": "data/medialog-covers/e729576c22eb5dbed66502258bbba7bb.jpg",
+      "periods": [
+        {
+          "startDate": "2025-04-06",
+          "endDate": "2025-04-13"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:59",
+      "title": "Ocean na końcu drogi",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/abe407b163d55e9d31f841693cb5bb4c.jpg",
+      "periods": [
+        {
+          "startDate": "2025-04-08",
+          "endDate": "2025-04-11"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:96",
+      "title": "Historia nowego nazwiska",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/24b1ac64a946ee11a4564d8d8f1f1672.jpg",
+      "periods": [
+        {
+          "startDate": "2025-04-12",
+          "endDate": "2025-04-21"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1284",
+      "title": "Czarne lustro",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/42d4f607d36f8f082a636fbbfa80345e.jpg",
+      "periods": [
+        {
+          "startDate": "2025-04-14",
+          "endDate": "2025-04-15"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1550",
+      "title": "Czarne lustro",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 7,
+      "coverUrl": "data/medialog-covers/ed26147eee83ea2e39e8d41d24ee1912.jpg",
+      "periods": [
+        {
+          "startDate": "2025-04-17",
+          "endDate": "2025-04-17"
+        },
+        {
+          "startDate": "2025-04-21",
+          "endDate": "2025-04-24"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:58",
+      "title": "Powolna produktywność",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/8a4fb4104fa8911489080f04fd44a6c3.jpg",
+      "periods": [
+        {
+          "startDate": "2025-04-22",
+          "endDate": "2025-04-27"
+        },
+        {
+          "startDate": "2025-05-14",
+          "endDate": "2025-05-16"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:956",
+      "title": "Slow Horses",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 4,
+      "coverUrl": "data/medialog-covers/1b5f4b00eeae99410a37e5857a56c2a6.jpg",
+      "periods": [
+        {
+          "startDate": "2025-04-27",
+          "endDate": "2025-05-02"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:78",
+      "title": "Historia ucieczki",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/00a26c5e6bafd9148ca0a742464fa0c4.jpg",
+      "periods": [
+        {
+          "startDate": "2025-04-28",
+          "endDate": "2025-05-11"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:315",
+      "title": "Minecraft Film",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/83d50ef01e07ba0f745c6ecd8212eab1.jpg",
+      "periods": [
+        {
+          "startDate": "2025-05-02",
+          "endDate": "2025-05-02"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:676",
+      "title": "Bosch legacy",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 3,
+      "coverUrl": "data/medialog-covers/61deba79b33e3082e6177bd1cb1bfa6b.jpg",
+      "periods": [
+        {
+          "startDate": "2025-05-03",
+          "endDate": "2025-05-13"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:56",
+      "title": "PTSD. Syndrom stresu pourazowego",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/6a51bbeb5b8f306af1860cb85fea44c3.jpg",
+      "periods": [
+        {
+          "startDate": "2025-05-12",
+          "endDate": "2025-05-13"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:954",
+      "title": "Silos",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 2,
+      "coverUrl": "data/medialog-covers/17d3c6c5138329b4116737561e8d6dda.jpg",
+      "periods": [
+        {
+          "startDate": "2025-05-14",
+          "endDate": "2025-05-26"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:961",
+      "title": "Sprzataczka",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/244af28f0a8b0d65fb3cca2ee1f67215.jpg",
+      "periods": [
+        {
+          "startDate": "2025-05-15",
+          "endDate": "2025-05-17"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:52",
+      "title": "Weź się w garść (wydanie II)",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/14361a77db04eab11b1e4b318a0ec60b.jpg",
+      "periods": [
+        {
+          "startDate": "2025-05-17",
+          "endDate": "2025-05-20"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:64",
+      "title": "Historia zaginionej dziewczynki",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/0ff1e8eacb848be5cb7374df3e8c0cd9.jpg",
+      "periods": [
+        {
+          "startDate": "2025-05-21",
+          "endDate": "2025-05-31"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1545",
+      "title": "Mythic Quest",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 4,
+      "coverUrl": "data/medialog-covers/749cbc7ac5f05c5a3fe7a128c2885709.jpg",
+      "periods": [
+        {
+          "startDate": "2025-05-27",
+          "endDate": "2025-06-04"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:62",
+      "title": "Kwiaty dla Algernona",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/7b41c1b8b317aa340b3beec4c58a48cb.jpg",
+      "periods": [
+        {
+          "startDate": "2025-06-01",
+          "endDate": "2025-06-11"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:809",
+      "title": "Last of us",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 2,
+      "coverUrl": "data/medialog-covers/97545f8d08e91de4e73a25291b389f6b.jpg",
+      "periods": [
+        {
+          "startDate": "2025-06-05",
+          "endDate": "2025-06-13"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:92",
+      "title": "Umowa z Bogiem. Trylogia: Życie na Dropsie Avenue",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/86cf263f7f24b41b9fd55a5e0310917a.jpg",
+      "periods": [
+        {
+          "startDate": "2025-06-12",
+          "endDate": "2025-06-15"
+        },
+        {
+          "startDate": "2025-06-24",
+          "endDate": "2025-06-30"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:756",
+      "title": "George and Mandy first marriage",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/4d6e73c1da113539143cbeb0ebb890f5.jpg",
+      "periods": [
+        {
+          "startDate": "2025-06-14",
+          "endDate": "2025-06-29"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:79",
+      "title": "Zakłamane życie dorosłych",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/2c02fd66c1214b53cd6859dc900c5852.jpg",
+      "periods": [
+        {
+          "startDate": "2025-06-16",
+          "endDate": "2025-06-26"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:314",
+      "title": "Lilo i Stitch",
+      "kind": "watching",
+      "mediaType": "cartoon",
+      "coverUrl": "data/medialog-covers/ab13ea0391690851cc27b8e861d304be.jpg",
+      "periods": [
+        {
+          "startDate": "2025-06-21",
+          "endDate": "2025-06-22"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1497",
+      "title": "Squid game",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 3,
+      "coverUrl": "data/medialog-covers/25093b2e693700bb624eff7147adf4d6.jpg",
+      "periods": [
+        {
+          "startDate": "2025-06-30",
+          "endDate": "2025-07-05"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:66",
+      "title": "Wodnikowe Wzgórze",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/9c5207311ca6c8dbbee4aef436a65b52.jpg",
+      "periods": [
+        {
+          "startDate": "2025-07-01",
+          "endDate": "2025-07-10"
+        },
+        {
+          "startDate": "2025-07-13",
+          "endDate": "2025-07-17"
+        },
+        {
+          "startDate": "2025-07-23",
+          "endDate": "2025-07-30"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:771",
+      "title": "Grenfell",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/4851a0b3ca05d939732a894796c2e51b.jpg",
+      "periods": [
+        {
+          "startDate": "2025-07-02",
+          "endDate": "2025-07-02"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:313",
+      "title": "Zwierzogród",
+      "kind": "watching",
+      "mediaType": "cartoon",
+      "coverUrl": "data/medialog-covers/9edd5d23bcfcd41cac312be92d4bb54d.jpg",
+      "periods": [
+        {
+          "startDate": "2025-07-06",
+          "endDate": "2025-07-06"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:312",
+      "title": "Epoka Lodowcowa",
+      "kind": "watching",
+      "mediaType": "cartoon",
+      "coverUrl": "data/medialog-covers/5a11287c09abcf409785a5a06fa4b8fd.jpg",
+      "periods": [
+        {
+          "startDate": "2025-07-07",
+          "endDate": "2025-07-07"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:310",
+      "title": "Droga Do Eldorado",
+      "kind": "watching",
+      "mediaType": "cartoon",
+      "coverUrl": "data/medialog-covers/7952e0f7bdddd0af13992d4520dca901.jpg",
+      "periods": [
+        {
+          "startDate": "2025-07-08",
+          "endDate": "2025-07-08"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:311",
+      "title": "Pez-Tepca. Wyjety Spod Prawa",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/2e589126d2fe84fa10c6b645d1ddd8a4.jpg",
+      "periods": [
+        {
+          "startDate": "2025-07-08",
+          "endDate": "2025-07-08"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:309",
+      "title": "Turbo",
+      "kind": "watching",
+      "mediaType": "cartoon",
+      "coverUrl": "data/medialog-covers/8c6656e6df7ca253cd46e66b1d4173a0.jpg",
+      "periods": [
+        {
+          "startDate": "2025-07-09",
+          "endDate": "2025-07-09"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1700",
+      "title": "Ruchomy zamek Hauru",
+      "kind": "watching",
+      "mediaType": "cartoon",
+      "seasonNumber": 1,
+      "coverUrl": "https://image.tmdb.org/t/p/w342/pCHfm0Icmk0rJiBJjY1XAfYMTd7.jpg",
+      "periods": [
+        {
+          "startDate": "2025-07-10",
+          "endDate": "2025-07-10"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:50",
+      "title": "Czas porzucenia",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/764a5ef2ed7e625596e4d769afc51582.jpg",
+      "periods": [
+        {
+          "startDate": "2025-07-11",
+          "endDate": "2025-07-12"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1013",
+      "title": "The Bear",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 4,
+      "coverUrl": "data/medialog-covers/3b4800f2177feeb3a62ffc3741371b8b.jpg",
+      "periods": [
+        {
+          "startDate": "2025-07-13",
+          "endDate": "2025-07-22"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:53",
+      "title": "Proces",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/338374d4a7c1469169feaea7cacc1c85.jpg",
+      "periods": [
+        {
+          "startDate": "2025-07-13",
+          "endDate": "2025-07-13"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1239",
+      "title": "Przyjaciele, kochankowie i ta wielka straszna rzecz",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/8a6029ade0baf8caf96888e337193c65.jpg",
+      "periods": [
+        {
+          "startDate": "2025-07-18",
+          "endDate": "2025-07-22"
+        },
+        {
+          "startDate": "2025-07-31",
+          "endDate": "2025-08-03"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:82",
+      "title": "Saga Winlandzka #1",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/a64b424d630e0d9a0126bf9c55a65e89.jpg",
+      "periods": [
+        {
+          "startDate": "2025-07-19",
+          "endDate": "2025-07-19"
+        },
+        {
+          "startDate": "2025-08-04",
+          "endDate": "2025-08-04"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:657",
+      "title": "Atak na Londyn",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/ace3dca317a25df41eeb76dd74253be2.jpg",
+      "periods": [
+        {
+          "startDate": "2025-07-19",
+          "endDate": "2025-07-19"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:910",
+      "title": "Przesmyk",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/a5a0b44212faf5a276df0a81cb3c4eef.jpg",
+      "periods": [
+        {
+          "startDate": "2025-07-23",
+          "endDate": "2025-07-29"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1701",
+      "title": "Dear Zachary: A Letter to a Son About His Father",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/8c5a6005d81611f65878c305038873fe.jpg",
+      "periods": [
+        {
+          "startDate": "2025-07-24",
+          "endDate": "2025-07-25"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1703",
+      "title": "Sandman",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 2,
+      "coverUrl": "data/medialog-covers/94d3ff725c8668b9a9b53ded5c2a7a16.jpg",
+      "periods": [
+        {
+          "startDate": "2025-07-30",
+          "endDate": "2025-07-30"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:738",
+      "title": "Dzikość",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/8964f44dc3ee39154ebae7271e93478a.jpg",
+      "periods": [
+        {
+          "startDate": "2025-07-31",
+          "endDate": "2025-08-06"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:57",
+      "title": "Eden",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/d444dc824ae2598509c0823695e9bd97.jpg",
+      "periods": [
+        {
+          "startDate": "2025-08-05",
+          "endDate": "2025-08-05"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:85",
+      "title": "Milczące bliźniaczki",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/f3086bbe06caf05dcde883ef4c49af85.jpg",
+      "periods": [
+        {
+          "startDate": "2025-08-06",
+          "endDate": "2025-08-11"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1052",
+      "title": "Upadek",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/e3e9a04ba7035f04e3c25bf5005ba66c.jpg",
+      "periods": [
+        {
+          "startDate": "2025-08-07",
+          "endDate": "2025-08-11"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:308",
+      "title": "Mała miss",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/0c281b42e16adb3bce681ed39161bd57.jpg",
+      "periods": [
+        {
+          "startDate": "2025-08-12",
+          "endDate": "2025-08-13"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:97",
+      "title": "Ucieczka od wolności",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/5ece223cd5c9ed5e2c78dea1a73eb161.jpg",
+      "periods": [
+        {
+          "startDate": "2025-08-12",
+          "endDate": "2025-08-18"
+        },
+        {
+          "startDate": "2025-09-05",
+          "endDate": "2025-09-09"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1613",
+      "title": "Upadek",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 2,
+      "coverUrl": "data/medialog-covers/a2a75fcb926aee7f3f649c9fbe7d8ce3.jpg",
+      "periods": [
+        {
+          "startDate": "2025-08-12",
+          "endDate": "2025-08-15"
+        },
+        {
+          "startDate": "2025-08-17",
+          "endDate": "2025-08-18"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1690",
+      "title": "Jak żyć z lękiem",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/c205be20d5c8f3e16d5393a591836c20.jpg",
+      "periods": [
+        {
+          "startDate": "2025-08-19",
+          "endDate": "2025-08-22"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1614",
+      "title": "Upadek",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 3,
+      "coverUrl": "data/medialog-covers/8bd10c768ed986f97c3fb8f733f204c7.jpg",
+      "periods": [
+        {
+          "startDate": "2025-08-19",
+          "endDate": "2025-08-25"
+        },
+        {
+          "startDate": "2025-08-27",
+          "endDate": "2025-08-28"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:47",
+      "title": "Racice namiętności",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/7eeb0a6a64311cb4d32f9aa0dbb8a3ce.jpg",
+      "periods": [
+        {
+          "startDate": "2025-08-21",
+          "endDate": "2025-08-24"
+        },
+        {
+          "startDate": "2025-09-01",
+          "endDate": "2025-09-04"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:70",
+      "title": "Nomadland",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/a2c7ec0d36e893dec3db8b0460cb6f21.jpg",
+      "periods": [
+        {
+          "startDate": "2025-08-23",
+          "endDate": "2025-08-28"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:307",
+      "title": "Potwory i Spółka",
+      "kind": "watching",
+      "mediaType": "cartoon",
+      "coverUrl": "data/medialog-covers/01aba37bf16ab43079f49e506e8f6747.jpg",
+      "periods": [
+        {
+          "startDate": "2025-08-26",
+          "endDate": "2025-08-26"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:663",
+      "title": "Biały lotos",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 3,
+      "coverUrl": "data/medialog-covers/889e5a36727dc88e16af05539f2498a8.jpg",
+      "periods": [
+        {
+          "startDate": "2025-08-29",
+          "endDate": "2025-09-06"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:73",
+      "title": "Brom (wyd. II)",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/f7289eda6c27d0ee9905cffc6bb06cd2.jpg",
+      "periods": [
+        {
+          "startDate": "2025-08-30",
+          "endDate": "2025-08-31"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:87",
+      "title": "Madly, Deeply",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/6e54a5284ea6c136e08fc6f1242168c9.jpg",
+      "periods": [
+        {
+          "startDate": "2025-08-30",
+          "endDate": "2025-08-31"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:788",
+      "title": "Huragan Katrina",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/28c6c95a0c458f8979c6a6ed72f808f3.jpg",
+      "periods": [
+        {
+          "startDate": "2025-08-31",
+          "endDate": "2025-09-01"
+        },
+        {
+          "startDate": "2025-09-05",
+          "endDate": "2025-09-05"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1704",
+      "title": "Poker Face",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 2,
+      "coverUrl": "data/medialog-covers/885da0e6779a16321bfbf5ab01ae4ade.jpg",
+      "periods": [
+        {
+          "startDate": "2025-09-07",
+          "endDate": "2025-09-08"
+        },
+        {
+          "startDate": "2025-09-12",
+          "endDate": "2025-09-13"
+        },
+        {
+          "startDate": "2025-09-24",
+          "endDate": "2025-10-01"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:306",
+      "title": "Kevin sam w domu",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/2aec81b4cc1401c650a7fa43f3f87454.jpg",
+      "periods": [
+        {
+          "startDate": "2025-09-09",
+          "endDate": "2025-09-09"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:305",
+      "title": "Iniemamocni",
+      "kind": "watching",
+      "mediaType": "cartoon",
+      "coverUrl": "data/medialog-covers/bf2aab7194092630e1ec2190a50d96ac.jpg",
+      "periods": [
+        {
+          "startDate": "2025-09-10",
+          "endDate": "2025-09-11"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:75",
+      "title": "Palestyna: wojna stuletnia. Opowieść o kolonializmie i oporze",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/a239d39cf94dc328a313279f66855bec.jpg",
+      "periods": [
+        {
+          "startDate": "2025-09-10",
+          "endDate": "2025-09-19"
+        },
+        {
+          "startDate": "2025-09-28",
+          "endDate": "2025-09-30"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:751",
+      "title": "Fleabag",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/41c592d6cf02ab06ae9999a1134d35a7.jpg",
+      "periods": [
+        {
+          "startDate": "2025-09-13",
+          "endDate": "2025-09-15"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1705",
+      "title": "Więzienie Oz",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/170ba0e9b45d15c60b392ae0c6faedfe.jpg",
+      "periods": [
+        {
+          "startDate": "2025-09-14",
+          "endDate": "2025-09-14"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:304",
+      "title": "Iniemamocni 2",
+      "kind": "watching",
+      "mediaType": "cartoon",
+      "coverUrl": "data/medialog-covers/94157caceff4940c07ea331deb2fd8e4.jpg",
+      "periods": [
+        {
+          "startDate": "2025-09-15",
+          "endDate": "2025-09-15"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:303",
+      "title": "Wielka 6",
+      "kind": "watching",
+      "mediaType": "cartoon",
+      "coverUrl": "data/medialog-covers/24805f7f4ebf306e810ae5359a6b5c64.jpg",
+      "periods": [
+        {
+          "startDate": "2025-09-16",
+          "endDate": "2025-09-16"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1709",
+      "title": "Fleabag",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 2,
+      "coverUrl": "data/medialog-covers/3f9c1bab7e11a0dc60b88f9974650432.jpg",
+      "periods": [
+        {
+          "startDate": "2025-09-16",
+          "endDate": "2025-09-16"
+        },
+        {
+          "startDate": "2025-09-22",
+          "endDate": "2025-09-23"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:302",
+      "title": "Piorun",
+      "kind": "watching",
+      "mediaType": "cartoon",
+      "coverUrl": "data/medialog-covers/9c848f04b1116fb46625a43ca67fbde2.jpg",
+      "periods": [
+        {
+          "startDate": "2025-09-17",
+          "endDate": "2025-09-17"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1113",
+      "title": "1670",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 2,
+      "coverUrl": "data/medialog-covers/1086e6f2fc2dffcf4c0f32444ee2a909.jpg",
+      "periods": [
+        {
+          "startDate": "2025-09-19",
+          "endDate": "2025-09-23"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:68",
+      "title": "Brom 2 (wyd. II)",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/5299340c9807479ff9ad3dd406c486a9.jpg",
+      "periods": [
+        {
+          "startDate": "2025-09-20",
+          "endDate": "2025-09-21"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:49",
+      "title": "Eden",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/17396484f998e13c36990de8b6c23417.jpg",
+      "periods": [
+        {
+          "startDate": "2025-09-22",
+          "endDate": "2025-09-24"
+        },
+        {
+          "startDate": "2025-09-25",
+          "endDate": "2025-09-26"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:88",
+      "title": "Brom XXX",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/2a65c51f8806f690640ccbb2c6422f39.jpg",
+      "periods": [
+        {
+          "startDate": "2025-09-27",
+          "endDate": "2025-09-27"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:80",
+      "title": "Rozmyślania",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/10264eb1e3a5400c2dfcd8a754481d16.jpg",
+      "periods": [
+        {
+          "startDate": "2025-10-01",
+          "endDate": "2025-10-07"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1707",
+      "title": "Takopi",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/98d509980a53c7d0bbcb2f02ba689293.jpg",
+      "periods": [
+        {
+          "startDate": "2025-10-02",
+          "endDate": "2025-10-03"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1122",
+      "title": "Alice in Borderland",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 3,
+      "coverUrl": "data/medialog-covers/f9d9e1193346f34d282a9a5764925a23.jpg",
+      "periods": [
+        {
+          "startDate": "2025-10-03",
+          "endDate": "2025-10-08"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:861",
+      "title": "Nieznany Numer",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/5a3827656849bdae7a093eb4d3f56ec1.jpg",
+      "periods": [
+        {
+          "startDate": "2025-10-04",
+          "endDate": "2025-10-04"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1708",
+      "title": "Solo Leveling",
+      "kind": "watching",
+      "mediaType": "anime",
+      "coverUrl": "data/medialog-covers/fc87e9c0eb52ad7424bc1114d4ac9767.jpg",
+      "periods": [
+        {
+          "startDate": "2025-10-05",
+          "endDate": "2025-10-15"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:808",
+      "title": "Kulinarna walka klas",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/9ec2d6599de5c60619e07d90b3732c41.jpg",
+      "periods": [
+        {
+          "startDate": "2025-10-08",
+          "endDate": "2025-10-08"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:45",
+      "title": "Kobieta z wydm",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/8d1fe6f02412ce30653f221c1699f8ba.jpg",
+      "periods": [
+        {
+          "startDate": "2025-10-08",
+          "endDate": "2025-10-16"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:757",
+      "title": "Glina",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/86a1154b0208d891812294142fefd580.jpg",
+      "periods": [
+        {
+          "startDate": "2025-10-09",
+          "endDate": "2025-10-22"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:93",
+      "title": "Podziemie. Największy zamach w Tokio",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/14bce57e27563b06028be61519aea538.jpg",
+      "periods": [
+        {
+          "startDate": "2025-10-17",
+          "endDate": "2025-10-24"
+        },
+        {
+          "startDate": "2025-10-28",
+          "endDate": "2025-10-31"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:301",
+      "title": "Moj Ojciec – Zabojca Btk",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/13f2e94348d313db086796ab1480aa03.jpg",
+      "periods": [
+        {
+          "startDate": "2025-10-19",
+          "endDate": "2025-10-19"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:300",
+      "title": "Prawdziwy ból",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/4c93a42b15e6249f74edbff0a6a89df2.jpg",
+      "periods": [
+        {
+          "startDate": "2025-10-23",
+          "endDate": "2025-10-23"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1556",
+      "title": "Glina",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 2,
+      "coverUrl": "data/medialog-covers/7c081568389e9714e389b399611894bf.jpg",
+      "periods": [
+        {
+          "startDate": "2025-10-24",
+          "endDate": "2025-11-06"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:95",
+      "title": "Córka",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/3db886d03d1e005b6ffa8884167c41c3.jpg",
+      "periods": [
+        {
+          "startDate": "2025-10-25",
+          "endDate": "2025-10-27"
+        },
+        {
+          "startDate": "2025-10-27",
+          "endDate": "2025-10-27"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1691",
+      "title": "Eden",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/0d3e4cb0e833930ba214b71b85469e53.jpg",
+      "periods": [
+        {
+          "startDate": "2025-11-01",
+          "endDate": "2025-11-02"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1526",
+      "title": "Berserk",
+      "kind": "watching",
+      "mediaType": "anime",
+      "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/591cad77cf96a2ab4b3689d7aa8cc296.jpg",
+      "periods": [
+        {
+          "startDate": "2025-11-01",
+          "endDate": "2025-11-03"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:299",
+      "title": "Idealna Sasiadka",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/5b3ab94110c4542d5fc4fdc48c3095aa.jpg",
+      "periods": [
+        {
+          "startDate": "2025-11-02",
+          "endDate": "2025-11-02"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1055",
+      "title": "Waco",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/d52c4600fd7c98d9785303cda0049b21.jpg",
+      "periods": [
+        {
+          "startDate": "2025-11-02",
+          "endDate": "2025-11-02"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1692",
+      "title": "Eden",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/6b9a2f3c3107c8b24a5d9b4d951770e9.jpg",
+      "periods": [
+        {
+          "startDate": "2025-11-03",
+          "endDate": "2025-11-04"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:46",
+      "title": "A ja zem jej powiedziala...",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/aa9b1f0268d59dbf60cc5446d2920181.jpg",
+      "periods": [
+        {
+          "startDate": "2025-11-05",
+          "endDate": "2025-11-07"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:724",
+      "title": "Dexter Zmartwychwstanie",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/00d187faf281cc4e8e0fee530ed8b6e1.jpg",
+      "periods": [
+        {
+          "startDate": "2025-11-07",
+          "endDate": "2025-11-11"
+        },
+        {
+          "startDate": "2025-11-15",
+          "endDate": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:60",
+      "title": "Wypadek na polowaniu. Prawdziwa opowieść o zbrodni i poezji.",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/eab8f45cba2ffa5ca3d8b4e101941e6e.jpg",
+      "periods": [
+        {
+          "startDate": "2025-11-08",
+          "endDate": "2025-11-09"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:84",
+      "title": "I góry odpowiedziały echem",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/bb54a322e6dd6b57e0582db246247b9a.jpg",
+      "periods": [
+        {
+          "startDate": "2025-11-10",
+          "endDate": "2025-11-22"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:298",
+      "title": "Ralph Demolka",
+      "kind": "watching",
+      "mediaType": "cartoon",
+      "coverUrl": "data/medialog-covers/6a7c138b5e9c00b914cf952593343f4d.jpg",
+      "periods": [
+        {
+          "startDate": "2025-11-12",
+          "endDate": "2025-11-12"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:297",
+      "title": "Ralph Demolka w Internecie",
+      "kind": "watching",
+      "mediaType": "cartoon",
+      "coverUrl": "data/medialog-covers/af8dbd9d22c437223003ba4c0d8a6144.jpg",
+      "periods": [
+        {
+          "startDate": "2025-11-13",
+          "endDate": "2025-11-13"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:296",
+      "title": "Ron Usterka",
+      "kind": "watching",
+      "mediaType": "cartoon",
+      "coverUrl": "data/medialog-covers/5315fd92419c0f7f6781b17169d5043c.jpg",
+      "periods": [
+        {
+          "startDate": "2025-11-14",
+          "endDate": "2025-11-14"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1693",
+      "title": "W stronę lasu świetlików",
+      "kind": "watching",
+      "mediaType": "anime",
+      "coverUrl": "https://image.tmdb.org/t/p/w342/679ZPF55mEPiHnzTIW1A5dmo7G2.jpg",
+      "periods": [
+        {
+          "startDate": "2025-11-15",
+          "endDate": "2025-11-15"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1697",
+      "title": "Glina. Nowy rozdział",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 1,
+      "coverUrl": "https://image.tmdb.org/t/p/w342/bRojnurH5NfaOiXAZGGbQ8RTbv9.jpg",
+      "periods": [
+        {
+          "startDate": "2025-11-20",
+          "endDate": "2025-11-25"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:295",
+      "title": "Powrót do marzeń",
+      "kind": "watching",
+      "mediaType": "anime",
+      "coverUrl": "data/medialog-covers/2bc718de6064b61240ae69e97ebfef2b.jpg",
+      "periods": [
+        {
+          "startDate": "2025-11-21",
+          "endDate": "2025-11-21"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:48",
+      "title": "Miejski Pustelnik",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/a188bb37e4e3266de6206bdd11cbd7c2.jpg",
+      "periods": [
+        {
+          "startDate": "2025-11-23",
+          "endDate": "2025-11-30"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1563",
+      "title": "Tulsa King",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 3,
+      "coverUrl": "data/medialog-covers/a420e6d9685404cda1ca514757056f90.jpg",
+      "periods": [
+        {
+          "startDate": "2025-11-26",
+          "endDate": "2025-11-29"
+        },
+        {
+          "startDate": "2025-12-01",
+          "endDate": "2025-12-07"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:294",
+      "title": "Ósma Klasa",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/45fec065f3bc9e143d89beeef7ebc92c.jpg",
+      "periods": [
+        {
+          "startDate": "2025-12-01",
+          "endDate": "2025-12-01"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:76",
+      "title": "Wojna makowa",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/0f2dd850cba5d822b001f2b8f844b048.jpg",
+      "periods": [
+        {
+          "startDate": "2025-12-01",
+          "endDate": "2025-12-17"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1696",
+      "title": "Chirurdzy",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 18,
+      "coverUrl": "data/medialog-covers/de782344524ca12da29bbc067a6ff1ac.jpg",
+      "periods": [
+        {
+          "startDate": "2025-12-08",
+          "endDate": "2025-12-10"
+        },
+        {
+          "startDate": "2025-12-13",
+          "endDate": "2025-12-13"
+        },
+        {
+          "startDate": "2025-12-21",
+          "endDate": "2025-12-22"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:293",
+      "title": "Wszystkie Puste Pokoje",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/2029804fa769b4f684baa98cf6176d76.jpg",
+      "periods": [
+        {
+          "startDate": "2025-12-09",
+          "endDate": "2025-12-09"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:292",
+      "title": "Tajni i fajni",
+      "kind": "watching",
+      "mediaType": "cartoon",
+      "coverUrl": "data/medialog-covers/e69b713662af113646e3e0582174ad5c.jpg",
+      "periods": [
+        {
+          "startDate": "2025-12-11",
+          "endDate": "2025-12-11"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:291",
+      "title": "Rambo",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/e8f64184272fbc8ce7603ad22d10b1e9.jpg",
+      "periods": [
+        {
+          "startDate": "2025-12-14",
+          "endDate": "2025-12-15"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:698",
+      "title": "Continental",
+      "kind": "watching",
+      "mediaType": "series",
+      "coverUrl": "data/medialog-covers/71f96088c8a1bdf62c7134e175ab3bcd.jpg",
+      "periods": [
+        {
+          "startDate": "2025-12-16",
+          "endDate": "2025-12-20"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:89",
+      "title": "Twoje imię",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/a7b8edc5398323ed25537f702a5ff043.jpg",
+      "periods": [
+        {
+          "startDate": "2025-12-18",
+          "endDate": "2025-12-19"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1694",
+      "title": "Twoje imię",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/0e0c48eac0b45af81588a592790ee7a8.jpg",
+      "periods": [
+        {
+          "startDate": "2025-12-19",
+          "endDate": "2025-12-20"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1695",
+      "title": "Twoje imię",
+      "kind": "reading",
+      "mediaType": "comic",
+      "coverUrl": "data/medialog-covers/59c4f4175eac2fd322e20f1a04a4dd37.jpg",
+      "periods": [
+        {
+          "startDate": "2025-12-20",
+          "endDate": "2025-12-21"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1652",
+      "title": "Rok, w którym nie umarłem",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/5aee04f962b72249d06ac73433c2ef09.jpg",
+      "periods": [
+        {
+          "startDate": "2025-12-21",
+          "endDate": "2025-12-22"
+        },
+        {
+          "startDate": "2025-12-28",
+          "endDate": "2025-12-31"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:44",
+      "title": "Armagedon w retrospektywie",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/4e289e9d52c49b75cc49acec8bd141eb.jpg",
+      "periods": [
+        {
+          "startDate": "2025-12-23",
+          "endDate": "2025-12-27"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:1503",
+      "title": "Stranger Things",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 5,
+      "coverUrl": "data/medialog-covers/b99d3d97282f09e55a925b1adec11d6a.jpg",
+      "periods": [
+        {
+          "startDate": "2025-12-28",
+          "endDate": "2025-12-31"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:290",
+      "title": "Zwierzogród 2",
+      "kind": "watching",
+      "mediaType": "cartoon",
+      "coverUrl": "data/medialog-covers/067e9eeb6242bd8c32195eebe234423c.jpg",
+      "periods": [
+        {
+          "startDate": "2025-12-30",
+          "endDate": "2025-12-30"
+        }
+      ]
+    }
+  ]
+}
