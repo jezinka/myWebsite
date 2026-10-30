@@ -313,6 +313,20 @@
           "endDate": "2026-10-29"
         }
       ]
+    },
+    {
+      "id": "medialog:season:2796",
+      "title": "Reacher",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 4,
+      "coverUrl": "data/medialog-covers/2790c09814c999eebc26672e9cfaf2f7.jpg",
+      "periods": [
+        {
+          "startDate": "2026-10-29",
+          "endDate": "2026-10-30"
+        }
+      ]
     }
   ]
 }
