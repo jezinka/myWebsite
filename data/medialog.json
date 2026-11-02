@@ -16,6 +16,20 @@
           "endDate": "2026-11-08"
         }
       ]
+    },
+    {
+      "id": "medialog:season:2811",
+      "title": "Moje szczęśliwe małżeństwo",
+      "kind": "watching",
+      "mediaType": "anime",
+      "seasonNumber": 0,
+      "coverUrl": "data/medialog-covers/3b159b582df249fed4fca71166d8790c.jpg",
+      "periods": [
+        {
+          "startDate": "2026-11-02",
+          "endDate": "2026-11-02"
+        }
+      ]
     }
   ]
 }
