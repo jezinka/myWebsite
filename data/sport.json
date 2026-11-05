@@ -2,5 +2,19 @@
   "schemaVersion": 1,
   "source": "sport",
   "month": "2026-11",
-  "items": []
+  "items": [
+    {
+      "id": "sport:activity:fit_1793808105000",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 53,
+      "periods": [
+        {
+          "startDate": "2026-11-04",
+          "endDate": "2026-11-04"
+        }
+      ]
+    }
+  ]
 }

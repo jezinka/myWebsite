@@ -1434,6 +1434,19 @@
           "endDate": "2026-10-29"
         }
       ]
+    },
+    {
+      "id": "sport:activity:fit_1793808105000",
+      "title": "Joga",
+      "kind": "sport",
+      "icon": "/icons/icons8-yoga-100.png",
+      "durationMinutes": 53,
+      "periods": [
+        {
+          "startDate": "2026-11-04",
+          "endDate": "2026-11-04"
+        }
+      ]
     }
   ]
 }
