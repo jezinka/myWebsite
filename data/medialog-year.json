@@ -2405,6 +2405,19 @@
           "endDate": "2026-11-02"
         }
       ]
+    },
+    {
+      "id": "medialog:season:2829",
+      "title": "Odwaga bycia nielubianym. Japoński fenomen, który pokazuje jak być wolnym i odmienić własne życie",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/b7f6e9fb335a2411d2a65e0044a861a6.jpg",
+      "periods": [
+        {
+          "startDate": "2026-11-03",
+          "endDate": "2026-11-05"
+        }
+      ]
     }
   ]
 }
