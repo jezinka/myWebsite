@@ -74,6 +74,20 @@
           "endDate": "2026-11-05"
         }
       ]
+    },
+    {
+      "id": "medialog:season:2830",
+      "title": "Znieczulenie",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/223b1cffd144b0f45f1c698ef070e6b9.jpg",
+      "periods": [
+        {
+          "startDate": "2026-11-08",
+          "endDate": "2026-11-09"
+        }
+      ]
     }
   ]
 }
