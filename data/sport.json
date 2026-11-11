@@ -17,11 +17,12 @@
       ]
     },
     {
-      "id": "sport:activity:manual_1794385864516_wqhnn",
+      "id": "sport:activity:manual_1794394692683_8nkxe",
       "title": "Ring Fit",
       "kind": "sport",
       "icon": "/icons/icons8-nintendo-switch-logo-100.png",
       "durationMinutes": 18,
+      "distanceKm": 1.2,
       "periods": [
         {
           "startDate": "2026-11-11",
