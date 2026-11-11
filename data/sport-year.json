@@ -1264,6 +1264,20 @@
       ]
     },
     {
+      "id": "sport:activity:manual_1794394873673_pj00x",
+      "title": "Rower",
+      "kind": "sport",
+      "icon": "/icons/icons8-cycling-100.png",
+      "durationMinutes": 15,
+      "distanceKm": 2,
+      "periods": [
+        {
+          "startDate": "2026-09-24",
+          "endDate": "2026-09-24"
+        }
+      ]
+    },
+    {
       "id": "sport:activity:gps_1790431624000",
       "title": "Rolki",
       "kind": "sport",
@@ -1295,6 +1309,20 @@
       "kind": "sport",
       "icon": "/icons/icons8-roller-skating-100.png",
       "distanceKm": 13.9,
+      "periods": [
+        {
+          "startDate": "2026-10-01",
+          "endDate": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1794394851574_r8ohe",
+      "title": "Rower",
+      "kind": "sport",
+      "icon": "/icons/icons8-cycling-100.png",
+      "durationMinutes": 15,
+      "distanceKm": 2,
       "periods": [
         {
           "startDate": "2026-10-01",
