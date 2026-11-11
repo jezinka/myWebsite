@@ -2432,6 +2432,19 @@
           "endDate": "2026-11-09"
         }
       ]
+    },
+    {
+      "id": "medialog:season:2831",
+      "title": "Zobaczysz wszystko",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "https://image.tmdb.org/t/p/w342/jIW5nxjWLcfZvYBLNTiGi5me3Vw.jpg",
+      "periods": [
+        {
+          "startDate": "2026-11-11",
+          "endDate": "2026-11-11"
+        }
+      ]
     }
   ]
 }
