@@ -4,6 +4,20 @@
   "month": "2026-11",
   "items": [
     {
+      "id": "sport:activity:manual_1794415961766_qs7qz",
+      "title": "Rower",
+      "kind": "sport",
+      "icon": "/icons/icons8-cycling-100.png",
+      "durationMinutes": 15,
+      "distanceKm": 4,
+      "periods": [
+        {
+          "startDate": "2026-11-02",
+          "endDate": "2026-11-02"
+        }
+      ]
+    },
+    {
       "id": "sport:activity:fit_1793808105000",
       "title": "Joga",
       "kind": "sport",
@@ -13,6 +27,20 @@
         {
           "startDate": "2026-11-04",
           "endDate": "2026-11-04"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1794415948725_uddxp",
+      "title": "Rower",
+      "kind": "sport",
+      "icon": "/icons/icons8-cycling-100.png",
+      "durationMinutes": 15,
+      "distanceKm": 4,
+      "periods": [
+        {
+          "startDate": "2026-11-09",
+          "endDate": "2026-11-09"
         }
       ]
     },
