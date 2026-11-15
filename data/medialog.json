@@ -101,6 +101,19 @@
           "endDate": "2026-11-11"
         }
       ]
+    },
+    {
+      "id": "medialog:season:2832",
+      "title": "Powrót do przyszłości III",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "https://image.tmdb.org/t/p/w342/9cGV7KgXvjDJ4owybeiPgyL2UOw.jpg",
+      "periods": [
+        {
+          "startDate": "2026-11-13",
+          "endDate": "2026-11-13"
+        }
+      ]
     }
   ]
 }
