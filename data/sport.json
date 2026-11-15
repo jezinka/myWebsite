@@ -57,6 +57,19 @@
           "endDate": "2026-11-11"
         }
       ]
+    },
+    {
+      "id": "sport:activity:fit_1794737660000",
+      "title": "Ring Fit",
+      "kind": "sport",
+      "icon": "/icons/icons8-nintendo-switch-logo-100.png",
+      "durationMinutes": 25,
+      "periods": [
+        {
+          "startDate": "2026-11-15",
+          "endDate": "2026-11-15"
+        }
+      ]
     }
   ]
 }
