@@ -1331,6 +1331,20 @@
       ]
     },
     {
+      "id": "sport:activity:manual_1794739893614_1ngg9",
+      "title": "Rower",
+      "kind": "sport",
+      "icon": "/icons/icons8-cycling-100.png",
+      "durationMinutes": 15,
+      "distanceKm": 4,
+      "periods": [
+        {
+          "startDate": "2026-10-05",
+          "endDate": "2026-10-05"
+        }
+      ]
+    },
+    {
       "id": "sport:activity:gps_1791298054000",
       "title": "Rolki",
       "kind": "sport",
@@ -1357,6 +1371,20 @@
       ]
     },
     {
+      "id": "sport:activity:manual_1794739907827_fbbcg",
+      "title": "Rower",
+      "kind": "sport",
+      "icon": "/icons/icons8-cycling-100.png",
+      "durationMinutes": 15,
+      "distanceKm": 4,
+      "periods": [
+        {
+          "startDate": "2026-10-12",
+          "endDate": "2026-10-12"
+        }
+      ]
+    },
+    {
       "id": "sport:activity:gps_1791903373000",
       "title": "Rolki",
       "kind": "sport",
@@ -1379,6 +1407,20 @@
         {
           "startDate": "2026-10-14",
           "endDate": "2026-10-14"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1794739940731_7jyzt",
+      "title": "Rower",
+      "kind": "sport",
+      "icon": "/icons/icons8-cycling-100.png",
+      "durationMinutes": 15,
+      "distanceKm": 4,
+      "periods": [
+        {
+          "startDate": "2026-10-19",
+          "endDate": "2026-10-19"
         }
       ]
     },
@@ -1418,6 +1460,20 @@
         {
           "startDate": "2026-10-25",
           "endDate": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": "sport:activity:manual_1794739948149_q3n7v",
+      "title": "Rower",
+      "kind": "sport",
+      "icon": "/icons/icons8-cycling-100.png",
+      "durationMinutes": 15,
+      "distanceKm": 4,
+      "periods": [
+        {
+          "startDate": "2026-10-26",
+          "endDate": "2026-10-26"
         }
       ]
     },
