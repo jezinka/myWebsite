@@ -55,10 +55,6 @@
         {
           "startDate": "2026-11-02",
           "endDate": "2026-11-07"
-        },
-        {
-          "startDate": "2026-11-03",
-          "endDate": "2026-11-03"
         }
       ]
     },
@@ -72,6 +68,10 @@
         {
           "startDate": "2026-11-03",
           "endDate": "2026-11-05"
+        },
+        {
+          "startDate": "2026-11-10",
+          "endDate": "2026-11-12"
         }
       ]
     },
@@ -85,7 +85,11 @@
       "periods": [
         {
           "startDate": "2026-11-08",
-          "endDate": "2026-11-09"
+          "endDate": "2026-11-12"
+        },
+        {
+          "startDate": "2026-11-15",
+          "endDate": "2026-11-15"
         }
       ]
     },
@@ -112,6 +116,19 @@
         {
           "startDate": "2026-11-13",
           "endDate": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:2833",
+      "title": "Gremliny rozrabiają",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "https://image.tmdb.org/t/p/w342/nYRCYOXIRQYQt9SZakLuI6d21SJ.jpg",
+      "periods": [
+        {
+          "startDate": "2026-11-14",
+          "endDate": "2026-11-14"
         }
       ]
     }
