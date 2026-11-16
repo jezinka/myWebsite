@@ -1586,6 +1586,19 @@
           "endDate": "2026-11-15"
         }
       ]
+    },
+    {
+      "id": "sport:activity:gps_1794847752000",
+      "title": "Rower",
+      "kind": "sport",
+      "icon": "/icons/icons8-cycling-100.png",
+      "distanceKm": 4.2,
+      "periods": [
+        {
+          "startDate": "2026-11-16",
+          "endDate": "2026-11-16"
+        }
+      ]
     }
   ]
 }
