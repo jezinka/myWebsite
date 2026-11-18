@@ -2433,7 +2433,7 @@
         },
         {
           "startDate": "2026-11-15",
-          "endDate": "2026-11-15"
+          "endDate": "2026-11-17"
         }
       ]
     },
@@ -2512,6 +2512,20 @@
         {
           "startDate": "2026-11-17",
           "endDate": "2026-11-18"
+        }
+      ]
+    },
+    {
+      "id": "medialog:season:2838",
+      "title": "Zmora",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/b6189096fe0546ac396da965833993b6.jpg",
+      "periods": [
+        {
+          "startDate": "2026-11-18",
+          "endDate": "2026-11-23"
         }
       ]
     }
