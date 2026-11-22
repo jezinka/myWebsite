@@ -2571,6 +2571,19 @@
           "endDate": "2026-11-22"
         }
       ]
+    },
+    {
+      "id": "medialog:season:2841",
+      "title": "Chrobot. Życie najzwyklejszych ludzi świata",
+      "kind": "reading",
+      "mediaType": "book",
+      "coverUrl": "data/medialog-covers/0b5c685055975830198da33404b517bd.jpg",
+      "periods": [
+        {
+          "startDate": "2026-11-22",
+          "endDate": "2026-11-22"
+        }
+      ]
     }
   ]
 }
