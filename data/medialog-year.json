@@ -2420,6 +2420,32 @@
       ]
     },
     {
+      "id": "medialog:season:2840",
+      "title": "Łasuch",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 1,
+      "coverUrl": "data/medialog-covers/b412bf9cdd8dd2880dba8e3845ce8db3.jpg",
+      "periods": [
+        {
+          "startDate": "2026-11-04",
+          "endDate": "2026-11-04"
+        },
+        {
+          "startDate": "2026-11-13",
+          "endDate": "2026-11-15"
+        },
+        {
+          "startDate": "2026-11-18",
+          "endDate": "2026-11-18"
+        },
+        {
+          "startDate": "2026-11-22",
+          "endDate": "2026-11-22"
+        }
+      ]
+    },
+    {
       "id": "medialog:season:2830",
       "title": "Znieczulenie",
       "kind": "watching",
