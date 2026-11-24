@@ -240,6 +240,19 @@
           "endDate": "2026-11-24"
         }
       ]
+    },
+    {
+      "id": "medialog:season:2779",
+      "title": "Normal",
+      "kind": "watching",
+      "mediaType": "movie",
+      "coverUrl": "data/medialog-covers/636ac8b0b5017618ee259720fc61f60a.jpg",
+      "periods": [
+        {
+          "startDate": "2026-11-24",
+          "endDate": "2026-11-24"
+        }
+      ]
     }
   ]
 }
