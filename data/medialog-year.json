@@ -2597,6 +2597,20 @@
           "endDate": "2026-11-25"
         }
       ]
+    },
+    {
+      "id": "medialog:season:2843",
+      "title": "Z Archiwum X",
+      "kind": "watching",
+      "mediaType": "series",
+      "seasonNumber": 5,
+      "coverUrl": "data/medialog-covers/660d0875136c6a4048dca6f2cc678c37.jpg",
+      "periods": [
+        {
+          "startDate": "2026-11-27",
+          "endDate": "2026-11-27"
+        }
+      ]
     }
   ]
 }
